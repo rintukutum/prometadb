@@ -16,83 +16,41 @@
 <div class="header">
 <a href="#default" class="logo">ProMetaDB</a>
 <div class="header-right">
-<a class="active" href="index.html">Home</a>
-<a href="#contact"></a>
+<a class="active" href="index.html">About</a>
+<a href="data.html">Data</a>
 <a href="#about">Dev team</a>
 </div>
 </div>
 
-<script>
 
-function openPage(pageName, elmnt, color) {
-    // Hide all elements with class="tabcontent" by default */
-    var i, tabcontent, tablinks;
-    tabcontent = document.getElementsByClassName("tabcontent");
-    for (i = 0; i < tabcontent.length; i++) {
-        tabcontent[i].style.display = "none";
+<div>
+<h3>Introduction</h3>
+
+<style type="text/css">
+
+    h3{
+        text-align: left;
+        padding: inherit;
     }
+</style>
 
-    // Remove the background color of all tablinks/buttons
-    tablinks = document.getElementsByClassName("tablink");
-    for (i = 0; i < tablinks.length; i++) {
-        tablinks[i].style.backgroundColor = "";
+<div id="fig01"><img src="Images/Figure-01.png"></div> 
+</div>
+
+<style type="text/css">
+#fig01 img{
+    top: 15px;
+    max-width:500px;
+    max-height:500px;
+    width: auto;
+    height: auto;
+    align-items: center;
+    float: right;
+    padding: inherit;
+     
     }
+</style>
 
-    // Show the specific tab content
-    document.getElementById(pageName).style.display = "block";
-
-    // Add the specific color to the button used to open the tab content
-    elmnt.style.backgroundColor = color;
-}
-
-// Get the element with id="defaultOpen" and click on it
-document.getElementById("defaultOpen").click();     
-
-</script>    
-    
-<div class="tab">
-
-<button class="tablink" onclick="openPage('Data', this, 'lightcoral')">Data</button>
-<button class="tablink" onclick="openPage('pride', this, 'lightcoral')" >PRIDE</button>
-<button class="tablink" onclick="openPage('MassIVE', this, 'lightcoral')">MassIVE</button>
-<button class="tablink" onclick="openPage('PeptideAtlas', this, 'lightcoral')">PeptideAtlas</button>
-<button class="tablink" onclick="openPage('jpost', this, 'lightcoral')">jPOST</button>
-<button class="tablink" onclick="openPage('iProx', this, 'lightcoral')">iProx</button>
-
-<div id="Data" class="tabcontent">
-<h3>Data Summary</h3>
-<p></p>
-</div>
-
-<div id="pride" class="tabcontent">
-<h3>News</h3>
-<p>Some news this fine day!</p>
-</div>
-
-<div id="MassIVE" class="tabcontent">
-<h3>Contact</h3>
-<p>Get in touch, or swing by for a cup of coffee.</p>
-</div>
-
-<div id="PeptideAtlas" class="tabcontent">
-<h3>About</h3>
-<p>Who we are and what we do.</p>
-</div>
-    
-<div id="jpost" class="tabcontent">
-<h3>Jpost data</h3>
-</div>
-
-<div id="jpost" class="tabcontent">
-<h3>Jpost data</h3>
-</div>
-    
-<div id="iProx" class="tabcontent">
-<h3>Jpost data</h3>
-</div>    
-    
-    
-</div> 
 
 
 
