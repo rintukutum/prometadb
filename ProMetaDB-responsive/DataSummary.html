@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>ProMetaDB-Data Summary</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="RanGO Project">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="styles/bootstrap4/bootstrap.min.css">
+<link href="plugins/fontawesome-free-5.0.1/css/fontawesome-all.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
+<link rel="stylesheet" type="text/css" href="plugins/slick-1.8.0/slick.css">
+<link rel="stylesheet" type="text/css" href="styles/portfolio_item_styles.css">
+<link rel="stylesheet" type="text/css" href="styles/portfolio_item_responsive.css">
+</head>
+
+<body>
+
+<div class="super_container">
+	
+	<!-- Header -->
+
+	<header class="header d-flex flex-row justify-content-end align-items-center trans_200">
+		
+		<!-- Logo -->
+		<div class="logo mr-auto">
+			<a href="#">Pro<span>Meta</span>DB</a>
+		</div>
+
+		<!-- Navigation -->
+		<nav class="main_nav justify-self-end text-right">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li class="active"><a href="portfolio_item.html">Data Summary</a></li>
+				<li><a href="#">Metabase</a></li>
+				<li><a href="about.html">Dev team</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+			
+		</nav>
+
+		<!-- Hamburger -->
+		<div class="hamburger_container bez_1">
+			<i class="fas fa-bars trans_200"></i>
+		</div>
+		
+	</header>
+
+	<!-- Menu -->
+
+	<div class="menu_container">
+		<div class="menu menu_mm text-right">
+			<div class="menu_close"><i class="far fa-times-circle trans_200"></i></div>
+			<ul class="menu_mm">
+				<li><a href="#">Home</a></li>
+				<li><a href="portfolio_item.html">Data Summary</a></li>
+				<li><a href="#">Metabase</a></li>
+				<li><a href="about.html">Dev team</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<!-- Home -->
+
+	<div class="home">
+		<div class="home_background_container prlx_parent">
+			<div class="home_background prlx" style="background-image:url(images/portfolio_background.jpg)"></div>
+		</div>
+		
+		<div class="home_title">
+			<h2>Data Summary</h2>
+			<div class="next_section_scroll">
+				<div class="next_section nav_links" data-scroll-to=".portfolio">
+					<i class="fas fa-chevron-down trans_200"></i>
+					<i class="fas fa-chevron-down trans_200"></i>
+				</div>
+			</div>
+		</div>
+	
+	</div>
+
+	<!-- Portfolio -->
+
+	<div class="portfolio">
+		
+		<div class="portfolio_slider_container">
+
+			<!-- Portfolio Slider -->
+			<div class="portfolio_slider">
+				
+				<!-- Slider Item -->
+				<div class="slider_item" style="background-color:#eae7e7">
+					<script src= "https://cdn.zingchart.com/zingchart.min.js"></script>
+                    <script> zingchart.MODULESDIR = "https://cdn.zingchart.com/modules/";
+                        ZC.LICENSE = ["569d52cefae586f634c54f86dc99e6a9","ee6b7db5b51705a13dc2339db3edaf6d"];</script>
+                    <div id='myChart'></div>
+                    <style type="text/css">
+                    @import 'https://fonts.googleapis.com/css?family=Montserrat';
+                    @import 'https://fonts.googleapis.com/css?family=Lato:400'; 
+                    
+                    #myChart {
+                        padding: 10px, 10px, 20px, 10px;
+                        width: 70%;
+                        margin-left: 250px
+                        }
+                        
+                        #myChart-top {box-shadow: 10px 10px 5px 0px rgba(222,222,222,0.9);
+                        /*max-width: 800;*/
+                        }
+                        .zc-ref {display: none;}
+                    </style>
+                    
+                    <script>
+                    var myConfig = {
+                        backgroundColor:'transparent',
+                        type: "bar",
+                        title: {
+                            text: "Data Captured in ProteomeXchange",
+                            align: "left",
+                            fontFamily: 'Lato',
+                            fontSize: 16,
+                            padding: "15",
+                            fontColor : "#1E5D9E",
+                        },
+                        subtitle: {
+                            text: "Count by Number of Projects",
+                            align: "left",
+                            fontFamily: 'Lato',
+                            fontSize: 12,
+                            fontColor: "#777",
+                            padding: "15"
+                        },
+                        legend: {
+                            layout: "x1",
+                            align: 'right',
+                            borderWidth: "0px",
+                            backgroundColor:"transparent",
+                            marker: {
+                                borderRadius: 50,
+                            },
+                            item: {
+                                fontColor: "black"
+                            }
+                        },
+                        plot: {
+                            backgroundColor:'transparent',
+                            marker: {
+                                size: 3.5
+                            },
+                            tooltip:{
+                                visible: false
+                            },
+                            barSpace: "2"
+                        },
+                        plotarea: {
+                            margin: "90 50 50 50"
+                        },
+                        scaleX: {
+                            offsetY: -20,
+                            lineWidth: 0,
+                            padding: 20,
+                            margin: 20,
+                            item: {
+                                padding: 5,
+                                fontColor : "#1E5D9E",
+                                fontFamily: 'Montserrat'
+                            },
+                            tick: {
+                                lineColor: '#797979'
+                            },
+                            guide: {
+                                visible: true,
+                                lineColor : '#454646',
+                                lineStyle: 'dotted',
+                                lineGapSize: '4px',
+                                rules: [
+                                    {
+                                        rule: "%i == 0",
+                                        visible: false
+                                    }
+                                ]
+                            },
+                            values: [' PRIDE',
+                                     'PeptideAtlas',
+                                     ' MassIVE',
+                                     ' jPOST',
+                                     'iProX']
+                        },
+                        scaleY: {
+                            maxValue: 6000,
+                            lineWidth: 0,
+                            item: {
+                                padding: "0 10 0 0",
+                                fontColor : "#1E5D9E",
+                                fontFamily: 'Montserrat'
+                            },
+                            tick: {
+                                lineColor: '#D1D3D4'
+                            },
+                            guide: {
+                                visible: true,
+                                lineColor : '#202021',
+                                lineStyle: 'dotted',
+                                lineGapSize: '4px',
+                                rules: [
+                                    {
+                                        rule: "%i == 0",
+                                        visible: false
+                                    }
+                                ]
+                            }
+                        },
+                        crosshairX : {
+                            lineColor : "#b6b6b6",
+                            trigger : "move",
+                            lineStyle : 'dashed',
+                            marker : {
+                                visible : true,
+                                size : 4
+                            },
+                            scaleLabel : {
+                                bold : true,
+                                backgroundColor : "#eae7e7",
+                                fontColor : "#1E5D9E",
+                                fontSize : "16px",
+                                callout : false,
+                                paddingTop : 2,
+                            },
+                            plotLabel : {
+                                backgroundColor : "white",
+                                borderColor : "#e3e3e3",
+                                borderRadius : "5px",
+                                bold : true,
+                                fontSize : "12px",
+                                fontFamily:"Lato",
+                                fontColor : "#2f2f2f",
+                                textAlign : 'right',
+                                padding : '15px',
+                                shadow : true,
+                                shadowAlpha : 0.2,
+                                shadowBlur : 5,
+                                shadowDistance : 4,
+                                shadowColor : "#a1a1a1",
+                            }
+                        },
+                        series : [
+                            {
+                                text: "Origin",
+                                values: [5836,1600,2000,193, 171,],
+                                backgroundColor: "#00a7ff"
+                            },
+                            {
+                                text: "ProteomeXchange",
+                                values : [5000, 200, 600, 120, 110],
+                                backgroundColor: "#ff016b",
+                            }
+                        ]
+                    };
+                        zingchart.render({ 
+                            id : 'myChart', 
+                            data: {
+                                graphset: [myConfig]
+                            },
+                        });
+                    </script>
+				</div>
+
+				<!-- Slider Item -->
+				<div class="slider_item" style="background-color:#eae7e7">
+					<script src= "https://cdn.zingchart.com/zingchart.min.js"></script>
+                    <script> zingchart.MODULESDIR = "https://cdn.zingchart.com/modules/";
+                    ZC.LICENSE = ["569d52cefae586f634c54f86dc99e6a9","ee6b7db5b51705a13dc2339db3edaf6d"];</script>
+                    
+                    <div id='myChart2'></div>
+                    
+                    <script type="text/javascript">
+                    
+                        var myConfig =         
+                            { backgroundColor:'transparent',
+            "type":"hbar",
+            "font-family":"Arial",
+            "title":{
+                "text":"Human proteome data in public databases  ",
+                "font-family":"Arial",
+                "background-color":"transparent",
+                "font-color":"black",
+                "font-size":"18px"
+            },
+            "labels":[
+                {
+                    "text":"Database",
+                    "font-size":"12px",
+                    "font-color":"black",
+                    "x":"11.5%",
+                    "y":"10%"
+                },
+                {
+                    "text":"No of Projects(Human Data)",
+                    "font-size":"12px",
+                    "font-color":"black",
+                    "x":"20%",
+                    "y":"10%"
+                },
+                
+            ],
+          
+ 
+            "plot":{
+                "bars-overlap":"100%",
+                "borderRadius":8,
+                "hover-state":{
+                    "visible":false
+                },
+                "animation": {
+                    "delay": 300,
+                    "effect": 3,
+                    "speed": "500",
+                    "method": "0",
+                    "sequence": "3"
+                }
+            },
+            "plotarea":{
+                "margin":"60px 20px 20px 140px"
+            },
+            "scale-x":{
+                "line-color":"none",
+                "values":["JPost","iProx","Protein Atlas","MassIVE","Pride"],
+                "tick":{
+                    "visible":false
+                },
+                "guide":{
+                    "visible":false
+                },
+                "item":{
+                    "font-size":"14px",
+                    "padding-right":"20px",
+                    "auto-align":true,
+                    "rules":[
+                        {
+                            "rule":"%i==0",
+                            "font-color":"grey"
+                        },
+                        {
+                            "rule":"%i==1",
+                            "font-color":"grey"
+                        },
+                        {
+                            "rule":"%i==2",
+                            "font-color":"grey"
+                        },
+                        {
+                            "rule":"%i==3",
+                            "font-color":"grey"
+                        },
+                        {
+                            "rule":"%i==4",
+                            "font-color":"grey"
+                        }
+                    ]
+                }
+            },
+            "scale-y":{
+                "visible":false,
+                "guide":{
+                    "visible":false
+                }
+            },
+            "series":[
+                {
+                    "values":[6000,6000,6000,6000,6000],
+                    "bar-width":"40px",
+                    "background-color":"#f2f2f2",
+                    "border-color": "#e8e3e3",
+                    "border-width":2,
+                    "fill-angle":90,
+                    "tooltip":{
+                        "visible":false
+                    }
+                },
+                {
+                    "values":[25,115,200,300,4000],
+                    "bar-width":"32px",
+                    "max-trackers":0,
+                    "value-box":{
+                        "placement":"top-out",
+                        "text":"%v",
+                        "decimals":0,
+                        "font-color":"#A4A4A4",
+                        "font-size":"14px",
+                        "alpha":0.6
+                    },
+                    "rules":[
+                        {
+                            "rule":"%i==0",
+                            "background-color":"#fa743b"
+                        },
+                        {
+                            "rule":"%i==1",
+                            "background-color":"#f8a83e"
+                        },
+                        {
+                            "rule":"%i==2",
+                            "background-color":"#1ba34a"
+                        },
+                        {
+                            "rule":"%i==3",
+                            "background-color":"#739514"
+                        },
+                        {
+                            "rule":"%i==4",
+                            "background-color":"#308ff2"
+                        }
+                    ]
+                }
+            ]
+        };
+                        zingchart.render({ 
+                        id : 'myChart2', 
+                        data : myConfig,
+                        width: 725
+                        }
+                        );
+                    
+                    </script>
+                    
+                    <style type="text/css">
+                    #myChart2 {
+                        padding: 20px;
+                        width: 70%;
+                        margin-left: 400px
+                        }
+                    
+                    </style>
+					
+                
+                    </div>
+
+			</div>
+            <div class="Research Goals" style="display: block;overflow: hidden; text-align: justify; padding:20px">
+            <p>Despite the ongoing refinement of the human proteome, there are still a lot of missing or unexplored regions in the proteome which has sufficient evidence at the transcript level. This gap in the knowledge of proteome can be filled by studying proteoforms that majorly arise from sequence polymorphism, alternative splicing and proteolysis. Exploring proteoforms will provide insights into the fundamental working of biological systems as well as could explain disease inception.</p>
+                
+            </div>
+		</div>
+		
+	</div>
+    
+
+	<!-- Footer -->
+
+		<footer class="footer">
+		<div class="container">
+			<div class="row">
+				
+				<div class="col-lg-4">
+
+					<!-- Footer Intro -->
+					<div class="footer_intro">
+
+						<!-- Logo -->
+						<div class="logo footer_logo">
+							<a href="#">Pro<span>META</span>DB</a>
+						</div>
+
+						<p>An unified  meta data resource for accessing proteomic data.</p>
+						
+						<!-- Copyright -->
+						<div class="footer_cr"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This site is developed by DD-lab, <a href="https://www.igib.res.in/">CSIR Institute of genomics and Integrative Biology,</a> New Delhi, India. </div>
+
+					</div>
+
+				</div>
+				
+				<!-- Footer Services -->
+				<div class="col-lg-2">
+
+					<div class="footer_col">
+						<div class="footer_col_title" style="text-align: justify;">Research</div>
+						<ul>
+							<li><a href="#">Google Scholar</a></li>
+							<li><a href="#">Github</a></li>
+						</ul>
+					</div>
+					
+
+				</div>
+
+			</div>
+
+		</div>
+	</footer>
+</div>
+
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="styles/bootstrap4/popper.js"></script>
+<script src="styles/bootstrap4/bootstrap.min.js"></script>
+<script src="plugins/greensock/TweenMax.min.js"></script>
+<script src="plugins/greensock/TimelineMax.min.js"></script>
+<script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
+<script src="plugins/greensock/animation.gsap.min.js"></script>
+<script src="plugins/greensock/ScrollToPlugin.min.js"></script>
+<script src="plugins/slick-1.8.0/slick.js"></script>
+<script src="plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+<script src="plugins/scrollTo/jquery.scrollTo.min.js"></script>
+<script src="plugins/easing/easing.js"></script>
+<script src="js/portfolio_item_custom.js"></script>
+</body>
+
+</html>
