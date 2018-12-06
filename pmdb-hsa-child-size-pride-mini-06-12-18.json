@@ -1836,7 +1836,7 @@
 },
 {
 "name": "PMDX000740",
-"children": [{"name": "PXD000740", "size":32.418615461}
+"children": [{"name": "PXD000740", "size":32}
 ]
 },
 {
@@ -1908,7 +1908,7 @@
 },
 {
 "name": "PMDX000752",
-"children": [{"name": "PXD000752", "size":32.823318946}
+"children": [{"name": "PXD000752", "size":33}
 ]
 },
 {
@@ -2009,7 +2009,7 @@
 },
 {
 "name": "PMDX000815",
-"children": [{"name": "PXD000815", "size":876.453687601}
+"children": [{"name": "PXD000815", "size":876}
 ]
 },
 {
@@ -2044,7 +2044,7 @@
 },
 {
 "name": "PMDX000861",
-"children": [{"name": "PXD000861", "size":37.441032758}
+"children": [{"name": "PXD000861", "size":37}
 ]
 },
 {
@@ -2069,12 +2069,12 @@
 },
 {
 "name": "PMDX000883",
-"children": [{"name": "PXD000883", "size":112.536311453}
+"children": [{"name": "PXD000883", "size":113}
 ]
 },
 {
 "name": "PMDX000895",
-"children": [{"name": "PXD000895", "size":75.914274463}
+"children": [{"name": "PXD000895", "size":76}
 ]
 },
 {
@@ -2112,7 +2112,7 @@
 },
 {
 "name": "PMDX000921",
-"children": [{"name": "PXD000921", "size":10.098371922}
+"children": [{"name": "PXD000921", "size":10}
 ]
 },
 {
@@ -2122,7 +2122,7 @@
 },
 {
 "name": "PMDX000930",
-"children": [{"name": "PXD000930", "size":39.113684295}
+"children": [{"name": "PXD000930", "size":39}
 ]
 },
 {
@@ -2475,7 +2475,7 @@
 },
 {
 "name": "PMDX001085",
-"children": [{"name": "PXD001085", "size":59.771297628}
+"children": [{"name": "PXD001085", "size":60}
 ]
 },
 {
@@ -2645,7 +2645,7 @@
 },
 {
 "name": "PMDX001189",
-"children": [{"name": "PXD001189", "size":163.492968361}
+"children": [{"name": "PXD001189", "size":163}
 ]
 },
 {
@@ -3757,12 +3757,12 @@
 },
 {
 "name": "PMDX001581",
-"children": [{"name": "PXD001581", "size":34.995051972}
+"children": [{"name": "PXD001581", "size":35}
 ]
 },
 {
 "name": "PMDX001582",
-"children": [{"name": "PXD001582", "size":159.562013016}
+"children": [{"name": "PXD001582", "size":160}
 ]
 },
 {
@@ -3790,12 +3790,12 @@
 },
 {
 "name": "PMDX001598",
-"children": [{"name": "PXD001598", "size":40.872666208}
+"children": [{"name": "PXD001598", "size":41}
 ]
 },
 {
 "name": "PMDX001603",
-"children": [{"name": "PXD001603", "size":127.114920618}
+"children": [{"name": "PXD001603", "size":127}
 ]
 },
 {
@@ -3815,7 +3815,7 @@
 },
 {
 "name": "PMDX001620",
-"children": [{"name": "PXD001620", "size":27.227267707}
+"children": [{"name": "PXD001620", "size":27}
 ]
 },
 {
@@ -3825,7 +3825,7 @@
 },
 {
 "name": "PMDX001645",
-"children": [{"name": "PXD001645", "size":18.65068667}
+"children": [{"name": "PXD001645", "size":19}
 ]
 },
 {
@@ -3865,12 +3865,12 @@
 },
 {
 "name": "PMDX001674",
-"children": [{"name": "PXD001674", "size":39.138495867}
+"children": [{"name": "PXD001674", "size":39}
 ]
 },
 {
 "name": "PMDX001675",
-"children": [{"name": "PXD001675", "size":18.950754405}
+"children": [{"name": "PXD001675", "size":19}
 ]
 },
 {
@@ -3905,7 +3905,7 @@
 },
 {
 "name": "PMDX001689",
-"children": [{"name": "PXD001689", "size":14.375612223}
+"children": [{"name": "PXD001689", "size":14}
 ]
 },
 {
@@ -3958,7 +3958,7 @@
 },
 {
 "name": "PMDX001773",
-"children": [{"name": "PXD001773", "size":19.437616455}
+"children": [{"name": "PXD001773", "size":19}
 ]
 },
 {
@@ -3978,7 +3978,7 @@
 },
 {
 "name": "PMDX001794",
-"children": [{"name": "PXD001794", "size":37.218857101}
+"children": [{"name": "PXD001794", "size":37}
 ]
 },
 {
@@ -3993,7 +3993,7 @@
 },
 {
 "name": "PMDX001806",
-"children": [{"name": "PXD001806", "size":96.734287882}
+"children": [{"name": "PXD001806", "size":97}
 ]
 },
 {
@@ -4018,12 +4018,12 @@
 },
 {
 "name": "PMDX001819",
-"children": [{"name": "PXD001819", "size":70.730816283}
+"children": [{"name": "PXD001819", "size":71}
 ]
 },
 {
 "name": "PMDX001821",
-"children": [{"name": "PXD001821", "size":12.141771821}
+"children": [{"name": "PXD001821", "size":12}
 ]
 },
 {
@@ -4033,7 +4033,7 @@
 },
 {
 "name": "PMDX001828",
-"children": [{"name": "PXD001828", "size":18.348928292}
+"children": [{"name": "PXD001828", "size":18}
 ]
 },
 {
@@ -4043,7 +4043,7 @@
 },
 {
 "name": "PMDX001837",
-"children": [{"name": "PXD001837", "size":64.409643938}
+"children": [{"name": "PXD001837", "size":64}
 ]
 },
 {
@@ -4084,17 +4084,17 @@
 },
 {
 "name": "PMDX001849",
-"children": [{"name": "PXD001849", "size":85.467392802}
+"children": [{"name": "PXD001849", "size":85}
 ]
 },
 {
 "name": "PMDX001856",
-"children": [{"name": "PXD001856", "size":215.720228219}
+"children": [{"name": "PXD001856", "size":216}
 ]
 },
 {
 "name": "PMDX001861",
-"children": [{"name": "PXD001861", "size":133.377101759}
+"children": [{"name": "PXD001861", "size":133}
 ]
 },
 {
@@ -4127,7 +4127,7 @@
 },
 {
 "name": "PMDX001874",
-"children": [{"name": "PXD001874", "size":352.524651712}
+"children": [{"name": "PXD001874", "size":353}
 ]
 },
 {
@@ -4182,12 +4182,12 @@
 },
 {
 "name": "PMDX001952",
-"children": [{"name": "PXD001952", "size":20.523562457}
+"children": [{"name": "PXD001952", "size":21}
 ]
 },
 {
 "name": "PMDX001953",
-"children": [{"name": "PXD001953", "size":18.481087427}
+"children": [{"name": "PXD001953", "size":18}
 ]
 },
 {
@@ -4197,7 +4197,7 @@
 },
 {
 "name": "PMDX001962",
-"children": [{"name": "PXD001962", "size":16.781287903}
+"children": [{"name": "PXD001962", "size":17}
 ]
 },
 {
@@ -4207,7 +4207,7 @@
 },
 {
 "name": "PMDX001974",
-"children": [{"name": "PXD001974", "size":39.628722486}
+"children": [{"name": "PXD001974", "size":40}
 ]
 },
 {
@@ -4232,12 +4232,12 @@
 },
 {
 "name": "PMDX001985",
-"children": [{"name": "PXD001985", "size":61.760815652}
+"children": [{"name": "PXD001985", "size":62}
 ]
 },
 {
 "name": "PMDX001987",
-"children": [{"name": "PXD001987", "size":32.2911512}
+"children": [{"name": "PXD001987", "size":32}
 ]
 },
 {
@@ -4247,12 +4247,12 @@
 },
 {
 "name": "PMDX001994",
-"children": [{"name": "PXD001994", "size":176.57627618}
+"children": [{"name": "PXD001994", "size":177}
 ]
 },
 {
 "name": "PMDX001997",
-"children": [{"name": "PXD001997", "size":19.463980551}
+"children": [{"name": "PXD001997", "size":19}
 ]
 },
 {
@@ -4277,7 +4277,7 @@
 },
 {
 "name": "PMDX002014",
-"children": [{"name": "PXD002014", "size":64.446658259}
+"children": [{"name": "PXD002014", "size":64}
 ]
 },
 {
@@ -4292,7 +4292,7 @@
 },
 {
 "name": "PMDX002029",
-"children": [{"name": "PXD002029", "size":83.61858907}
+"children": [{"name": "PXD002029", "size":84}
 ]
 },
 {
@@ -4302,7 +4302,7 @@
 },
 {
 "name": "PMDX002039",
-"children": [{"name": "PXD002039", "size":277.815537925}
+"children": [{"name": "PXD002039", "size":278}
 ]
 },
 {
@@ -4630,7 +4630,7 @@
 },
 {
 "name": "PMDX002066",
-"children": [{"name": "PXD002066", "size":18.4004213}
+"children": [{"name": "PXD002066", "size":18}
 ]
 },
 {
@@ -4948,17 +4948,17 @@
 },
 {
 "name": "PMDX002090",
-"children": [{"name": "PXD002090", "size":12.364361881}
+"children": [{"name": "PXD002090", "size":12}
 ]
 },
 {
 "name": "PMDX002091",
-"children": [{"name": "PXD002091", "size":121.835394609}
+"children": [{"name": "PXD002091", "size":122}
 ]
 },
 {
 "name": "PMDX002097",
-"children": [{"name": "PXD002097", "size":13.585016463}
+"children": [{"name": "PXD002097", "size":14}
 ]
 },
 {
@@ -5003,7 +5003,7 @@
 },
 {
 "name": "PMDX002132",
-"children": [{"name": "PXD002132", "size":10.350312817}
+"children": [{"name": "PXD002132", "size":10}
 ]
 },
 {
@@ -5036,7 +5036,7 @@
 },
 {
 "name": "PMDX002145",
-"children": [{"name": "PXD002145", "size":71.354344504}
+"children": [{"name": "PXD002145", "size":71}
 ]
 },
 {
@@ -5156,7 +5156,7 @@
 },
 {
 "name": "PMDX002252",
-"children": [{"name": "PXD002252", "size":14.523231459}
+"children": [{"name": "PXD002252", "size":15}
 ]
 },
 {
@@ -5181,7 +5181,7 @@
 },
 {
 "name": "PMDX002273",
-"children": [{"name": "PXD002273", "size":24.972126806}
+"children": [{"name": "PXD002273", "size":25}
 ]
 },
 {
@@ -5206,7 +5206,7 @@
 },
 {
 "name": "PMDX002286",
-"children": [{"name": "PXD002286", "size":49.167711569}
+"children": [{"name": "PXD002286", "size":49}
 ]
 },
 {
@@ -5239,7 +5239,7 @@
 },
 {
 "name": "PMDX002328",
-"children": [{"name": "PXD002328", "size":10.358589924}
+"children": [{"name": "PXD002328", "size":10}
 ]
 },
 {
@@ -5254,7 +5254,7 @@
 },
 {
 "name": "PMDX002354",
-"children": [{"name": "PXD002354", "size":26.74505718}
+"children": [{"name": "PXD002354", "size":27}
 ]
 },
 {
@@ -5279,7 +5279,7 @@
 },
 {
 "name": "PMDX002381",
-"children": [{"name": "PXD002381", "size":69.498751763}
+"children": [{"name": "PXD002381", "size":69}
 ]
 },
 {
@@ -5289,7 +5289,7 @@
 },
 {
 "name": "PMDX002386",
-"children": [{"name": "PXD002386", "size":138.634466882}
+"children": [{"name": "PXD002386", "size":139}
 ]
 },
 {
@@ -5299,17 +5299,17 @@
 },
 {
 "name": "PMDX002391",
-"children": [{"name": "PXD002391", "size":35.981227673}
+"children": [{"name": "PXD002391", "size":36}
 ]
 },
 {
 "name": "PMDX002393",
-"children": [{"name": "PXD002393", "size":244.811845665}
+"children": [{"name": "PXD002393", "size":245}
 ]
 },
 {
 "name": "PMDX002394",
-"children": [{"name": "PXD002394", "size":98.503286827}
+"children": [{"name": "PXD002394", "size":99}
 ]
 },
 {
@@ -5319,7 +5319,7 @@
 },
 {
 "name": "PMDX002405",
-"children": [{"name": "PXD002405", "size":60.850281257}
+"children": [{"name": "PXD002405", "size":61}
 ]
 },
 {
@@ -5347,12 +5347,12 @@
 },
 {
 "name": "PMDX002424",
-"children": [{"name": "PXD002424", "size":26.13913864}
+"children": [{"name": "PXD002424", "size":26}
 ]
 },
 {
 "name": "PMDX002425",
-"children": [{"name": "PXD002425", "size":264.557773367}
+"children": [{"name": "PXD002425", "size":265}
 ]
 },
 {
@@ -5367,12 +5367,12 @@
 },
 {
 "name": "PMDX002437",
-"children": [{"name": "PXD002437", "size":22.946094016}
+"children": [{"name": "PXD002437", "size":23}
 ]
 },
 {
 "name": "PMDX002439",
-"children": [{"name": "PXD002439", "size":71.440577279}
+"children": [{"name": "PXD002439", "size":71}
 ]
 },
 {
@@ -5387,12 +5387,12 @@
 },
 {
 "name": "PMDX002448",
-"children": [{"name": "PXD002448", "size":19.632812643}
+"children": [{"name": "PXD002448", "size":20}
 ]
 },
 {
 "name": "PMDX002449",
-"children": [{"name": "PXD002449", "size":43.490913293}
+"children": [{"name": "PXD002449", "size":43}
 ]
 },
 {
@@ -5402,7 +5402,7 @@
 },
 {
 "name": "PMDX002460",
-"children": [{"name": "PXD002460", "size":86.67908309}
+"children": [{"name": "PXD002460", "size":87}
 ]
 },
 {
@@ -5412,7 +5412,7 @@
 },
 {
 "name": "PMDX002462",
-"children": [{"name": "PXD002462", "size":89.154905901}
+"children": [{"name": "PXD002462", "size":89}
 ]
 },
 {
@@ -5422,7 +5422,7 @@
 },
 {
 "name": "PMDX002475",
-"children": [{"name": "PXD002475", "size":13.081530484}
+"children": [{"name": "PXD002475", "size":13}
 ]
 },
 {
@@ -5493,12 +5493,12 @@
 },
 {
 "name": "PMDX002554",
-"children": [{"name": "PXD002554", "size":28.343536981}
+"children": [{"name": "PXD002554", "size":28}
 ]
 },
 {
 "name": "PMDX002555",
-"children": [{"name": "PXD002555", "size":61.067960172}
+"children": [{"name": "PXD002555", "size":61}
 ]
 },
 {
@@ -5533,7 +5533,7 @@
 },
 {
 "name": "PMDX002600",
-"children": [{"name": "PXD002600", "size":22.435206946}
+"children": [{"name": "PXD002600", "size":22}
 ]
 },
 {
@@ -5551,12 +5551,12 @@
 },
 {
 "name": "PMDX002612",
-"children": [{"name": "PXD002612", "size":258.354056976}
+"children": [{"name": "PXD002612", "size":258}
 ]
 },
 {
 "name": "PMDX002613",
-"children": [{"name": "PXD002613", "size":26.359722101}
+"children": [{"name": "PXD002613", "size":26}
 ]
 },
 {
@@ -5581,17 +5581,17 @@
 },
 {
 "name": "PMDX002623",
-"children": [{"name": "PXD002623", "size":113.328870767}
+"children": [{"name": "PXD002623", "size":113}
 ]
 },
 {
 "name": "PMDX002626",
-"children": [{"name": "PXD002626", "size":20.131900113}
+"children": [{"name": "PXD002626", "size":20}
 ]
 },
 {
 "name": "PMDX002629",
-"children": [{"name": "PXD002629", "size":160.606024009}
+"children": [{"name": "PXD002629", "size":161}
 ]
 },
 {
@@ -5611,17 +5611,17 @@
 },
 {
 "name": "PMDX002645",
-"children": [{"name": "PXD002645", "size":127.248539895}
+"children": [{"name": "PXD002645", "size":127}
 ]
 },
 {
 "name": "PMDX002646",
-"children": [{"name": "PXD002646", "size":59.689363512}
+"children": [{"name": "PXD002646", "size":60}
 ]
 },
 {
 "name": "PMDX002648",
-"children": [{"name": "PXD002648", "size":73.576013251}
+"children": [{"name": "PXD002648", "size":74}
 ]
 },
 {
@@ -5636,7 +5636,7 @@
 },
 {
 "name": "PMDX002657",
-"children": [{"name": "PXD002657", "size":37.307479141}
+"children": [{"name": "PXD002657", "size":37}
 ]
 },
 {
@@ -5646,7 +5646,7 @@
 },
 {
 "name": "PMDX002659",
-"children": [{"name": "PXD002659", "size":50.186408594}
+"children": [{"name": "PXD002659", "size":50}
 ]
 },
 {
@@ -5671,7 +5671,7 @@
 },
 {
 "name": "PMDX002672",
-"children": [{"name": "PXD002672", "size":23.176728644}
+"children": [{"name": "PXD002672", "size":23}
 ]
 },
 {
@@ -5701,12 +5701,12 @@
 },
 {
 "name": "PMDX002703",
-"children": [{"name": "PXD002703", "size":39.316967638}
+"children": [{"name": "PXD002703", "size":39}
 ]
 },
 {
 "name": "PMDX002704",
-"children": [{"name": "PXD002704", "size":64.34257047}
+"children": [{"name": "PXD002704", "size":64}
 ]
 },
 {
@@ -5716,7 +5716,7 @@
 },
 {
 "name": "PMDX002720",
-"children": [{"name": "PXD002720", "size":23.454974273}
+"children": [{"name": "PXD002720", "size":23}
 ]
 },
 {
@@ -5772,7 +5772,7 @@
 },
 {
 "name": "PMDX002757",
-"children": [{"name": "PXD002757", "size":10.009625055}
+"children": [{"name": "PXD002757", "size":10}
 ]
 },
 {
@@ -5782,12 +5782,12 @@
 },
 {
 "name": "PMDX002762",
-"children": [{"name": "PXD002762", "size":33.115525744}
+"children": [{"name": "PXD002762", "size":33}
 ]
 },
 {
 "name": "PMDX002765",
-"children": [{"name": "PXD002765", "size":154.796873956}
+"children": [{"name": "PXD002765", "size":155}
 ]
 },
 {
@@ -5802,7 +5802,7 @@
 },
 {
 "name": "PMDX002774",
-"children": [{"name": "PXD002774", "size":19.256502561}
+"children": [{"name": "PXD002774", "size":19}
 ]
 },
 {
@@ -5812,7 +5812,7 @@
 },
 {
 "name": "PMDX002776",
-"children": [{"name": "PXD002776", "size":180.224167901}
+"children": [{"name": "PXD002776", "size":180}
 ]
 },
 {
@@ -5822,7 +5822,7 @@
 },
 {
 "name": "PMDX002783",
-"children": [{"name": "PXD002783", "size":37.935297153}
+"children": [{"name": "PXD002783", "size":38}
 ]
 },
 {
@@ -5832,7 +5832,7 @@
 },
 {
 "name": "PMDX002797",
-"children": [{"name": "PXD002797", "size":50.884867848}
+"children": [{"name": "PXD002797", "size":51}
 ]
 },
 {
@@ -5852,7 +5852,7 @@
 },
 {
 "name": "PMDX002811",
-"children": [{"name": "PXD002811", "size":27.131189231}
+"children": [{"name": "PXD002811", "size":27}
 ]
 },
 {
@@ -5880,7 +5880,7 @@
 },
 {
 "name": "PMDX002823",
-"children": [{"name": "PXD002823", "size":147.81791873}
+"children": [{"name": "PXD002823", "size":148}
 ]
 },
 {
@@ -5890,17 +5890,17 @@
 },
 {
 "name": "PMDX002836",
-"children": [{"name": "PXD002836", "size":28.492079491}
+"children": [{"name": "PXD002836", "size":28}
 ]
 },
 {
 "name": "PMDX002839",
-"children": [{"name": "PXD002839", "size":62.156281716}
+"children": [{"name": "PXD002839", "size":62}
 ]
 },
 {
 "name": "PMDX002842",
-"children": [{"name": "PXD002842", "size":27.083611364}
+"children": [{"name": "PXD002842", "size":27}
 ]
 },
 {
@@ -5930,7 +5930,7 @@
 },
 {
 "name": "PMDX002861",
-"children": [{"name": "PXD002861", "size":80.582317376}
+"children": [{"name": "PXD002861", "size":81}
 ]
 },
 {
@@ -5950,7 +5950,7 @@
 },
 {
 "name": "PMDX002883",
-"children": [{"name": "PXD002883", "size":84.835483647}
+"children": [{"name": "PXD002883", "size":85}
 ]
 },
 {
@@ -5968,7 +5968,7 @@
 },
 {
 "name": "PMDX002885",
-"children": [{"name": "PXD002885", "size":91.585847362}
+"children": [{"name": "PXD002885", "size":92}
 ]
 },
 {
@@ -6034,22 +6034,22 @@
 },
 {
 "name": "PMDX002950",
-"children": [{"name": "PXD002950", "size":44.402255652}
+"children": [{"name": "PXD002950", "size":44}
 ]
 },
 {
 "name": "PMDX002951",
-"children": [{"name": "PXD002951", "size":27.623532723}
+"children": [{"name": "PXD002951", "size":28}
 ]
 },
 {
 "name": "PMDX002952",
-"children": [{"name": "PXD002952", "size":479.719492041}
+"children": [{"name": "PXD002952", "size":480}
 ]
 },
 {
 "name": "PMDX002957",
-"children": [{"name": "PXD002957", "size":15.27161994}
+"children": [{"name": "PXD002957", "size":15}
 ]
 },
 {
@@ -6069,7 +6069,7 @@
 },
 {
 "name": "PMDX002967",
-"children": [{"name": "PXD002967", "size":589.656692353}
+"children": [{"name": "PXD002967", "size":590}
 ]
 },
 {
@@ -6102,7 +6102,7 @@
 },
 {
 "name": "PMDX002990",
-"children": [{"name": "PXD002990", "size":134.932407812}
+"children": [{"name": "PXD002990", "size":135}
 ]
 },
 {
@@ -6112,12 +6112,12 @@
 },
 {
 "name": "PMDX003001",
-"children": [{"name": "PXD003001", "size":31.281067607}
+"children": [{"name": "PXD003001", "size":31}
 ]
 },
 {
 "name": "PMDX003003",
-"children": [{"name": "PXD003003", "size":65.887692656}
+"children": [{"name": "PXD003003", "size":66}
 ]
 },
 {
@@ -6127,7 +6127,7 @@
 },
 {
 "name": "PMDX003014",
-"children": [{"name": "PXD003014", "size":23.15818299}
+"children": [{"name": "PXD003014", "size":23}
 ]
 },
 {
@@ -6147,7 +6147,7 @@
 },
 {
 "name": "PMDX003027",
-"children": [{"name": "PXD003027", "size":25.472414388}
+"children": [{"name": "PXD003027", "size":25}
 ]
 },
 {
@@ -6162,12 +6162,12 @@
 },
 {
 "name": "PMDX003030",
-"children": [{"name": "PXD003030", "size":25.872845588}
+"children": [{"name": "PXD003030", "size":26}
 ]
 },
 {
 "name": "PMDX003037",
-"children": [{"name": "PXD003037", "size":39.799995673}
+"children": [{"name": "PXD003037", "size":40}
 ]
 },
 {
@@ -6177,7 +6177,7 @@
 },
 {
 "name": "PMDX003051",
-"children": [{"name": "PXD003051", "size":53.507844993}
+"children": [{"name": "PXD003051", "size":54}
 ]
 },
 {
@@ -6287,12 +6287,12 @@
 },
 {
 "name": "PMDX003071",
-"children": [{"name": "PXD003071", "size":366.466409249}
+"children": [{"name": "PXD003071", "size":366}
 ]
 },
 {
 "name": "PMDX003075",
-"children": [{"name": "PXD003075", "size":83.784602236}
+"children": [{"name": "PXD003075", "size":84}
 ]
 },
 {
@@ -6302,32 +6302,32 @@
 },
 {
 "name": "PMDX003082",
-"children": [{"name": "PXD003082", "size":126.214157592}
+"children": [{"name": "PXD003082", "size":126}
 ]
 },
 {
 "name": "PMDX003086",
-"children": [{"name": "PXD003086", "size":19.373661404}
+"children": [{"name": "PXD003086", "size":19}
 ]
 },
 {
 "name": "PMDX003092",
-"children": [{"name": "PXD003092", "size":14.986840104}
+"children": [{"name": "PXD003092", "size":15}
 ]
 },
 {
 "name": "PMDX003095",
-"children": [{"name": "PXD003095", "size":37.750453508}
+"children": [{"name": "PXD003095", "size":38}
 ]
 },
 {
 "name": "PMDX003105",
-"children": [{"name": "PXD003105", "size":18.376636528}
+"children": [{"name": "PXD003105", "size":18}
 ]
 },
 {
 "name": "PMDX003106",
-"children": [{"name": "PXD003106", "size":18.035698256}
+"children": [{"name": "PXD003106", "size":18}
 ]
 },
 {
@@ -6362,7 +6362,7 @@
 },
 {
 "name": "PMDX003132",
-"children": [{"name": "PXD003132", "size":10.802298541}
+"children": [{"name": "PXD003132", "size":11}
 ]
 },
 {
@@ -6380,17 +6380,17 @@
 },
 {
 "name": "PMDX003159",
-"children": [{"name": "PXD003159", "size":137.824405701}
+"children": [{"name": "PXD003159", "size":138}
 ]
 },
 {
 "name": "PMDX003176",
-"children": [{"name": "PXD003176", "size":42.458511881}
+"children": [{"name": "PXD003176", "size":42}
 ]
 },
 {
 "name": "PMDX003179",
-"children": [{"name": "PXD003179", "size":165.038800475}
+"children": [{"name": "PXD003179", "size":165}
 ]
 },
 {
@@ -6408,12 +6408,12 @@
 },
 {
 "name": "PMDX003186",
-"children": [{"name": "PXD003186", "size":46.760756984}
+"children": [{"name": "PXD003186", "size":47}
 ]
 },
 {
 "name": "PMDX003187",
-"children": [{"name": "PXD003187", "size":16.137314397}
+"children": [{"name": "PXD003187", "size":16}
 ]
 },
 {
@@ -6423,7 +6423,7 @@
 },
 {
 "name": "PMDX003198",
-"children": [{"name": "PXD003198", "size":81.43449963}
+"children": [{"name": "PXD003198", "size":81}
 ]
 },
 {
@@ -6433,7 +6433,7 @@
 },
 {
 "name": "PMDX003209",
-"children": [{"name": "PXD003209", "size":13.087147209}
+"children": [{"name": "PXD003209", "size":13}
 ]
 },
 {
@@ -6443,7 +6443,7 @@
 },
 {
 "name": "PMDX003213",
-"children": [{"name": "PXD003213", "size":12.186856177}
+"children": [{"name": "PXD003213", "size":12}
 ]
 },
 {
@@ -6453,7 +6453,7 @@
 },
 {
 "name": "PMDX003218",
-"children": [{"name": "PXD003218", "size":237.563462135}
+"children": [{"name": "PXD003218", "size":238}
 ]
 },
 {
@@ -6468,17 +6468,17 @@
 },
 {
 "name": "PMDX003230",
-"children": [{"name": "PXD003230", "size":67.075705978}
+"children": [{"name": "PXD003230", "size":67}
 ]
 },
 {
 "name": "PMDX003252",
-"children": [{"name": "PXD003252", "size":19.66768191}
+"children": [{"name": "PXD003252", "size":20}
 ]
 },
 {
 "name": "PMDX003257",
-"children": [{"name": "PXD003257", "size":111.050339584}
+"children": [{"name": "PXD003257", "size":111}
 ]
 },
 {
@@ -6488,7 +6488,7 @@
 },
 {
 "name": "PMDX003262",
-"children": [{"name": "PXD003262", "size":104.085586996}
+"children": [{"name": "PXD003262", "size":104}
 ]
 },
 {
@@ -6503,22 +6503,22 @@
 },
 {
 "name": "PMDX003276",
-"children": [{"name": "PXD003276", "size":26.37344834}
+"children": [{"name": "PXD003276", "size":26}
 ]
 },
 {
 "name": "PMDX003279",
-"children": [{"name": "PXD003279", "size":33.233575804}
+"children": [{"name": "PXD003279", "size":33}
 ]
 },
 {
 "name": "PMDX003284",
-"children": [{"name": "PXD003284", "size":162.358687335}
+"children": [{"name": "PXD003284", "size":162}
 ]
 },
 {
 "name": "PMDX003286",
-"children": [{"name": "PXD003286", "size":36.808693231}
+"children": [{"name": "PXD003286", "size":37}
 ]
 },
 {
@@ -6528,7 +6528,7 @@
 },
 {
 "name": "PMDX003289",
-"children": [{"name": "PXD003289", "size":27.260044413}
+"children": [{"name": "PXD003289", "size":27}
 ]
 },
 {
@@ -6638,7 +6638,7 @@
 },
 {
 "name": "PMDX003298",
-"children": [{"name": "PXD003298", "size":38.923908593}
+"children": [{"name": "PXD003298", "size":39}
 ]
 },
 {
@@ -6648,17 +6648,17 @@
 },
 {
 "name": "PMDX003324",
-"children": [{"name": "PXD003324", "size":20.051007446}
+"children": [{"name": "PXD003324", "size":20}
 ]
 },
 {
 "name": "PMDX003340",
-"children": [{"name": "PXD003340", "size":19.54256278}
+"children": [{"name": "PXD003340", "size":20}
 ]
 },
 {
 "name": "PMDX003346",
-"children": [{"name": "PXD003346", "size":41.613195383}
+"children": [{"name": "PXD003346", "size":42}
 ]
 },
 {
@@ -6710,7 +6710,7 @@
 },
 {
 "name": "PMDX003362",
-"children": [{"name": "PXD003362", "size":72.456607655}
+"children": [{"name": "PXD003362", "size":72}
 ]
 },
 {
@@ -6720,12 +6720,12 @@
 },
 {
 "name": "PMDX003387",
-"children": [{"name": "PXD003387", "size":23.92026136}
+"children": [{"name": "PXD003387", "size":24}
 ]
 },
 {
 "name": "PMDX003405",
-"children": [{"name": "PXD003405", "size":12.71923614}
+"children": [{"name": "PXD003405", "size":13}
 ]
 },
 {
@@ -7153,12 +7153,12 @@
 },
 {
 "name": "PMDX003419",
-"children": [{"name": "PXD003419", "size":49.003447373}
+"children": [{"name": "PXD003419", "size":49}
 ]
 },
 {
 "name": "PMDX003422",
-"children": [{"name": "PXD003422", "size":52.591238317}
+"children": [{"name": "PXD003422", "size":53}
 ]
 },
 {
@@ -7319,7 +7319,7 @@
 },
 {
 "name": "PMDX003431",
-"children": [{"name": "PXD003431", "size":65.742540968}
+"children": [{"name": "PXD003431", "size":66}
 ]
 },
 {
@@ -7344,7 +7344,7 @@
 },
 {
 "name": "PMDX003458",
-"children": [{"name": "PXD003458", "size":160.378645219}
+"children": [{"name": "PXD003458", "size":160}
 ]
 },
 {
@@ -7354,7 +7354,7 @@
 },
 {
 "name": "PMDX003465",
-"children": [{"name": "PXD003465", "size":19.526276665}
+"children": [{"name": "PXD003465", "size":20}
 ]
 },
 {
@@ -7364,22 +7364,22 @@
 },
 {
 "name": "PMDX003485",
-"children": [{"name": "PXD003485", "size":30.934602814}
+"children": [{"name": "PXD003485", "size":31}
 ]
 },
 {
 "name": "PMDX003486",
-"children": [{"name": "PXD003486", "size":16.171541415}
+"children": [{"name": "PXD003486", "size":16}
 ]
 },
 {
 "name": "PMDX003489",
-"children": [{"name": "PXD003489", "size":21.024566671}
+"children": [{"name": "PXD003489", "size":21}
 ]
 },
 {
 "name": "PMDX003492",
-"children": [{"name": "PXD003492", "size":402.214039999}
+"children": [{"name": "PXD003492", "size":402}
 ]
 },
 {
@@ -7397,7 +7397,7 @@
 },
 {
 "name": "PMDX003498",
-"children": [{"name": "PXD003498", "size":154.908737872}
+"children": [{"name": "PXD003498", "size":155}
 ]
 },
 {
@@ -7407,7 +7407,7 @@
 },
 {
 "name": "PMDX003501",
-"children": [{"name": "PXD003501", "size":20.325894053}
+"children": [{"name": "PXD003501", "size":20}
 ]
 },
 {
@@ -7417,7 +7417,7 @@
 },
 {
 "name": "PMDX003503",
-"children": [{"name": "PXD003503", "size":10.371966528}
+"children": [{"name": "PXD003503", "size":10}
 ]
 },
 {
@@ -7427,17 +7427,17 @@
 },
 {
 "name": "PMDX003514",
-"children": [{"name": "PXD003514", "size":58.70643821}
+"children": [{"name": "PXD003514", "size":59}
 ]
 },
 {
 "name": "PMDX003519",
-"children": [{"name": "PXD003519", "size":40.203556024}
+"children": [{"name": "PXD003519", "size":40}
 ]
 },
 {
 "name": "PMDX003529",
-"children": [{"name": "PXD003529", "size":96.645984037}
+"children": [{"name": "PXD003529", "size":97}
 ]
 },
 {
@@ -7455,7 +7455,7 @@
 },
 {
 "name": "PMDX003531",
-"children": [{"name": "PXD003531", "size":178.716940222}
+"children": [{"name": "PXD003531", "size":179}
 ]
 },
 {
@@ -7465,57 +7465,57 @@
 },
 {
 "name": "PMDX003534",
-"children": [{"name": "PXD003534", "size":127.398009956}
+"children": [{"name": "PXD003534", "size":127}
 ]
 },
 {
 "name": "PMDX003535",
-"children": [{"name": "PXD003535", "size":20.145007168}
+"children": [{"name": "PXD003535", "size":20}
 ]
 },
 {
 "name": "PMDX003543",
-"children": [{"name": "PXD003543", "size":51.342453973}
+"children": [{"name": "PXD003543", "size":51}
 ]
 },
 {
 "name": "PMDX003544",
-"children": [{"name": "PXD003544", "size":13.649342093}
+"children": [{"name": "PXD003544", "size":14}
 ]
 },
 {
 "name": "PMDX003546",
-"children": [{"name": "PXD003546", "size":12.614652328}
+"children": [{"name": "PXD003546", "size":13}
 ]
 },
 {
 "name": "PMDX003547",
-"children": [{"name": "PXD003547", "size":35.320834511}
+"children": [{"name": "PXD003547", "size":35}
 ]
 },
 {
 "name": "PMDX003550",
-"children": [{"name": "PXD003550", "size":84.903242034}
+"children": [{"name": "PXD003550", "size":85}
 ]
 },
 {
 "name": "PMDX003551",
-"children": [{"name": "PXD003551", "size":73.577826937}
+"children": [{"name": "PXD003551", "size":74}
 ]
 },
 {
 "name": "PMDX003552",
-"children": [{"name": "PXD003552", "size":62.669821684}
+"children": [{"name": "PXD003552", "size":63}
 ]
 },
 {
 "name": "PMDX003554",
-"children": [{"name": "PXD003554", "size":13.577133703}
+"children": [{"name": "PXD003554", "size":14}
 ]
 },
 {
 "name": "PMDX003557",
-"children": [{"name": "PXD003557", "size":34.077415481}
+"children": [{"name": "PXD003557", "size":34}
 ]
 },
 {
@@ -7567,17 +7567,17 @@
 },
 {
 "name": "PMDX003578",
-"children": [{"name": "PXD003578", "size":10.495275425}
+"children": [{"name": "PXD003578", "size":10}
 ]
 },
 {
 "name": "PMDX003587",
-"children": [{"name": "PXD003587", "size":39.839780702}
+"children": [{"name": "PXD003587", "size":40}
 ]
 },
 {
 "name": "PMDX003593",
-"children": [{"name": "PXD003593", "size":62.277590269}
+"children": [{"name": "PXD003593", "size":62}
 ]
 },
 {
@@ -7587,17 +7587,17 @@
 },
 {
 "name": "PMDX003595",
-"children": [{"name": "PXD003595", "size":47.738462141}
+"children": [{"name": "PXD003595", "size":48}
 ]
 },
 {
 "name": "PMDX003596",
-"children": [{"name": "PXD003596", "size":18.038834145}
+"children": [{"name": "PXD003596", "size":18}
 ]
 },
 {
 "name": "PMDX003599",
-"children": [{"name": "PXD003599", "size":43.694281975}
+"children": [{"name": "PXD003599", "size":44}
 ]
 },
 {
@@ -7607,37 +7607,37 @@
 },
 {
 "name": "PMDX003607",
-"children": [{"name": "PXD003607", "size":123.127142458}
+"children": [{"name": "PXD003607", "size":123}
 ]
 },
 {
 "name": "PMDX003608",
-"children": [{"name": "PXD003608", "size":11.798594604}
+"children": [{"name": "PXD003608", "size":12}
 ]
 },
 {
 "name": "PMDX003611",
-"children": [{"name": "PXD003611", "size":35.961543356}
+"children": [{"name": "PXD003611", "size":36}
 ]
 },
 {
 "name": "PMDX003613",
-"children": [{"name": "PXD003613", "size":243.321566682}
+"children": [{"name": "PXD003613", "size":243}
 ]
 },
 {
 "name": "PMDX003621",
-"children": [{"name": "PXD003621", "size":36.754582299}
+"children": [{"name": "PXD003621", "size":37}
 ]
 },
 {
 "name": "PMDX003622",
-"children": [{"name": "PXD003622", "size":187.286981297}
+"children": [{"name": "PXD003622", "size":187}
 ]
 },
 {
 "name": "PMDX003623",
-"children": [{"name": "PXD003623", "size":33.557692978}
+"children": [{"name": "PXD003623", "size":34}
 ]
 },
 {
@@ -7647,12 +7647,12 @@
 },
 {
 "name": "PMDX003632",
-"children": [{"name": "PXD003632", "size":52.669583162}
+"children": [{"name": "PXD003632", "size":53}
 ]
 },
 {
 "name": "PMDX003640",
-"children": [{"name": "PXD003640", "size":39.798982486}
+"children": [{"name": "PXD003640", "size":40}
 ]
 },
 {
@@ -7662,7 +7662,7 @@
 },
 {
 "name": "PMDX003651",
-"children": [{"name": "PXD003651", "size":24.552673473}
+"children": [{"name": "PXD003651", "size":25}
 ]
 },
 {
@@ -7714,12 +7714,12 @@
 },
 {
 "name": "PMDX003657",
-"children": [{"name": "PXD003657", "size":25.375102926}
+"children": [{"name": "PXD003657", "size":25}
 ]
 },
 {
 "name": "PMDX003660",
-"children": [{"name": "PXD003660", "size":47.21881612}
+"children": [{"name": "PXD003660", "size":47}
 ]
 },
 {
@@ -7729,12 +7729,12 @@
 },
 {
 "name": "PMDX003664",
-"children": [{"name": "PXD003664", "size":104.821170515}
+"children": [{"name": "PXD003664", "size":105}
 ]
 },
 {
 "name": "PMDX003666",
-"children": [{"name": "PXD003666", "size":16.744390744}
+"children": [{"name": "PXD003666", "size":17}
 ]
 },
 {
@@ -7744,7 +7744,7 @@
 },
 {
 "name": "PMDX003670",
-"children": [{"name": "PXD003670", "size":32.051329208}
+"children": [{"name": "PXD003670", "size":32}
 ]
 },
 {
@@ -7767,7 +7767,7 @@
 },
 {
 "name": "PMDX003700",
-"children": [{"name": "PXD003700", "size":176.230539849}
+"children": [{"name": "PXD003700", "size":176}
 ]
 },
 {
@@ -7777,7 +7777,7 @@
 },
 {
 "name": "PMDX003702",
-"children": [{"name": "PXD003702", "size":140.245173669}
+"children": [{"name": "PXD003702", "size":140}
 ]
 },
 {
@@ -7787,57 +7787,57 @@
 },
 {
 "name": "PMDX003708",
-"children": [{"name": "PXD003708", "size":148.44901083}
+"children": [{"name": "PXD003708", "size":148}
 ]
 },
 {
 "name": "PMDX003709",
-"children": [{"name": "PXD003709", "size":27.552804165}
+"children": [{"name": "PXD003709", "size":28}
 ]
 },
 {
 "name": "PMDX003712",
-"children": [{"name": "PXD003712", "size":17.610694744}
+"children": [{"name": "PXD003712", "size":18}
 ]
 },
 {
 "name": "PMDX003719",
-"children": [{"name": "PXD003719", "size":21.927146722}
+"children": [{"name": "PXD003719", "size":22}
 ]
 },
 {
 "name": "PMDX003720",
-"children": [{"name": "PXD003720", "size":230.750247264}
+"children": [{"name": "PXD003720", "size":231}
 ]
 },
 {
 "name": "PMDX003733",
-"children": [{"name": "PXD003733", "size":104.738948486}
+"children": [{"name": "PXD003733", "size":105}
 ]
 },
 {
 "name": "PMDX003737",
-"children": [{"name": "PXD003737", "size":35.545718915}
+"children": [{"name": "PXD003737", "size":36}
 ]
 },
 {
 "name": "PMDX003745",
-"children": [{"name": "PXD003745", "size":103.889539871}
+"children": [{"name": "PXD003745", "size":104}
 ]
 },
 {
 "name": "PMDX003754",
-"children": [{"name": "PXD003754", "size":1785.112401075}
+"children": [{"name": "PXD003754", "size":1785}
 ]
 },
 {
 "name": "PMDX003762",
-"children": [{"name": "PXD003762", "size":40.331812651}
+"children": [{"name": "PXD003762", "size":40}
 ]
 },
 {
 "name": "PMDX003774",
-"children": [{"name": "PXD003774", "size":52.762524198}
+"children": [{"name": "PXD003774", "size":53}
 ]
 },
 {
@@ -7847,12 +7847,12 @@
 },
 {
 "name": "PMDX003781",
-"children": [{"name": "PXD003781", "size":71.777540574}
+"children": [{"name": "PXD003781", "size":72}
 ]
 },
 {
 "name": "PMDX003785",
-"children": [{"name": "PXD003785", "size":12.485773136}
+"children": [{"name": "PXD003785", "size":12}
 ]
 },
 {
@@ -7862,7 +7862,7 @@
 },
 {
 "name": "PMDX003790",
-"children": [{"name": "PXD003790", "size":182.542596998}
+"children": [{"name": "PXD003790", "size":183}
 ]
 },
 {
@@ -7872,7 +7872,7 @@
 },
 {
 "name": "PMDX003794",
-"children": [{"name": "PXD003794", "size":13.125194566}
+"children": [{"name": "PXD003794", "size":13}
 ]
 },
 {
@@ -7882,17 +7882,17 @@
 },
 {
 "name": "PMDX003813",
-"children": [{"name": "PXD003813", "size":42.703395602}
+"children": [{"name": "PXD003813", "size":43}
 ]
 },
 {
 "name": "PMDX003822",
-"children": [{"name": "PXD003822", "size":143.868681224}
+"children": [{"name": "PXD003822", "size":144}
 ]
 },
 {
 "name": "PMDX003825",
-"children": [{"name": "PXD003825", "size":224.727322097}
+"children": [{"name": "PXD003825", "size":225}
 ]
 },
 {
@@ -7902,12 +7902,12 @@
 },
 {
 "name": "PMDX003843",
-"children": [{"name": "PXD003843", "size":37.451060907}
+"children": [{"name": "PXD003843", "size":37}
 ]
 },
 {
 "name": "PMDX003851",
-"children": [{"name": "PXD003851", "size":44.931417537}
+"children": [{"name": "PXD003851", "size":45}
 ]
 },
 {
@@ -7922,22 +7922,22 @@
 },
 {
 "name": "PMDX003875",
-"children": [{"name": "PXD003875", "size":33.077504727}
+"children": [{"name": "PXD003875", "size":33}
 ]
 },
 {
 "name": "PMDX003880",
-"children": [{"name": "PXD003880", "size":10.743802685}
+"children": [{"name": "PXD003880", "size":11}
 ]
 },
 {
 "name": "PMDX003881",
-"children": [{"name": "PXD003881", "size":50.392493724}
+"children": [{"name": "PXD003881", "size":50}
 ]
 },
 {
 "name": "PMDX003888",
-"children": [{"name": "PXD003888", "size":14.437127999}
+"children": [{"name": "PXD003888", "size":14}
 ]
 },
 {
@@ -7952,7 +7952,7 @@
 },
 {
 "name": "PMDX003902",
-"children": [{"name": "PXD003902", "size":105.76734065}
+"children": [{"name": "PXD003902", "size":106}
 ]
 },
 {
@@ -7970,7 +7970,7 @@
 },
 {
 "name": "PMDX003908",
-"children": [{"name": "PXD003908", "size":18.717257086}
+"children": [{"name": "PXD003908", "size":19}
 ]
 },
 {
@@ -8017,7 +8017,7 @@
 },
 {
 "name": "PMDX003929",
-"children": [{"name": "PXD003929", "size":20.584304846}
+"children": [{"name": "PXD003929", "size":21}
 ]
 },
 {
@@ -8032,12 +8032,12 @@
 },
 {
 "name": "PMDX003935",
-"children": [{"name": "PXD003935", "size":147.273336949}
+"children": [{"name": "PXD003935", "size":147}
 ]
 },
 {
 "name": "PMDX003937",
-"children": [{"name": "PXD003937", "size":65.522381349}
+"children": [{"name": "PXD003937", "size":66}
 ]
 },
 {
@@ -8047,12 +8047,12 @@
 },
 {
 "name": "PMDX003947",
-"children": [{"name": "PXD003947", "size":178.80934668}
+"children": [{"name": "PXD003947", "size":179}
 ]
 },
 {
 "name": "PMDX003961",
-"children": [{"name": "PXD003961", "size":34.703014017}
+"children": [{"name": "PXD003961", "size":35}
 ]
 },
 {
@@ -8135,7 +8135,7 @@
 },
 {
 "name": "PMDX003968",
-"children": [{"name": "PXD003968", "size":68.359313026}
+"children": [{"name": "PXD003968", "size":68}
 ]
 },
 {
@@ -8145,27 +8145,27 @@
 },
 {
 "name": "PMDX003977",
-"children": [{"name": "PXD003977", "size":156.660147327}
+"children": [{"name": "PXD003977", "size":157}
 ]
 },
 {
 "name": "PMDX003978",
-"children": [{"name": "PXD003978", "size":78.324425337}
+"children": [{"name": "PXD003978", "size":78}
 ]
 },
 {
 "name": "PMDX003983",
-"children": [{"name": "PXD003983", "size":11.64371803}
+"children": [{"name": "PXD003983", "size":12}
 ]
 },
 {
 "name": "PMDX004001",
-"children": [{"name": "PXD004001", "size":43.645001933}
+"children": [{"name": "PXD004001", "size":44}
 ]
 },
 {
 "name": "PMDX004003",
-"children": [{"name": "PXD004003", "size":11.412633937}
+"children": [{"name": "PXD004003", "size":11}
 ]
 },
 {
@@ -8175,17 +8175,17 @@
 },
 {
 "name": "PMDX004010",
-"children": [{"name": "PXD004010", "size":26.658528192}
+"children": [{"name": "PXD004010", "size":27}
 ]
 },
 {
 "name": "PMDX004017",
-"children": [{"name": "PXD004017", "size":51.240541763}
+"children": [{"name": "PXD004017", "size":51}
 ]
 },
 {
 "name": "PMDX004023",
-"children": [{"name": "PXD004023", "size":127.409537675}
+"children": [{"name": "PXD004023", "size":127}
 ]
 },
 {
@@ -8195,17 +8195,17 @@
 },
 {
 "name": "PMDX004034",
-"children": [{"name": "PXD004034", "size":287.861033881}
+"children": [{"name": "PXD004034", "size":288}
 ]
 },
 {
 "name": "PMDX004043",
-"children": [{"name": "PXD004043", "size":28.857678211}
+"children": [{"name": "PXD004043", "size":29}
 ]
 },
 {
 "name": "PMDX004051",
-"children": [{"name": "PXD004051", "size":13.348476829}
+"children": [{"name": "PXD004051", "size":13}
 ]
 },
 {
@@ -8215,7 +8215,7 @@
 },
 {
 "name": "PMDX004060",
-"children": [{"name": "PXD004060", "size":33.595432183}
+"children": [{"name": "PXD004060", "size":34}
 ]
 },
 {
@@ -8260,12 +8260,12 @@
 },
 {
 "name": "PMDX004077",
-"children": [{"name": "PXD004077", "size":17.461468098}
+"children": [{"name": "PXD004077", "size":17}
 ]
 },
 {
 "name": "PMDX004079",
-"children": [{"name": "PXD004079", "size":29.882015584}
+"children": [{"name": "PXD004079", "size":30}
 ]
 },
 {
@@ -8275,12 +8275,12 @@
 },
 {
 "name": "PMDX004089",
-"children": [{"name": "PXD004089", "size":191.310481708}
+"children": [{"name": "PXD004089", "size":191}
 ]
 },
 {
 "name": "PMDX004092",
-"children": [{"name": "PXD004092", "size":145.009259539}
+"children": [{"name": "PXD004092", "size":145}
 ]
 },
 {
@@ -8290,32 +8290,32 @@
 },
 {
 "name": "PMDX004098",
-"children": [{"name": "PXD004098", "size":158.690726134}
+"children": [{"name": "PXD004098", "size":159}
 ]
 },
 {
 "name": "PMDX004099",
-"children": [{"name": "PXD004099", "size":77.468628585}
+"children": [{"name": "PXD004099", "size":77}
 ]
 },
 {
 "name": "PMDX004103",
-"children": [{"name": "PXD004103", "size":12.076804629}
+"children": [{"name": "PXD004103", "size":12}
 ]
 },
 {
 "name": "PMDX004105",
-"children": [{"name": "PXD004105", "size":53.084342818}
+"children": [{"name": "PXD004105", "size":53}
 ]
 },
 {
 "name": "PMDX004109",
-"children": [{"name": "PXD004109", "size":34.549889915}
+"children": [{"name": "PXD004109", "size":35}
 ]
 },
 {
 "name": "PMDX004112",
-"children": [{"name": "PXD004112", "size":42.516692761}
+"children": [{"name": "PXD004112", "size":43}
 ]
 },
 {
@@ -8333,17 +8333,17 @@
 },
 {
 "name": "PMDX004131",
-"children": [{"name": "PXD004131", "size":32.192348184}
+"children": [{"name": "PXD004131", "size":32}
 ]
 },
 {
 "name": "PMDX004139",
-"children": [{"name": "PXD004139", "size":11.004325983}
+"children": [{"name": "PXD004139", "size":11}
 ]
 },
 {
 "name": "PMDX004143",
-"children": [{"name": "PXD004143", "size":12.460844125}
+"children": [{"name": "PXD004143", "size":12}
 ]
 },
 {
@@ -8353,17 +8353,17 @@
 },
 {
 "name": "PMDX004154",
-"children": [{"name": "PXD004154", "size":16.500016853}
+"children": [{"name": "PXD004154", "size":17}
 ]
 },
 {
 "name": "PMDX004158",
-"children": [{"name": "PXD004158", "size":39.517703918}
+"children": [{"name": "PXD004158", "size":40}
 ]
 },
 {
 "name": "PMDX004163",
-"children": [{"name": "PXD004163", "size":285.872154897}
+"children": [{"name": "PXD004163", "size":286}
 ]
 },
 {
@@ -8373,12 +8373,12 @@
 },
 {
 "name": "PMDX004175",
-"children": [{"name": "PXD004175", "size":17.265537619}
+"children": [{"name": "PXD004175", "size":17}
 ]
 },
 {
 "name": "PMDX004181",
-"children": [{"name": "PXD004181", "size":50.751463471}
+"children": [{"name": "PXD004181", "size":51}
 ]
 },
 {
@@ -8388,22 +8388,22 @@
 },
 {
 "name": "PMDX004185",
-"children": [{"name": "PXD004185", "size":552.670433217}
+"children": [{"name": "PXD004185", "size":553}
 ]
 },
 {
 "name": "PMDX004187",
-"children": [{"name": "PXD004187", "size":25.239752665}
+"children": [{"name": "PXD004187", "size":25}
 ]
 },
 {
 "name": "PMDX004188",
-"children": [{"name": "PXD004188", "size":213.185374014}
+"children": [{"name": "PXD004188", "size":213}
 ]
 },
 {
 "name": "PMDX004190",
-"children": [{"name": "PXD004190", "size":173.802064689}
+"children": [{"name": "PXD004190", "size":174}
 ]
 },
 {
@@ -8418,27 +8418,27 @@
 },
 {
 "name": "PMDX004196",
-"children": [{"name": "PXD004196", "size":10.881395152}
+"children": [{"name": "PXD004196", "size":11}
 ]
 },
 {
 "name": "PMDX004198",
-"children": [{"name": "PXD004198", "size":28.493525043}
+"children": [{"name": "PXD004198", "size":28}
 ]
 },
 {
 "name": "PMDX004201",
-"children": [{"name": "PXD004201", "size":19.66458878}
+"children": [{"name": "PXD004201", "size":20}
 ]
 },
 {
 "name": "PMDX004205",
-"children": [{"name": "PXD004205", "size":22.094335322}
+"children": [{"name": "PXD004205", "size":22}
 ]
 },
 {
 "name": "PMDX004212",
-"children": [{"name": "PXD004212", "size":36.895430014}
+"children": [{"name": "PXD004212", "size":37}
 ]
 },
 {
@@ -8448,17 +8448,17 @@
 },
 {
 "name": "PMDX004219",
-"children": [{"name": "PXD004219", "size":31.343542354}
+"children": [{"name": "PXD004219", "size":31}
 ]
 },
 {
 "name": "PMDX004233",
-"children": [{"name": "PXD004233", "size":25.373249207}
+"children": [{"name": "PXD004233", "size":25}
 ]
 },
 {
 "name": "PMDX004241",
-"children": [{"name": "PXD004241", "size":34.594788112}
+"children": [{"name": "PXD004241", "size":35}
 ]
 },
 {
@@ -8468,7 +8468,7 @@
 },
 {
 "name": "PMDX004243",
-"children": [{"name": "PXD004243", "size":14.312567188}
+"children": [{"name": "PXD004243", "size":14}
 ]
 },
 {
@@ -8478,12 +8478,12 @@
 },
 {
 "name": "PMDX004246",
-"children": [{"name": "PXD004246", "size":46.299013526}
+"children": [{"name": "PXD004246", "size":46}
 ]
 },
 {
 "name": "PMDX004248",
-"children": [{"name": "PXD004248", "size":11.944502237}
+"children": [{"name": "PXD004248", "size":12}
 ]
 },
 {
@@ -8501,27 +8501,27 @@
 },
 {
 "name": "PMDX004250",
-"children": [{"name": "PXD004250", "size":13.373260118}
+"children": [{"name": "PXD004250", "size":13}
 ]
 },
 {
 "name": "PMDX004252",
-"children": [{"name": "PXD004252", "size":17.953481532}
+"children": [{"name": "PXD004252", "size":18}
 ]
 },
 {
 "name": "PMDX004253",
-"children": [{"name": "PXD004253", "size":56.601914527}
+"children": [{"name": "PXD004253", "size":57}
 ]
 },
 {
 "name": "PMDX004264",
-"children": [{"name": "PXD004264", "size":82.849750098}
+"children": [{"name": "PXD004264", "size":83}
 ]
 },
 {
 "name": "PMDX004271",
-"children": [{"name": "PXD004271", "size":11.487611838}
+"children": [{"name": "PXD004271", "size":11}
 ]
 },
 {
@@ -8531,7 +8531,7 @@
 },
 {
 "name": "PMDX004280",
-"children": [{"name": "PXD004280", "size":134.190624063}
+"children": [{"name": "PXD004280", "size":134}
 ]
 },
 {
@@ -8559,17 +8559,17 @@
 },
 {
 "name": "PMDX004303",
-"children": [{"name": "PXD004303", "size":148.372396492}
+"children": [{"name": "PXD004303", "size":148}
 ]
 },
 {
 "name": "PMDX004304",
-"children": [{"name": "PXD004304", "size":11.558440565}
+"children": [{"name": "PXD004304", "size":12}
 ]
 },
 {
 "name": "PMDX004312",
-"children": [{"name": "PXD004312", "size":589.659017682}
+"children": [{"name": "PXD004312", "size":590}
 ]
 },
 {
@@ -8621,7 +8621,7 @@
 },
 {
 "name": "PMDX004319",
-"children": [{"name": "PXD004319", "size":68.356834557}
+"children": [{"name": "PXD004319", "size":68}
 ]
 },
 {
@@ -8631,17 +8631,17 @@
 },
 {
 "name": "PMDX004322",
-"children": [{"name": "PXD004322", "size":138.178437337}
+"children": [{"name": "PXD004322", "size":138}
 ]
 },
 {
 "name": "PMDX004332",
-"children": [{"name": "PXD004332", "size":69.224547342}
+"children": [{"name": "PXD004332", "size":69}
 ]
 },
 {
 "name": "PMDX004340",
-"children": [{"name": "PXD004340", "size":16.025583312}
+"children": [{"name": "PXD004340", "size":16}
 ]
 },
 {
@@ -8664,12 +8664,12 @@
 },
 {
 "name": "PMDX004352",
-"children": [{"name": "PXD004352", "size":1133.405988244}
+"children": [{"name": "PXD004352", "size":1133}
 ]
 },
 {
 "name": "PMDX004357",
-"children": [{"name": "PXD004357", "size":18.558334087}
+"children": [{"name": "PXD004357", "size":19}
 ]
 },
 {
@@ -8687,7 +8687,7 @@
 },
 {
 "name": "PMDX004366",
-"children": [{"name": "PXD004366", "size":18.407376856}
+"children": [{"name": "PXD004366", "size":18}
 ]
 },
 {
@@ -8697,7 +8697,7 @@
 },
 {
 "name": "PMDX004373",
-"children": [{"name": "PXD004373", "size":28.347753859}
+"children": [{"name": "PXD004373", "size":28}
 ]
 },
 {
@@ -8707,7 +8707,7 @@
 },
 {
 "name": "PMDX004415",
-"children": [{"name": "PXD004415", "size":89.775404909}
+"children": [{"name": "PXD004415", "size":90}
 ]
 },
 {
@@ -8717,42 +8717,42 @@
 },
 {
 "name": "PMDX004420",
-"children": [{"name": "PXD004420", "size":17.195134377}
+"children": [{"name": "PXD004420", "size":17}
 ]
 },
 {
 "name": "PMDX004423",
-"children": [{"name": "PXD004423", "size":39.006144729}
+"children": [{"name": "PXD004423", "size":39}
 ]
 },
 {
 "name": "PMDX004424",
-"children": [{"name": "PXD004424", "size":27.804414153}
+"children": [{"name": "PXD004424", "size":28}
 ]
 },
 {
 "name": "PMDX004434",
-"children": [{"name": "PXD004434", "size":11.216797919}
+"children": [{"name": "PXD004434", "size":11}
 ]
 },
 {
 "name": "PMDX004437",
-"children": [{"name": "PXD004437", "size":38.022543184}
+"children": [{"name": "PXD004437", "size":38}
 ]
 },
 {
 "name": "PMDX004442",
-"children": [{"name": "PXD004442", "size":281.282667164}
+"children": [{"name": "PXD004442", "size":281}
 ]
 },
 {
 "name": "PMDX004443",
-"children": [{"name": "PXD004443", "size":61.176132909}
+"children": [{"name": "PXD004443", "size":61}
 ]
 },
 {
 "name": "PMDX004445",
-"children": [{"name": "PXD004445", "size":32.551684174}
+"children": [{"name": "PXD004445", "size":33}
 ]
 },
 {
@@ -8767,12 +8767,12 @@
 },
 {
 "name": "PMDX004462",
-"children": [{"name": "PXD004462", "size":22.442048713}
+"children": [{"name": "PXD004462", "size":22}
 ]
 },
 {
 "name": "PMDX004465",
-"children": [{"name": "PXD004465", "size":34.453675639}
+"children": [{"name": "PXD004465", "size":34}
 ]
 },
 {
@@ -8782,17 +8782,17 @@
 },
 {
 "name": "PMDX004471",
-"children": [{"name": "PXD004471", "size":79.085851449}
+"children": [{"name": "PXD004471", "size":79}
 ]
 },
 {
 "name": "PMDX004476",
-"children": [{"name": "PXD004476", "size":57.847235571}
+"children": [{"name": "PXD004476", "size":58}
 ]
 },
 {
 "name": "PMDX004499",
-"children": [{"name": "PXD004499", "size":100.516780777}
+"children": [{"name": "PXD004499", "size":101}
 ]
 },
 {
@@ -8812,12 +8812,12 @@
 },
 {
 "name": "PMDX004529",
-"children": [{"name": "PXD004529", "size":105.740692604}
+"children": [{"name": "PXD004529", "size":106}
 ]
 },
 {
 "name": "PMDX004531",
-"children": [{"name": "PXD004531", "size":42.793997641}
+"children": [{"name": "PXD004531", "size":43}
 ]
 },
 {
@@ -8835,27 +8835,27 @@
 },
 {
 "name": "PMDX004541",
-"children": [{"name": "PXD004541", "size":85.062971853}
+"children": [{"name": "PXD004541", "size":85}
 ]
 },
 {
 "name": "PMDX004555",
-"children": [{"name": "PXD004555", "size":53.059524663}
+"children": [{"name": "PXD004555", "size":53}
 ]
 },
 {
 "name": "PMDX004559",
-"children": [{"name": "PXD004559", "size":87.388405021}
+"children": [{"name": "PXD004559", "size":87}
 ]
 },
 {
 "name": "PMDX004562",
-"children": [{"name": "PXD004562", "size":17.734387387}
+"children": [{"name": "PXD004562", "size":18}
 ]
 },
 {
 "name": "PMDX004569",
-"children": [{"name": "PXD004569", "size":29.087766196}
+"children": [{"name": "PXD004569", "size":29}
 ]
 },
 {
@@ -8887,7 +8887,7 @@
 },
 {
 "name": "PMDX004575",
-"children": [{"name": "PXD004575", "size":89.361349057}
+"children": [{"name": "PXD004575", "size":89}
 ]
 },
 {
@@ -8944,7 +8944,7 @@
 },
 {
 "name": "PMDX004628",
-"children": [{"name": "PXD004628", "size":26.933230507}
+"children": [{"name": "PXD004628", "size":27}
 ]
 },
 {
@@ -8954,7 +8954,7 @@
 },
 {
 "name": "PMDX004647",
-"children": [{"name": "PXD004647", "size":12.787065711}
+"children": [{"name": "PXD004647", "size":13}
 ]
 },
 {
@@ -8964,37 +8964,37 @@
 },
 {
 "name": "PMDX004658",
-"children": [{"name": "PXD004658", "size":225.135284154}
+"children": [{"name": "PXD004658", "size":225}
 ]
 },
 {
 "name": "PMDX004659",
-"children": [{"name": "PXD004659", "size":22.20203947}
+"children": [{"name": "PXD004659", "size":22}
 ]
 },
 {
 "name": "PMDX004665",
-"children": [{"name": "PXD004665", "size":16.091050806}
+"children": [{"name": "PXD004665", "size":16}
 ]
 },
 {
 "name": "PMDX004666",
-"children": [{"name": "PXD004666", "size":729.844702497}
+"children": [{"name": "PXD004666", "size":730}
 ]
 },
 {
 "name": "PMDX004668",
-"children": [{"name": "PXD004668", "size":57.263403927}
+"children": [{"name": "PXD004668", "size":57}
 ]
 },
 {
 "name": "PMDX004669",
-"children": [{"name": "PXD004669", "size":47.131682333}
+"children": [{"name": "PXD004669", "size":47}
 ]
 },
 {
 "name": "PMDX004678",
-"children": [{"name": "PXD004678", "size":146.051627832}
+"children": [{"name": "PXD004678", "size":146}
 ]
 },
 {
@@ -9046,32 +9046,32 @@
 },
 {
 "name": "PMDX004686",
-"children": [{"name": "PXD004686", "size":15.290257631}
+"children": [{"name": "PXD004686", "size":15}
 ]
 },
 {
 "name": "PMDX004690",
-"children": [{"name": "PXD004690", "size":42.502436233}
+"children": [{"name": "PXD004690", "size":43}
 ]
 },
 {
 "name": "PMDX004696",
-"children": [{"name": "PXD004696", "size":262.330374273}
+"children": [{"name": "PXD004696", "size":262}
 ]
 },
 {
 "name": "PMDX004700",
-"children": [{"name": "PXD004700", "size":29.452791874}
+"children": [{"name": "PXD004700", "size":29}
 ]
 },
 {
 "name": "PMDX004707",
-"children": [{"name": "PXD004707", "size":55.304904357}
+"children": [{"name": "PXD004707", "size":55}
 ]
 },
 {
 "name": "PMDX004710",
-"children": [{"name": "PXD004710", "size":148.433925562}
+"children": [{"name": "PXD004710", "size":148}
 ]
 },
 {
@@ -9081,12 +9081,12 @@
 },
 {
 "name": "PMDX004724",
-"children": [{"name": "PXD004724", "size":24.052929005}
+"children": [{"name": "PXD004724", "size":24}
 ]
 },
 {
 "name": "PMDX004725",
-"children": [{"name": "PXD004725", "size":56.735270068}
+"children": [{"name": "PXD004725", "size":57}
 ]
 },
 {
@@ -9096,12 +9096,12 @@
 },
 {
 "name": "PMDX004734",
-"children": [{"name": "PXD004734", "size":48.87229037}
+"children": [{"name": "PXD004734", "size":49}
 ]
 },
 {
 "name": "PMDX004736",
-"children": [{"name": "PXD004736", "size":58.048072468}
+"children": [{"name": "PXD004736", "size":58}
 ]
 },
 {
@@ -9124,12 +9124,12 @@
 },
 {
 "name": "PMDX004752",
-"children": [{"name": "PXD004752", "size":12.634690871}
+"children": [{"name": "PXD004752", "size":13}
 ]
 },
 {
 "name": "PMDX004762",
-"children": [{"name": "PXD004762", "size":17.630741885}
+"children": [{"name": "PXD004762", "size":18}
 ]
 },
 {
@@ -9181,7 +9181,7 @@
 },
 {
 "name": "PMDX004779",
-"children": [{"name": "PXD004779", "size":30.859044311}
+"children": [{"name": "PXD004779", "size":31}
 ]
 },
 {
@@ -9199,7 +9199,7 @@
 },
 {
 "name": "PMDX004785",
-"children": [{"name": "PXD004785", "size":118.703638755}
+"children": [{"name": "PXD004785", "size":119}
 ]
 },
 {
@@ -9209,7 +9209,7 @@
 },
 {
 "name": "PMDX004801",
-"children": [{"name": "PXD004801", "size":28.873161933}
+"children": [{"name": "PXD004801", "size":29}
 ]
 },
 {
@@ -9229,37 +9229,37 @@
 },
 {
 "name": "PMDX004817",
-"children": [{"name": "PXD004817", "size":173.794799833}
+"children": [{"name": "PXD004817", "size":174}
 ]
 },
 {
 "name": "PMDX004818",
-"children": [{"name": "PXD004818", "size":40.325737259}
+"children": [{"name": "PXD004818", "size":40}
 ]
 },
 {
 "name": "PMDX004824",
-"children": [{"name": "PXD004824", "size":25.514671252}
+"children": [{"name": "PXD004824", "size":26}
 ]
 },
 {
 "name": "PMDX004859",
-"children": [{"name": "PXD004859", "size":69.214585677}
+"children": [{"name": "PXD004859", "size":69}
 ]
 },
 {
 "name": "PMDX004863",
-"children": [{"name": "PXD004863", "size":85.068277691}
+"children": [{"name": "PXD004863", "size":85}
 ]
 },
 {
 "name": "PMDX004867",
-"children": [{"name": "PXD004867", "size":35.09017772}
+"children": [{"name": "PXD004867", "size":35}
 ]
 },
 {
 "name": "PMDX004868",
-"children": [{"name": "PXD004868", "size":31.36534603}
+"children": [{"name": "PXD004868", "size":31}
 ]
 },
 {
@@ -9274,7 +9274,7 @@
 },
 {
 "name": "PMDX004875",
-"children": [{"name": "PXD004875", "size":26.582934892}
+"children": [{"name": "PXD004875", "size":27}
 ]
 },
 {
@@ -9302,12 +9302,12 @@
 },
 {
 "name": "PMDX004894",
-"children": [{"name": "PXD004894", "size":186.281323049}
+"children": [{"name": "PXD004894", "size":186}
 ]
 },
 {
 "name": "PMDX004895",
-"children": [{"name": "PXD004895", "size":17.600205812}
+"children": [{"name": "PXD004895", "size":18}
 ]
 },
 {
@@ -9317,17 +9317,17 @@
 },
 {
 "name": "PMDX004910",
-"children": [{"name": "PXD004910", "size":210.733014547}
+"children": [{"name": "PXD004910", "size":211}
 ]
 },
 {
 "name": "PMDX004912",
-"children": [{"name": "PXD004912", "size":17.857423801}
+"children": [{"name": "PXD004912", "size":18}
 ]
 },
 {
 "name": "PMDX004914",
-"children": [{"name": "PXD004914", "size":41.833616426}
+"children": [{"name": "PXD004914", "size":42}
 ]
 },
 {
@@ -9337,12 +9337,12 @@
 },
 {
 "name": "PMDX004919",
-"children": [{"name": "PXD004919", "size":27.892057916}
+"children": [{"name": "PXD004919", "size":28}
 ]
 },
 {
 "name": "PMDX004920",
-"children": [{"name": "PXD004920", "size":88.150295143}
+"children": [{"name": "PXD004920", "size":88}
 ]
 },
 {
@@ -9360,37 +9360,37 @@
 },
 {
 "name": "PMDX004930",
-"children": [{"name": "PXD004930", "size":28.73206569}
+"children": [{"name": "PXD004930", "size":29}
 ]
 },
 {
 "name": "PMDX004931",
-"children": [{"name": "PXD004931", "size":21.310249263}
+"children": [{"name": "PXD004931", "size":21}
 ]
 },
 {
 "name": "PMDX004935",
-"children": [{"name": "PXD004935", "size":26.671074791}
+"children": [{"name": "PXD004935", "size":27}
 ]
 },
 {
 "name": "PMDX004936",
-"children": [{"name": "PXD004936", "size":132.426040377}
+"children": [{"name": "PXD004936", "size":132}
 ]
 },
 {
 "name": "PMDX004940",
-"children": [{"name": "PXD004940", "size":199.239263122}
+"children": [{"name": "PXD004940", "size":199}
 ]
 },
 {
 "name": "PMDX004941",
-"children": [{"name": "PXD004941", "size":19.25200837}
+"children": [{"name": "PXD004941", "size":19}
 ]
 },
 {
 "name": "PMDX004945",
-"children": [{"name": "PXD004945", "size":41.985853808}
+"children": [{"name": "PXD004945", "size":42}
 ]
 },
 {
@@ -9400,7 +9400,7 @@
 },
 {
 "name": "PMDX004952",
-"children": [{"name": "PXD004952", "size":16.88667894}
+"children": [{"name": "PXD004952", "size":17}
 ]
 },
 {
@@ -9415,17 +9415,17 @@
 },
 {
 "name": "PMDX004967",
-"children": [{"name": "PXD004967", "size":12.126552433}
+"children": [{"name": "PXD004967", "size":12}
 ]
 },
 {
 "name": "PMDX004971",
-"children": [{"name": "PXD004971", "size":12.007041326}
+"children": [{"name": "PXD004971", "size":12}
 ]
 },
 {
 "name": "PMDX004977",
-"children": [{"name": "PXD004977", "size":85.292150431}
+"children": [{"name": "PXD004977", "size":85}
 ]
 },
 {
@@ -9435,12 +9435,12 @@
 },
 {
 "name": "PMDX004987",
-"children": [{"name": "PXD004987", "size":20.248450805}
+"children": [{"name": "PXD004987", "size":20}
 ]
 },
 {
 "name": "PMDX005008",
-"children": [{"name": "PXD005008", "size":11.048805948}
+"children": [{"name": "PXD005008", "size":11}
 ]
 },
 {
@@ -9450,7 +9450,7 @@
 },
 {
 "name": "PMDX005018",
-"children": [{"name": "PXD005018", "size":18.274958905}
+"children": [{"name": "PXD005018", "size":18}
 ]
 },
 {
@@ -9460,32 +9460,32 @@
 },
 {
 "name": "PMDX005022",
-"children": [{"name": "PXD005022", "size":1439.539683763}
+"children": [{"name": "PXD005022", "size":1440}
 ]
 },
 {
 "name": "PMDX005039",
-"children": [{"name": "PXD005039", "size":28.881258506}
+"children": [{"name": "PXD005039", "size":29}
 ]
 },
 {
 "name": "PMDX005045",
-"children": [{"name": "PXD005045", "size":21.045501857}
+"children": [{"name": "PXD005045", "size":21}
 ]
 },
 {
 "name": "PMDX005055",
-"children": [{"name": "PXD005055", "size":54.110389164}
+"children": [{"name": "PXD005055", "size":54}
 ]
 },
 {
 "name": "PMDX005058",
-"children": [{"name": "PXD005058", "size":25.63742637}
+"children": [{"name": "PXD005058", "size":26}
 ]
 },
 {
 "name": "PMDX005073",
-"children": [{"name": "PXD005073", "size":64.502746017}
+"children": [{"name": "PXD005073", "size":65}
 ]
 },
 {
@@ -9495,12 +9495,12 @@
 },
 {
 "name": "PMDX005083",
-"children": [{"name": "PXD005083", "size":67.264763917}
+"children": [{"name": "PXD005083", "size":67}
 ]
 },
 {
 "name": "PMDX005084",
-"children": [{"name": "PXD005084", "size":27.540812877}
+"children": [{"name": "PXD005084", "size":28}
 ]
 },
 {
@@ -9510,12 +9510,12 @@
 },
 {
 "name": "PMDX005090",
-"children": [{"name": "PXD005090", "size":10.503458043}
+"children": [{"name": "PXD005090", "size":11}
 ]
 },
 {
 "name": "PMDX005107",
-"children": [{"name": "PXD005107", "size":25.248769595}
+"children": [{"name": "PXD005107", "size":25}
 ]
 },
 {
@@ -9558,12 +9558,12 @@
 },
 {
 "name": "PMDX005141",
-"children": [{"name": "PXD005141", "size":322.435168507}
+"children": [{"name": "PXD005141", "size":322}
 ]
 },
 {
 "name": "PMDX005144",
-"children": [{"name": "PXD005144", "size":1525.019548625}
+"children": [{"name": "PXD005144", "size":1525}
 ]
 },
 {
@@ -9573,7 +9573,7 @@
 },
 {
 "name": "PMDX005150",
-"children": [{"name": "PXD005150", "size":17.109458712}
+"children": [{"name": "PXD005150", "size":17}
 ]
 },
 {
@@ -9583,7 +9583,7 @@
 },
 {
 "name": "PMDX005154",
-"children": [{"name": "PXD005154", "size":59.547829232}
+"children": [{"name": "PXD005154", "size":60}
 ]
 },
 {
@@ -9691,12 +9691,12 @@
 },
 {
 "name": "PMDX005194",
-"children": [{"name": "PXD005194", "size":27.359328722}
+"children": [{"name": "PXD005194", "size":27}
 ]
 },
 {
 "name": "PMDX005200",
-"children": [{"name": "PXD005200", "size":119.339640033}
+"children": [{"name": "PXD005200", "size":119}
 ]
 },
 {
@@ -9714,12 +9714,12 @@
 },
 {
 "name": "PMDX005210",
-"children": [{"name": "PXD005210", "size":52.51678345}
+"children": [{"name": "PXD005210", "size":53}
 ]
 },
 {
 "name": "PMDX005214",
-"children": [{"name": "PXD005214", "size":40.136587488}
+"children": [{"name": "PXD005214", "size":40}
 ]
 },
 {
@@ -9752,12 +9752,12 @@
 },
 {
 "name": "PMDX005235",
-"children": [{"name": "PXD005235", "size":538.987009334}
+"children": [{"name": "PXD005235", "size":539}
 ]
 },
 {
 "name": "PMDX005240",
-"children": [{"name": "PXD005240", "size":12.739784557}
+"children": [{"name": "PXD005240", "size":13}
 ]
 },
 {
@@ -9767,22 +9767,22 @@
 },
 {
 "name": "PMDX005246",
-"children": [{"name": "PXD005246", "size":28.90530493}
+"children": [{"name": "PXD005246", "size":29}
 ]
 },
 {
 "name": "PMDX005252",
-"children": [{"name": "PXD005252", "size":766.906344381}
+"children": [{"name": "PXD005252", "size":767}
 ]
 },
 {
 "name": "PMDX005253",
-"children": [{"name": "PXD005253", "size":14.795590376}
+"children": [{"name": "PXD005253", "size":15}
 ]
 },
 {
 "name": "PMDX005267",
-"children": [{"name": "PXD005267", "size":42.250206846}
+"children": [{"name": "PXD005267", "size":42}
 ]
 },
 {
@@ -9800,7 +9800,7 @@
 },
 {
 "name": "PMDX005276",
-"children": [{"name": "PXD005276", "size":66.316015728}
+"children": [{"name": "PXD005276", "size":66}
 ]
 },
 {
@@ -9857,17 +9857,17 @@
 },
 {
 "name": "PMDX005301",
-"children": [{"name": "PXD005301", "size":32.712622684}
+"children": [{"name": "PXD005301", "size":33}
 ]
 },
 {
 "name": "PMDX005303",
-"children": [{"name": "PXD005303", "size":47.668453078}
+"children": [{"name": "PXD005303", "size":48}
 ]
 },
 {
 "name": "PMDX005304",
-"children": [{"name": "PXD005304", "size":56.677769023}
+"children": [{"name": "PXD005304", "size":57}
 ]
 },
 {
@@ -9895,7 +9895,7 @@
 },
 {
 "name": "PMDX005323",
-"children": [{"name": "PXD005323", "size":25.667224085}
+"children": [{"name": "PXD005323", "size":26}
 ]
 },
 {
@@ -9905,7 +9905,7 @@
 },
 {
 "name": "PMDX005336",
-"children": [{"name": "PXD005336", "size":904.207524121}
+"children": [{"name": "PXD005336", "size":904}
 ]
 },
 {
@@ -9950,12 +9950,12 @@
 },
 {
 "name": "PMDX005361",
-"children": [{"name": "PXD005361", "size":19.624373099}
+"children": [{"name": "PXD005361", "size":20}
 ]
 },
 {
 "name": "PMDX005366",
-"children": [{"name": "PXD005366", "size":87.049350843}
+"children": [{"name": "PXD005366", "size":87}
 ]
 },
 {
@@ -9965,12 +9965,12 @@
 },
 {
 "name": "PMDX005410",
-"children": [{"name": "PXD005410", "size":126.864545104}
+"children": [{"name": "PXD005410", "size":127}
 ]
 },
 {
 "name": "PMDX005414",
-"children": [{"name": "PXD005414", "size":12.851789953}
+"children": [{"name": "PXD005414", "size":13}
 ]
 },
 {
@@ -9980,12 +9980,12 @@
 },
 {
 "name": "PMDX005420",
-"children": [{"name": "PXD005420", "size":25.554730773}
+"children": [{"name": "PXD005420", "size":26}
 ]
 },
 {
 "name": "PMDX005421",
-"children": [{"name": "PXD005421", "size":46.682117827}
+"children": [{"name": "PXD005421", "size":47}
 ]
 },
 {
@@ -10000,17 +10000,17 @@
 },
 {
 "name": "PMDX005436",
-"children": [{"name": "PXD005436", "size":56.618181541}
+"children": [{"name": "PXD005436", "size":57}
 ]
 },
 {
 "name": "PMDX005444",
-"children": [{"name": "PXD005444", "size":25.05843633}
+"children": [{"name": "PXD005444", "size":25}
 ]
 },
 {
 "name": "PMDX005445",
-"children": [{"name": "PXD005445", "size":203.155894746}
+"children": [{"name": "PXD005445", "size":203}
 ]
 },
 {
@@ -10025,17 +10025,17 @@
 },
 {
 "name": "PMDX005462",
-"children": [{"name": "PXD005462", "size":22.817380856}
+"children": [{"name": "PXD005462", "size":23}
 ]
 },
 {
 "name": "PMDX005464",
-"children": [{"name": "PXD005464", "size":44.717674703}
+"children": [{"name": "PXD005464", "size":45}
 ]
 },
 {
 "name": "PMDX005465",
-"children": [{"name": "PXD005465", "size":20.424380783}
+"children": [{"name": "PXD005465", "size":20}
 ]
 },
 {
@@ -10053,7 +10053,7 @@
 },
 {
 "name": "PMDX005467",
-"children": [{"name": "PXD005467", "size":348.682816599}
+"children": [{"name": "PXD005467", "size":349}
 ]
 },
 {
@@ -10085,7 +10085,7 @@
 },
 {
 "name": "PMDX005479",
-"children": [{"name": "PXD005479", "size":374.990452007}
+"children": [{"name": "PXD005479", "size":375}
 ]
 },
 {
@@ -10100,7 +10100,7 @@
 },
 {
 "name": "PMDX005486",
-"children": [{"name": "PXD005486", "size":69.652717292}
+"children": [{"name": "PXD005486", "size":70}
 ]
 },
 {
@@ -10118,7 +10118,7 @@
 },
 {
 "name": "PMDX005493",
-"children": [{"name": "PXD005493", "size":108.236007551}
+"children": [{"name": "PXD005493", "size":108}
 ]
 },
 {
@@ -10183,17 +10183,17 @@
 },
 {
 "name": "PMDX005517",
-"children": [{"name": "PXD005517", "size":510.834486282}
+"children": [{"name": "PXD005517", "size":511}
 ]
 },
 {
 "name": "PMDX005520",
-"children": [{"name": "PXD005520", "size":157.662539365}
+"children": [{"name": "PXD005520", "size":158}
 ]
 },
 {
 "name": "PMDX005536",
-"children": [{"name": "PXD005536", "size":80.39093197}
+"children": [{"name": "PXD005536", "size":80}
 ]
 },
 {
@@ -10208,7 +10208,7 @@
 },
 {
 "name": "PMDX005551",
-"children": [{"name": "PXD005551", "size":213.199847273}
+"children": [{"name": "PXD005551", "size":213}
 ]
 },
 {
@@ -10218,27 +10218,27 @@
 },
 {
 "name": "PMDX005559",
-"children": [{"name": "PXD005559", "size":54.244824544}
+"children": [{"name": "PXD005559", "size":54}
 ]
 },
 {
 "name": "PMDX005566",
-"children": [{"name": "PXD005566", "size":16.438228611}
+"children": [{"name": "PXD005566", "size":16}
 ]
 },
 {
 "name": "PMDX005567",
-"children": [{"name": "PXD005567", "size":50.302645558}
+"children": [{"name": "PXD005567", "size":50}
 ]
 },
 {
 "name": "PMDX005571",
-"children": [{"name": "PXD005571", "size":203.509130096}
+"children": [{"name": "PXD005571", "size":204}
 ]
 },
 {
 "name": "PMDX005572",
-"children": [{"name": "PXD005572", "size":35.948965678}
+"children": [{"name": "PXD005572", "size":36}
 ]
 },
 {
@@ -10248,17 +10248,17 @@
 },
 {
 "name": "PMDX005574",
-"children": [{"name": "PXD005574", "size":17.068165257}
+"children": [{"name": "PXD005574", "size":17}
 ]
 },
 {
 "name": "PMDX005575",
-"children": [{"name": "PXD005575", "size":10.145825446}
+"children": [{"name": "PXD005575", "size":10}
 ]
 },
 {
 "name": "PMDX005583",
-"children": [{"name": "PXD005583", "size":202.860310365}
+"children": [{"name": "PXD005583", "size":203}
 ]
 },
 {
@@ -10273,7 +10273,7 @@
 },
 {
 "name": "PMDX005610",
-"children": [{"name": "PXD005610", "size":66.071761326}
+"children": [{"name": "PXD005610", "size":66}
 ]
 },
 {
@@ -10283,27 +10283,27 @@
 },
 {
 "name": "PMDX005620",
-"children": [{"name": "PXD005620", "size":15.617080661}
+"children": [{"name": "PXD005620", "size":16}
 ]
 },
 {
 "name": "PMDX005627",
-"children": [{"name": "PXD005627", "size":79.901542457}
+"children": [{"name": "PXD005627", "size":80}
 ]
 },
 {
 "name": "PMDX005629",
-"children": [{"name": "PXD005629", "size":59.765216409}
+"children": [{"name": "PXD005629", "size":60}
 ]
 },
 {
 "name": "PMDX005633",
-"children": [{"name": "PXD005633", "size":10.786087302}
+"children": [{"name": "PXD005633", "size":11}
 ]
 },
 {
 "name": "PMDX005643",
-"children": [{"name": "PXD005643", "size":24.750855904}
+"children": [{"name": "PXD005643", "size":25}
 ]
 },
 {
@@ -10313,22 +10313,22 @@
 },
 {
 "name": "PMDX005647",
-"children": [{"name": "PXD005647", "size":87.766737355}
+"children": [{"name": "PXD005647", "size":88}
 ]
 },
 {
 "name": "PMDX005650",
-"children": [{"name": "PXD005650", "size":29.632578777}
+"children": [{"name": "PXD005650", "size":30}
 ]
 },
 {
 "name": "PMDX005654",
-"children": [{"name": "PXD005654", "size":11.886573066}
+"children": [{"name": "PXD005654", "size":12}
 ]
 },
 {
 "name": "PMDX005655",
-"children": [{"name": "PXD005655", "size":18.274671005}
+"children": [{"name": "PXD005655", "size":18}
 ]
 },
 {
@@ -10338,22 +10338,22 @@
 },
 {
 "name": "PMDX005661",
-"children": [{"name": "PXD005661", "size":13.965059255}
+"children": [{"name": "PXD005661", "size":14}
 ]
 },
 {
 "name": "PMDX005664",
-"children": [{"name": "PXD005664", "size":28.748710924}
+"children": [{"name": "PXD005664", "size":29}
 ]
 },
 {
 "name": "PMDX005671",
-"children": [{"name": "PXD005671", "size":130.458424925}
+"children": [{"name": "PXD005671", "size":130}
 ]
 },
 {
 "name": "PMDX005675",
-"children": [{"name": "PXD005675", "size":94.283244039}
+"children": [{"name": "PXD005675", "size":94}
 ]
 },
 {
@@ -10363,7 +10363,7 @@
 },
 {
 "name": "PMDX005679",
-"children": [{"name": "PXD005679", "size":41.587286864}
+"children": [{"name": "PXD005679", "size":42}
 ]
 },
 {
@@ -10386,12 +10386,12 @@
 },
 {
 "name": "PMDX005698",
-"children": [{"name": "PXD005698", "size":49.669718551}
+"children": [{"name": "PXD005698", "size":50}
 ]
 },
 {
 "name": "PMDX005706",
-"children": [{"name": "PXD005706", "size":198.990554806}
+"children": [{"name": "PXD005706", "size":199}
 ]
 },
 {
@@ -10401,12 +10401,12 @@
 },
 {
 "name": "PMDX005719",
-"children": [{"name": "PXD005719", "size":24.607531796}
+"children": [{"name": "PXD005719", "size":25}
 ]
 },
 {
 "name": "PMDX005734",
-"children": [{"name": "PXD005734", "size":29.972489775}
+"children": [{"name": "PXD005734", "size":30}
 ]
 },
 {
@@ -10426,17 +10426,17 @@
 },
 {
 "name": "PMDX005746",
-"children": [{"name": "PXD005746", "size":29.184213668}
+"children": [{"name": "PXD005746", "size":29}
 ]
 },
 {
 "name": "PMDX005748",
-"children": [{"name": "PXD005748", "size":81.363387496}
+"children": [{"name": "PXD005748", "size":81}
 ]
 },
 {
 "name": "PMDX005753",
-"children": [{"name": "PXD005753", "size":19.920594379}
+"children": [{"name": "PXD005753", "size":20}
 ]
 },
 {
@@ -10451,12 +10451,12 @@
 },
 {
 "name": "PMDX005766",
-"children": [{"name": "PXD005766", "size":137.157085752}
+"children": [{"name": "PXD005766", "size":137}
 ]
 },
 {
 "name": "PMDX005777",
-"children": [{"name": "PXD005777", "size":83.707054073}
+"children": [{"name": "PXD005777", "size":84}
 ]
 },
 {
@@ -10466,7 +10466,7 @@
 },
 {
 "name": "PMDX005798",
-"children": [{"name": "PXD005798", "size":18.649715768}
+"children": [{"name": "PXD005798", "size":19}
 ]
 },
 {
@@ -10476,7 +10476,7 @@
 },
 {
 "name": "PMDX005814",
-"children": [{"name": "PXD005814", "size":176.706864151}
+"children": [{"name": "PXD005814", "size":177}
 ]
 },
 {
@@ -10494,7 +10494,7 @@
 },
 {
 "name": "PMDX005823",
-"children": [{"name": "PXD005823", "size":171.619591256}
+"children": [{"name": "PXD005823", "size":172}
 ]
 },
 {
@@ -10504,17 +10504,17 @@
 },
 {
 "name": "PMDX005831",
-"children": [{"name": "PXD005831", "size":45.643339247}
+"children": [{"name": "PXD005831", "size":46}
 ]
 },
 {
 "name": "PMDX005833",
-"children": [{"name": "PXD005833", "size":21.746368264}
+"children": [{"name": "PXD005833", "size":22}
 ]
 },
 {
 "name": "PMDX005838",
-"children": [{"name": "PXD005838", "size":36.438649171}
+"children": [{"name": "PXD005838", "size":36}
 ]
 },
 {
@@ -10532,7 +10532,7 @@
 },
 {
 "name": "PMDX005846",
-"children": [{"name": "PXD005846", "size":234.963011171}
+"children": [{"name": "PXD005846", "size":235}
 ]
 },
 {
@@ -10560,7 +10560,7 @@
 },
 {
 "name": "PMDX005858",
-"children": [{"name": "PXD005858", "size":41.142092738}
+"children": [{"name": "PXD005858", "size":41}
 ]
 },
 {
@@ -10570,7 +10570,7 @@
 },
 {
 "name": "PMDX005865",
-"children": [{"name": "PXD005865", "size":11.882459411}
+"children": [{"name": "PXD005865", "size":12}
 ]
 },
 {
@@ -10585,12 +10585,12 @@
 },
 {
 "name": "PMDX005873",
-"children": [{"name": "PXD005873", "size":87.986392477}
+"children": [{"name": "PXD005873", "size":88}
 ]
 },
 {
 "name": "PMDX005878",
-"children": [{"name": "PXD005878", "size":57.798327416}
+"children": [{"name": "PXD005878", "size":58}
 ]
 },
 {
@@ -10600,7 +10600,7 @@
 },
 {
 "name": "PMDX005883",
-"children": [{"name": "PXD005883", "size":30.586773803}
+"children": [{"name": "PXD005883", "size":31}
 ]
 },
 {
@@ -10610,7 +10610,7 @@
 },
 {
 "name": "PMDX005892",
-"children": [{"name": "PXD005892", "size":42.24833832}
+"children": [{"name": "PXD005892", "size":42}
 ]
 },
 {
@@ -10625,17 +10625,17 @@
 },
 {
 "name": "PMDX005913",
-"children": [{"name": "PXD005913", "size":55.389518244}
+"children": [{"name": "PXD005913", "size":55}
 ]
 },
 {
 "name": "PMDX005921",
-"children": [{"name": "PXD005921", "size":232.326945138}
+"children": [{"name": "PXD005921", "size":232}
 ]
 },
 {
 "name": "PMDX005931",
-"children": [{"name": "PXD005931", "size":37.093474006}
+"children": [{"name": "PXD005931", "size":37}
 ]
 },
 {
@@ -10672,7 +10672,7 @@
 },
 {
 "name": "PMDX005949",
-"children": [{"name": "PXD005949", "size":217.937810577}
+"children": [{"name": "PXD005949", "size":218}
 ]
 },
 {
@@ -10722,17 +10722,17 @@
 },
 {
 "name": "PMDX005960",
-"children": [{"name": "PXD005960", "size":10.043764999}
+"children": [{"name": "PXD005960", "size":10}
 ]
 },
 {
 "name": "PMDX005972",
-"children": [{"name": "PXD005972", "size":63.281633837}
+"children": [{"name": "PXD005972", "size":63}
 ]
 },
 {
 "name": "PMDX005976",
-"children": [{"name": "PXD005976", "size":30.785535609}
+"children": [{"name": "PXD005976", "size":31}
 ]
 },
 {
@@ -10760,7 +10760,7 @@
 },
 {
 "name": "PMDX005992",
-"children": [{"name": "PXD005992", "size":10.661608175}
+"children": [{"name": "PXD005992", "size":11}
 ]
 },
 {
@@ -10778,7 +10778,7 @@
 },
 {
 "name": "PMDX006006",
-"children": [{"name": "PXD006006", "size":37.093857134}
+"children": [{"name": "PXD006006", "size":37}
 ]
 },
 {
@@ -10796,7 +10796,7 @@
 },
 {
 "name": "PMDX006026",
-"children": [{"name": "PXD006026", "size":72.59669388}
+"children": [{"name": "PXD006026", "size":73}
 ]
 },
 {
@@ -10806,22 +10806,22 @@
 },
 {
 "name": "PMDX006035",
-"children": [{"name": "PXD006035", "size":44.910393716}
+"children": [{"name": "PXD006035", "size":45}
 ]
 },
 {
 "name": "PMDX006036",
-"children": [{"name": "PXD006036", "size":15.268780953}
+"children": [{"name": "PXD006036", "size":15}
 ]
 },
 {
 "name": "PMDX006053",
-"children": [{"name": "PXD006053", "size":26.699989528}
+"children": [{"name": "PXD006053", "size":27}
 ]
 },
 {
 "name": "PMDX006055",
-"children": [{"name": "PXD006055", "size":18.300333524}
+"children": [{"name": "PXD006055", "size":18}
 ]
 },
 {
@@ -10836,12 +10836,12 @@
 },
 {
 "name": "PMDX006078",
-"children": [{"name": "PXD006078", "size":10.533332915}
+"children": [{"name": "PXD006078", "size":11}
 ]
 },
 {
 "name": "PMDX006081",
-"children": [{"name": "PXD006081", "size":68.428756271}
+"children": [{"name": "PXD006081", "size":68}
 ]
 },
 {
@@ -10869,12 +10869,12 @@
 },
 {
 "name": "PMDX006106",
-"children": [{"name": "PXD006106", "size":84.940112918}
+"children": [{"name": "PXD006106", "size":85}
 ]
 },
 {
 "name": "PMDX006109",
-"children": [{"name": "PXD006109", "size":241.992344882}
+"children": [{"name": "PXD006109", "size":242}
 ]
 },
 {
@@ -10884,7 +10884,7 @@
 },
 {
 "name": "PMDX006114",
-"children": [{"name": "PXD006114", "size":29.101142178}
+"children": [{"name": "PXD006114", "size":29}
 ]
 },
 {
@@ -10894,12 +10894,12 @@
 },
 {
 "name": "PMDX006119",
-"children": [{"name": "PXD006119", "size":23.249308886}
+"children": [{"name": "PXD006119", "size":23}
 ]
 },
 {
 "name": "PMDX006122",
-"children": [{"name": "PXD006122", "size":232.638643141}
+"children": [{"name": "PXD006122", "size":233}
 ]
 },
 {
@@ -10914,7 +10914,7 @@
 },
 {
 "name": "PMDX006132",
-"children": [{"name": "PXD006132", "size":107.792468617}
+"children": [{"name": "PXD006132", "size":108}
 ]
 },
 {
@@ -10924,7 +10924,7 @@
 },
 {
 "name": "PMDX006137",
-"children": [{"name": "PXD006137", "size":47.957958902}
+"children": [{"name": "PXD006137", "size":48}
 ]
 },
 {
@@ -10942,17 +10942,17 @@
 },
 {
 "name": "PMDX006139",
-"children": [{"name": "PXD006139", "size":36.521828986}
+"children": [{"name": "PXD006139", "size":37}
 ]
 },
 {
 "name": "PMDX006155",
-"children": [{"name": "PXD006155", "size":26.634685097}
+"children": [{"name": "PXD006155", "size":27}
 ]
 },
 {
 "name": "PMDX006157",
-"children": [{"name": "PXD006157", "size":152.05466225}
+"children": [{"name": "PXD006157", "size":152}
 ]
 },
 {
@@ -10962,7 +10962,7 @@
 },
 {
 "name": "PMDX006178",
-"children": [{"name": "PXD006178", "size":86.471390146}
+"children": [{"name": "PXD006178", "size":86}
 ]
 },
 {
@@ -10972,17 +10972,17 @@
 },
 {
 "name": "PMDX006182",
-"children": [{"name": "PXD006182", "size":189.299024662}
+"children": [{"name": "PXD006182", "size":189}
 ]
 },
 {
 "name": "PMDX006188",
-"children": [{"name": "PXD006188", "size":258.704335655}
+"children": [{"name": "PXD006188", "size":259}
 ]
 },
 {
 "name": "PMDX006190",
-"children": [{"name": "PXD006190", "size":41.124471261}
+"children": [{"name": "PXD006190", "size":41}
 ]
 },
 {
@@ -11029,7 +11029,7 @@
 },
 {
 "name": "PMDX006215",
-"children": [{"name": "PXD006215", "size":15.391124965}
+"children": [{"name": "PXD006215", "size":15}
 ]
 },
 {
@@ -11057,12 +11057,12 @@
 },
 {
 "name": "PMDX006236",
-"children": [{"name": "PXD006236", "size":54.630615698}
+"children": [{"name": "PXD006236", "size":55}
 ]
 },
 {
 "name": "PMDX006252",
-"children": [{"name": "PXD006252", "size":18.130819005}
+"children": [{"name": "PXD006252", "size":18}
 ]
 },
 {
@@ -11090,7 +11090,7 @@
 },
 {
 "name": "PMDX006268",
-"children": [{"name": "PXD006268", "size":36.010609672}
+"children": [{"name": "PXD006268", "size":36}
 ]
 },
 {
@@ -11100,7 +11100,7 @@
 },
 {
 "name": "PMDX006279",
-"children": [{"name": "PXD006279", "size":40.03279973}
+"children": [{"name": "PXD006279", "size":40}
 ]
 },
 {
@@ -11118,22 +11118,22 @@
 },
 {
 "name": "PMDX006291",
-"children": [{"name": "PXD006291", "size":412.3213858}
+"children": [{"name": "PXD006291", "size":412}
 ]
 },
 {
 "name": "PMDX006293",
-"children": [{"name": "PXD006293", "size":16.192497399}
+"children": [{"name": "PXD006293", "size":16}
 ]
 },
 {
 "name": "PMDX006296",
-"children": [{"name": "PXD006296", "size":82.104540104}
+"children": [{"name": "PXD006296", "size":82}
 ]
 },
 {
 "name": "PMDX006297",
-"children": [{"name": "PXD006297", "size":25.693820868}
+"children": [{"name": "PXD006297", "size":26}
 ]
 },
 {
@@ -11171,17 +11171,17 @@
 },
 {
 "name": "PMDX006333",
-"children": [{"name": "PXD006333", "size":65.273331936}
+"children": [{"name": "PXD006333", "size":65}
 ]
 },
 {
 "name": "PMDX006335",
-"children": [{"name": "PXD006335", "size":50.131482513}
+"children": [{"name": "PXD006335", "size":50}
 ]
 },
 {
 "name": "PMDX006339",
-"children": [{"name": "PXD006339", "size":41.741162703}
+"children": [{"name": "PXD006339", "size":42}
 ]
 },
 {
@@ -11191,7 +11191,7 @@
 },
 {
 "name": "PMDX006359",
-"children": [{"name": "PXD006359", "size":18.985851069}
+"children": [{"name": "PXD006359", "size":19}
 ]
 },
 {
@@ -11201,27 +11201,27 @@
 },
 {
 "name": "PMDX006367",
-"children": [{"name": "PXD006367", "size":197.695117783}
+"children": [{"name": "PXD006367", "size":198}
 ]
 },
 {
 "name": "PMDX006383",
-"children": [{"name": "PXD006383", "size":192.572633635}
+"children": [{"name": "PXD006383", "size":193}
 ]
 },
 {
 "name": "PMDX006386",
-"children": [{"name": "PXD006386", "size":18.01548037}
+"children": [{"name": "PXD006386", "size":18}
 ]
 },
 {
 "name": "PMDX006391",
-"children": [{"name": "PXD006391", "size":13.813174776}
+"children": [{"name": "PXD006391", "size":14}
 ]
 },
 {
 "name": "PMDX006395",
-"children": [{"name": "PXD006395", "size":627.274555145}
+"children": [{"name": "PXD006395", "size":627}
 ]
 },
 {
@@ -11241,12 +11241,12 @@
 },
 {
 "name": "PMDX006416",
-"children": [{"name": "PXD006416", "size":11.51310654}
+"children": [{"name": "PXD006416", "size":12}
 ]
 },
 {
 "name": "PMDX006418",
-"children": [{"name": "PXD006418", "size":30.893076987}
+"children": [{"name": "PXD006418", "size":31}
 ]
 },
 {
@@ -11256,17 +11256,17 @@
 },
 {
 "name": "PMDX006421",
-"children": [{"name": "PXD006421", "size":50.224698567}
+"children": [{"name": "PXD006421", "size":50}
 ]
 },
 {
 "name": "PMDX006424",
-"children": [{"name": "PXD006424", "size":38.308140178}
+"children": [{"name": "PXD006424", "size":38}
 ]
 },
 {
 "name": "PMDX006430",
-"children": [{"name": "PXD006430", "size":259.123670818}
+"children": [{"name": "PXD006430", "size":259}
 ]
 },
 {
@@ -11276,12 +11276,12 @@
 },
 {
 "name": "PMDX006442",
-"children": [{"name": "PXD006442", "size":135.644739963}
+"children": [{"name": "PXD006442", "size":136}
 ]
 },
 {
 "name": "PMDX006446",
-"children": [{"name": "PXD006446", "size":285.129535634}
+"children": [{"name": "PXD006446", "size":285}
 ]
 },
 {
@@ -11291,12 +11291,12 @@
 },
 {
 "name": "PMDX006455",
-"children": [{"name": "PXD006455", "size":56.586530866}
+"children": [{"name": "PXD006455", "size":57}
 ]
 },
 {
 "name": "PMDX006459",
-"children": [{"name": "PXD006459", "size":10.140195368}
+"children": [{"name": "PXD006459", "size":10}
 ]
 },
 {
@@ -11311,7 +11311,7 @@
 },
 {
 "name": "PMDX006465",
-"children": [{"name": "PXD006465", "size":87.661929254}
+"children": [{"name": "PXD006465", "size":88}
 ]
 },
 {
@@ -11321,7 +11321,7 @@
 },
 {
 "name": "PMDX006471",
-"children": [{"name": "PXD006471", "size":39.643276196}
+"children": [{"name": "PXD006471", "size":40}
 ]
 },
 {
@@ -11331,7 +11331,7 @@
 },
 {
 "name": "PMDX006476",
-"children": [{"name": "PXD006476", "size":35.517607705}
+"children": [{"name": "PXD006476", "size":36}
 ]
 },
 {
@@ -11341,7 +11341,7 @@
 },
 {
 "name": "PMDX006486",
-"children": [{"name": "PXD006486", "size":293.443741263}
+"children": [{"name": "PXD006486", "size":293}
 ]
 },
 {
@@ -11351,7 +11351,7 @@
 },
 {
 "name": "PMDX006498",
-"children": [{"name": "PXD006498", "size":133.793965599}
+"children": [{"name": "PXD006498", "size":134}
 ]
 },
 {
@@ -11361,7 +11361,7 @@
 },
 {
 "name": "PMDX006509",
-"children": [{"name": "PXD006509", "size":24.91693701}
+"children": [{"name": "PXD006509", "size":25}
 ]
 },
 {
@@ -11398,12 +11398,12 @@
 },
 {
 "name": "PMDX006518",
-"children": [{"name": "PXD006518", "size":26.672071954}
+"children": [{"name": "PXD006518", "size":27}
 ]
 },
 {
 "name": "PMDX006528",
-"children": [{"name": "PXD006528", "size":27.715332783}
+"children": [{"name": "PXD006528", "size":28}
 ]
 },
 {
@@ -11428,7 +11428,7 @@
 },
 {
 "name": "PMDX006557",
-"children": [{"name": "PXD006557", "size":19.618221312}
+"children": [{"name": "PXD006557", "size":20}
 ]
 },
 {
@@ -11438,7 +11438,7 @@
 },
 {
 "name": "PMDX006561",
-"children": [{"name": "PXD006561", "size":41.1003031}
+"children": [{"name": "PXD006561", "size":41}
 ]
 },
 {
@@ -11643,7 +11643,7 @@
 },
 {
 "name": "PMDX006574",
-"children": [{"name": "PXD006574", "size":11.270559737}
+"children": [{"name": "PXD006574", "size":11}
 ]
 },
 {
@@ -11653,12 +11653,12 @@
 },
 {
 "name": "PMDX006581",
-"children": [{"name": "PXD006581", "size":18.333532461}
+"children": [{"name": "PXD006581", "size":18}
 ]
 },
 {
 "name": "PMDX006582",
-"children": [{"name": "PXD006582", "size":25.231191265}
+"children": [{"name": "PXD006582", "size":25}
 ]
 },
 {
@@ -11681,12 +11681,12 @@
 },
 {
 "name": "PMDX006607",
-"children": [{"name": "PXD006607", "size":1282.741410046}
+"children": [{"name": "PXD006607", "size":1283}
 ]
 },
 {
 "name": "PMDX006614",
-"children": [{"name": "PXD006614", "size":200.743933202}
+"children": [{"name": "PXD006614", "size":201}
 ]
 },
 {
@@ -11718,17 +11718,17 @@
 },
 {
 "name": "PMDX006638",
-"children": [{"name": "PXD006638", "size":50.113355546}
+"children": [{"name": "PXD006638", "size":50}
 ]
 },
 {
 "name": "PMDX006653",
-"children": [{"name": "PXD006653", "size":15.218159028}
+"children": [{"name": "PXD006653", "size":15}
 ]
 },
 {
 "name": "PMDX006654",
-"children": [{"name": "PXD006654", "size":244.338569972}
+"children": [{"name": "PXD006654", "size":244}
 ]
 },
 {
@@ -11743,42 +11743,42 @@
 },
 {
 "name": "PMDX006661",
-"children": [{"name": "PXD006661", "size":22.464715052}
+"children": [{"name": "PXD006661", "size":22}
 ]
 },
 {
 "name": "PMDX006662",
-"children": [{"name": "PXD006662", "size":22.588709422}
+"children": [{"name": "PXD006662", "size":23}
 ]
 },
 {
 "name": "PMDX006663",
-"children": [{"name": "PXD006663", "size":15.815091227}
+"children": [{"name": "PXD006663", "size":16}
 ]
 },
 {
 "name": "PMDX006672",
-"children": [{"name": "PXD006672", "size":22.766420881}
+"children": [{"name": "PXD006672", "size":23}
 ]
 },
 {
 "name": "PMDX006673",
-"children": [{"name": "PXD006673", "size":167.002272716}
+"children": [{"name": "PXD006673", "size":167}
 ]
 },
 {
 "name": "PMDX006674",
-"children": [{"name": "PXD006674", "size":270.421276079}
+"children": [{"name": "PXD006674", "size":270}
 ]
 },
 {
 "name": "PMDX006687",
-"children": [{"name": "PXD006687", "size":133.748074921}
+"children": [{"name": "PXD006687", "size":134}
 ]
 },
 {
 "name": "PMDX006690",
-"children": [{"name": "PXD006690", "size":88.07150776}
+"children": [{"name": "PXD006690", "size":88}
 ]
 },
 {
@@ -11788,7 +11788,7 @@
 },
 {
 "name": "PMDX006697",
-"children": [{"name": "PXD006697", "size":49.614373962}
+"children": [{"name": "PXD006697", "size":50}
 ]
 },
 {
@@ -11798,47 +11798,47 @@
 },
 {
 "name": "PMDX006700",
-"children": [{"name": "PXD006700", "size":16.436921382}
+"children": [{"name": "PXD006700", "size":16}
 ]
 },
 {
 "name": "PMDX006703",
-"children": [{"name": "PXD006703", "size":69.122538563}
+"children": [{"name": "PXD006703", "size":69}
 ]
 },
 {
 "name": "PMDX006704",
-"children": [{"name": "PXD006704", "size":32.733250069}
+"children": [{"name": "PXD006704", "size":33}
 ]
 },
 {
 "name": "PMDX006705",
-"children": [{"name": "PXD006705", "size":10.453248836}
+"children": [{"name": "PXD006705", "size":10}
 ]
 },
 {
 "name": "PMDX006716",
-"children": [{"name": "PXD006716", "size":15.622723541}
+"children": [{"name": "PXD006716", "size":16}
 ]
 },
 {
 "name": "PMDX006722",
-"children": [{"name": "PXD006722", "size":455.232550537}
+"children": [{"name": "PXD006722", "size":455}
 ]
 },
 {
 "name": "PMDX006738",
-"children": [{"name": "PXD006738", "size":16.913164915}
+"children": [{"name": "PXD006738", "size":17}
 ]
 },
 {
 "name": "PMDX006743",
-"children": [{"name": "PXD006743", "size":64.96648212}
+"children": [{"name": "PXD006743", "size":65}
 ]
 },
 {
 "name": "PMDX006750",
-"children": [{"name": "PXD006750", "size":11.650645719}
+"children": [{"name": "PXD006750", "size":12}
 ]
 },
 {
@@ -11853,7 +11853,7 @@
 },
 {
 "name": "PMDX006773",
-"children": [{"name": "PXD006773", "size":148.899292822}
+"children": [{"name": "PXD006773", "size":149}
 ]
 },
 {
@@ -11863,22 +11863,22 @@
 },
 {
 "name": "PMDX006776",
-"children": [{"name": "PXD006776", "size":84.222702592}
+"children": [{"name": "PXD006776", "size":84}
 ]
 },
 {
 "name": "PMDX006788",
-"children": [{"name": "PXD006788", "size":16.086835401}
+"children": [{"name": "PXD006788", "size":16}
 ]
 },
 {
 "name": "PMDX006790",
-"children": [{"name": "PXD006790", "size":15.766492169}
+"children": [{"name": "PXD006790", "size":16}
 ]
 },
 {
 "name": "PMDX006798",
-"children": [{"name": "PXD006798", "size":71.540885108}
+"children": [{"name": "PXD006798", "size":72}
 ]
 },
 {
@@ -11893,7 +11893,7 @@
 },
 {
 "name": "PMDX006810",
-"children": [{"name": "PXD006810", "size":142.550992665}
+"children": [{"name": "PXD006810", "size":143}
 ]
 },
 {
@@ -11903,7 +11903,7 @@
 },
 {
 "name": "PMDX006814",
-"children": [{"name": "PXD006814", "size":49.078067977}
+"children": [{"name": "PXD006814", "size":49}
 ]
 },
 {
@@ -11913,27 +11913,27 @@
 },
 {
 "name": "PMDX006831",
-"children": [{"name": "PXD006831", "size":24.554373694}
+"children": [{"name": "PXD006831", "size":25}
 ]
 },
 {
 "name": "PMDX006833",
-"children": [{"name": "PXD006833", "size":584.038616573}
+"children": [{"name": "PXD006833", "size":584}
 ]
 },
 {
 "name": "PMDX006839",
-"children": [{"name": "PXD006839", "size":26.1037411}
+"children": [{"name": "PXD006839", "size":26}
 ]
 },
 {
 "name": "PMDX006847",
-"children": [{"name": "PXD006847", "size":103.009708343}
+"children": [{"name": "PXD006847", "size":103}
 ]
 },
 {
 "name": "PMDX006856",
-"children": [{"name": "PXD006856", "size":13.777306147}
+"children": [{"name": "PXD006856", "size":14}
 ]
 },
 {
@@ -11943,12 +11943,12 @@
 },
 {
 "name": "PMDX006863",
-"children": [{"name": "PXD006863", "size":103.768797277}
+"children": [{"name": "PXD006863", "size":104}
 ]
 },
 {
 "name": "PMDX006868",
-"children": [{"name": "PXD006868", "size":29.58098341}
+"children": [{"name": "PXD006868", "size":30}
 ]
 },
 {
@@ -11958,7 +11958,7 @@
 },
 {
 "name": "PMDX006873",
-"children": [{"name": "PXD006873", "size":11.753556167}
+"children": [{"name": "PXD006873", "size":12}
 ]
 },
 {
@@ -11990,7 +11990,7 @@
 },
 {
 "name": "PMDX006892",
-"children": [{"name": "PXD006892", "size":17.67922377}
+"children": [{"name": "PXD006892", "size":18}
 ]
 },
 {
@@ -12027,7 +12027,7 @@
 },
 {
 "name": "PMDX006911",
-"children": [{"name": "PXD006911", "size":24.722684359}
+"children": [{"name": "PXD006911", "size":25}
 ]
 },
 {
@@ -12077,12 +12077,12 @@
 },
 {
 "name": "PMDX006932",
-"children": [{"name": "PXD006932", "size":174.427260051}
+"children": [{"name": "PXD006932", "size":174}
 ]
 },
 {
 "name": "PMDX006939",
-"children": [{"name": "PXD006939", "size":232.014028224}
+"children": [{"name": "PXD006939", "size":232}
 ]
 },
 {
@@ -12125,12 +12125,12 @@
 },
 {
 "name": "PMDX007058",
-"children": [{"name": "PXD007058", "size":42.569956948}
+"children": [{"name": "PXD007058", "size":43}
 ]
 },
 {
 "name": "PMDX007066",
-"children": [{"name": "PXD007066", "size":48.078950982}
+"children": [{"name": "PXD007066", "size":48}
 ]
 },
 {
@@ -12153,7 +12153,7 @@
 },
 {
 "name": "PMDX007101",
-"children": [{"name": "PXD007101", "size":119.195014987}
+"children": [{"name": "PXD007101", "size":119}
 ]
 },
 {
@@ -12248,12 +12248,12 @@
 },
 {
 "name": "PMDX007149",
-"children": [{"name": "PXD007149", "size":58.985864854}
+"children": [{"name": "PXD007149", "size":59}
 ]
 },
 {
 "name": "PMDX007153",
-"children": [{"name": "PXD007153", "size":191.534127365}
+"children": [{"name": "PXD007153", "size":192}
 ]
 },
 {
@@ -12263,7 +12263,7 @@
 },
 {
 "name": "PMDX007170",
-"children": [{"name": "PXD007170", "size":16.989493126}
+"children": [{"name": "PXD007170", "size":17}
 ]
 },
 {
@@ -12273,27 +12273,27 @@
 },
 {
 "name": "PMDX007203",
-"children": [{"name": "PXD007203", "size":13.1911313}
+"children": [{"name": "PXD007203", "size":13}
 ]
 },
 {
 "name": "PMDX007206",
-"children": [{"name": "PXD007206", "size":24.390394696}
+"children": [{"name": "PXD007206", "size":24}
 ]
 },
 {
 "name": "PMDX007214",
-"children": [{"name": "PXD007214", "size":546.336997621}
+"children": [{"name": "PXD007214", "size":546}
 ]
 },
 {
 "name": "PMDX007217",
-"children": [{"name": "PXD007217", "size":36.249513939}
+"children": [{"name": "PXD007217", "size":36}
 ]
 },
 {
 "name": "PMDX007223",
-"children": [{"name": "PXD007223", "size":63.330433827}
+"children": [{"name": "PXD007223", "size":63}
 ]
 },
 {
@@ -12303,7 +12303,7 @@
 },
 {
 "name": "PMDX007227",
-"children": [{"name": "PXD007227", "size":10.153387909}
+"children": [{"name": "PXD007227", "size":10}
 ]
 },
 {
@@ -12323,12 +12323,12 @@
 },
 {
 "name": "PMDX007235",
-"children": [{"name": "PXD007235", "size":614.272848189}
+"children": [{"name": "PXD007235", "size":614}
 ]
 },
 {
 "name": "PMDX007244",
-"children": [{"name": "PXD007244", "size":15.91803745}
+"children": [{"name": "PXD007244", "size":16}
 ]
 },
 {
@@ -12338,7 +12338,7 @@
 },
 {
 "name": "PMDX007258",
-"children": [{"name": "PXD007258", "size":22.843027896}
+"children": [{"name": "PXD007258", "size":23}
 ]
 },
 {
@@ -12491,7 +12491,7 @@
 },
 {
 "name": "PMDX007265",
-"children": [{"name": "PXD007265", "size":14.845061207}
+"children": [{"name": "PXD007265", "size":15}
 ]
 },
 {
@@ -12528,12 +12528,12 @@
 },
 {
 "name": "PMDX007513",
-"children": [{"name": "PXD007513", "size":122.749895685}
+"children": [{"name": "PXD007513", "size":123}
 ]
 },
 {
 "name": "PMDX007515",
-"children": [{"name": "PXD007515", "size":73.623853409}
+"children": [{"name": "PXD007515", "size":74}
 ]
 },
 {
@@ -12548,7 +12548,7 @@
 },
 {
 "name": "PMDX007538",
-"children": [{"name": "PXD007538", "size":40.361367229}
+"children": [{"name": "PXD007538", "size":40}
 ]
 },
 {
@@ -12563,7 +12563,7 @@
 },
 {
 "name": "PMDX007569",
-"children": [{"name": "PXD007569", "size":23.247765318}
+"children": [{"name": "PXD007569", "size":23}
 ]
 },
 {
@@ -12573,7 +12573,7 @@
 },
 {
 "name": "PMDX007572",
-"children": [{"name": "PXD007572", "size":43.535216766}
+"children": [{"name": "PXD007572", "size":44}
 ]
 },
 {
@@ -12588,17 +12588,17 @@
 },
 {
 "name": "PMDX007591",
-"children": [{"name": "PXD007591", "size":11.325764254}
+"children": [{"name": "PXD007591", "size":11}
 ]
 },
 {
 "name": "PMDX007592",
-"children": [{"name": "PXD007592", "size":88.69719437}
+"children": [{"name": "PXD007592", "size":89}
 ]
 },
 {
 "name": "PMDX007594",
-"children": [{"name": "PXD007594", "size":99.342288698}
+"children": [{"name": "PXD007594", "size":99}
 ]
 },
 {
@@ -12631,7 +12631,7 @@
 },
 {
 "name": "PMDX007624",
-"children": [{"name": "PXD007624", "size":44.161290226}
+"children": [{"name": "PXD007624", "size":44}
 ]
 },
 {
@@ -12641,17 +12641,17 @@
 },
 {
 "name": "PMDX007632",
-"children": [{"name": "PXD007632", "size":19.364915857}
+"children": [{"name": "PXD007632", "size":19}
 ]
 },
 {
 "name": "PMDX007633",
-"children": [{"name": "PXD007633", "size":82.719933929}
+"children": [{"name": "PXD007633", "size":83}
 ]
 },
 {
 "name": "PMDX007635",
-"children": [{"name": "PXD007635", "size":266.401656408}
+"children": [{"name": "PXD007635", "size":266}
 ]
 },
 {
@@ -12688,17 +12688,17 @@
 },
 {
 "name": "PMDX007643",
-"children": [{"name": "PXD007643", "size":21.094204206}
+"children": [{"name": "PXD007643", "size":21}
 ]
 },
 {
 "name": "PMDX007666",
-"children": [{"name": "PXD007666", "size":13.321007985}
+"children": [{"name": "PXD007666", "size":13}
 ]
 },
 {
 "name": "PMDX007671",
-"children": [{"name": "PXD007671", "size":69.351916015}
+"children": [{"name": "PXD007671", "size":69}
 ]
 },
 {
@@ -12716,7 +12716,7 @@
 },
 {
 "name": "PMDX007679",
-"children": [{"name": "PXD007679", "size":48.098326369}
+"children": [{"name": "PXD007679", "size":48}
 ]
 },
 {
@@ -12731,7 +12731,7 @@
 },
 {
 "name": "PMDX007695",
-"children": [{"name": "PXD007695", "size":28.255748771}
+"children": [{"name": "PXD007695", "size":28}
 ]
 },
 {
@@ -12741,7 +12741,7 @@
 },
 {
 "name": "PMDX007725",
-"children": [{"name": "PXD007725", "size":22.00197694}
+"children": [{"name": "PXD007725", "size":22}
 ]
 },
 {
@@ -12751,12 +12751,12 @@
 },
 {
 "name": "PMDX007732",
-"children": [{"name": "PXD007732", "size":18.086370956}
+"children": [{"name": "PXD007732", "size":18}
 ]
 },
 {
 "name": "PMDX007733",
-"children": [{"name": "PXD007733", "size":74.536737418}
+"children": [{"name": "PXD007733", "size":75}
 ]
 },
 {
@@ -12776,12 +12776,12 @@
 },
 {
 "name": "PMDX007756",
-"children": [{"name": "PXD007756", "size":181.096444901}
+"children": [{"name": "PXD007756", "size":181}
 ]
 },
 {
 "name": "PMDX007759",
-"children": [{"name": "PXD007759", "size":18.210566248}
+"children": [{"name": "PXD007759", "size":18}
 ]
 },
 {
@@ -12827,7 +12827,7 @@
 },
 {
 "name": "PMDX007794",
-"children": [{"name": "PXD007794", "size":22.137596121}
+"children": [{"name": "PXD007794", "size":22}
 ]
 },
 {
@@ -12865,12 +12865,12 @@
 },
 {
 "name": "PMDX007842",
-"children": [{"name": "PXD007842", "size":70.834065948}
+"children": [{"name": "PXD007842", "size":71}
 ]
 },
 {
 "name": "PMDX007846",
-"children": [{"name": "PXD007846", "size":96.279752571}
+"children": [{"name": "PXD007846", "size":96}
 ]
 },
 {
@@ -12888,17 +12888,17 @@
 },
 {
 "name": "PMDX007856",
-"children": [{"name": "PXD007856", "size":11.767440115}
+"children": [{"name": "PXD007856", "size":12}
 ]
 },
 {
 "name": "PMDX007860",
-"children": [{"name": "PXD007860", "size":20.762188508}
+"children": [{"name": "PXD007860", "size":21}
 ]
 },
 {
 "name": "PMDX007862",
-"children": [{"name": "PXD007862", "size":46.070190638}
+"children": [{"name": "PXD007862", "size":46}
 ]
 },
 {
@@ -12918,7 +12918,7 @@
 },
 {
 "name": "PMDX007884",
-"children": [{"name": "PXD007884", "size":547.059967914}
+"children": [{"name": "PXD007884", "size":547}
 ]
 },
 {
@@ -12928,52 +12928,52 @@
 },
 {
 "name": "PMDX007890",
-"children": [{"name": "PXD007890", "size":79.899094111}
+"children": [{"name": "PXD007890", "size":80}
 ]
 },
 {
 "name": "PMDX007894",
-"children": [{"name": "PXD007894", "size":36.561640836}
+"children": [{"name": "PXD007894", "size":37}
 ]
 },
 {
 "name": "PMDX007896",
-"children": [{"name": "PXD007896", "size":48.673050653}
+"children": [{"name": "PXD007896", "size":49}
 ]
 },
 {
 "name": "PMDX007898",
-"children": [{"name": "PXD007898", "size":110.16482274}
+"children": [{"name": "PXD007898", "size":110}
 ]
 },
 {
 "name": "PMDX007902",
-"children": [{"name": "PXD007902", "size":82.771961787}
+"children": [{"name": "PXD007902", "size":83}
 ]
 },
 {
 "name": "PMDX007906",
-"children": [{"name": "PXD007906", "size":35.963010863}
+"children": [{"name": "PXD007906", "size":36}
 ]
 },
 {
 "name": "PMDX007909",
-"children": [{"name": "PXD007909", "size":79.951248701}
+"children": [{"name": "PXD007909", "size":80}
 ]
 },
 {
 "name": "PMDX007913",
-"children": [{"name": "PXD007913", "size":23.160503423}
+"children": [{"name": "PXD007913", "size":23}
 ]
 },
 {
 "name": "PMDX007926",
-"children": [{"name": "PXD007926", "size":17.133604273}
+"children": [{"name": "PXD007926", "size":17}
 ]
 },
 {
 "name": "PMDX007928",
-"children": [{"name": "PXD007928", "size":44.102177526}
+"children": [{"name": "PXD007928", "size":44}
 ]
 },
 {
@@ -12988,22 +12988,22 @@
 },
 {
 "name": "PMDX007942",
-"children": [{"name": "PXD007942", "size":16.837364406}
+"children": [{"name": "PXD007942", "size":17}
 ]
 },
 {
 "name": "PMDX007944",
-"children": [{"name": "PXD007944", "size":176.302295308}
+"children": [{"name": "PXD007944", "size":176}
 ]
 },
 {
 "name": "PMDX007947",
-"children": [{"name": "PXD007947", "size":21.367116319}
+"children": [{"name": "PXD007947", "size":21}
 ]
 },
 {
 "name": "PMDX007962",
-"children": [{"name": "PXD007962", "size":20.652247985}
+"children": [{"name": "PXD007962", "size":21}
 ]
 },
 {
@@ -13018,17 +13018,17 @@
 },
 {
 "name": "PMDX007975",
-"children": [{"name": "PXD007975", "size":20.50154778}
+"children": [{"name": "PXD007975", "size":21}
 ]
 },
 {
 "name": "PMDX007976",
-"children": [{"name": "PXD007976", "size":280.118955287}
+"children": [{"name": "PXD007976", "size":280}
 ]
 },
 {
 "name": "PMDX007982",
-"children": [{"name": "PXD007982", "size":46.009252963}
+"children": [{"name": "PXD007982", "size":46}
 ]
 },
 {
@@ -13038,17 +13038,17 @@
 },
 {
 "name": "PMDX007995",
-"children": [{"name": "PXD007995", "size":37.392226956}
+"children": [{"name": "PXD007995", "size":37}
 ]
 },
 {
 "name": "PMDX008002",
-"children": [{"name": "PXD008002", "size":84.858432281}
+"children": [{"name": "PXD008002", "size":85}
 ]
 },
 {
 "name": "PMDX008003",
-"children": [{"name": "PXD008003", "size":705.54345575}
+"children": [{"name": "PXD008003", "size":706}
 ]
 },
 {
@@ -13071,7 +13071,7 @@
 },
 {
 "name": "PMDX008035",
-"children": [{"name": "PXD008035", "size":58.362691084}
+"children": [{"name": "PXD008035", "size":58}
 ]
 },
 {
@@ -13081,17 +13081,17 @@
 },
 {
 "name": "PMDX008056",
-"children": [{"name": "PXD008056", "size":17.950868889}
+"children": [{"name": "PXD008056", "size":18}
 ]
 },
 {
 "name": "PMDX008068",
-"children": [{"name": "PXD008068", "size":78.875119274}
+"children": [{"name": "PXD008068", "size":79}
 ]
 },
 {
 "name": "PMDX008071",
-"children": [{"name": "PXD008071", "size":119.227582044}
+"children": [{"name": "PXD008071", "size":119}
 ]
 },
 {
@@ -13101,37 +13101,37 @@
 },
 {
 "name": "PMDX008076",
-"children": [{"name": "PXD008076", "size":150.204789307}
+"children": [{"name": "PXD008076", "size":150}
 ]
 },
 {
 "name": "PMDX008079",
-"children": [{"name": "PXD008079", "size":29.129281115}
+"children": [{"name": "PXD008079", "size":29}
 ]
 },
 {
 "name": "PMDX008082",
-"children": [{"name": "PXD008082", "size":39.967927044}
+"children": [{"name": "PXD008082", "size":40}
 ]
 },
 {
 "name": "PMDX008084",
-"children": [{"name": "PXD008084", "size":18.538672493}
+"children": [{"name": "PXD008084", "size":19}
 ]
 },
 {
 "name": "PMDX008092",
-"children": [{"name": "PXD008092", "size":10.514253076}
+"children": [{"name": "PXD008092", "size":11}
 ]
 },
 {
 "name": "PMDX008094",
-"children": [{"name": "PXD008094", "size":37.332464148}
+"children": [{"name": "PXD008094", "size":37}
 ]
 },
 {
 "name": "PMDX008103",
-"children": [{"name": "PXD008103", "size":18.970397808}
+"children": [{"name": "PXD008103", "size":19}
 ]
 },
 {
@@ -13193,17 +13193,17 @@
 },
 {
 "name": "PMDX008123",
-"children": [{"name": "PXD008123", "size":127.285182763}
+"children": [{"name": "PXD008123", "size":127}
 ]
 },
 {
 "name": "PMDX008127",
-"children": [{"name": "PXD008127", "size":604.977674874}
+"children": [{"name": "PXD008127", "size":605}
 ]
 },
 {
 "name": "PMDX008130",
-"children": [{"name": "PXD008130", "size":30.986333827}
+"children": [{"name": "PXD008130", "size":31}
 ]
 },
 {
@@ -13221,12 +13221,12 @@
 },
 {
 "name": "PMDX008141",
-"children": [{"name": "PXD008141", "size":112.138324776}
+"children": [{"name": "PXD008141", "size":112}
 ]
 },
 {
 "name": "PMDX008145",
-"children": [{"name": "PXD008145", "size":887.38705424}
+"children": [{"name": "PXD008145", "size":887}
 ]
 },
 {
@@ -13236,12 +13236,12 @@
 },
 {
 "name": "PMDX008147",
-"children": [{"name": "PXD008147", "size":83.598417656}
+"children": [{"name": "PXD008147", "size":84}
 ]
 },
 {
 "name": "PMDX008150",
-"children": [{"name": "PXD008150", "size":16.832648882}
+"children": [{"name": "PXD008150", "size":17}
 ]
 },
 {
@@ -13256,7 +13256,7 @@
 },
 {
 "name": "PMDX008163",
-"children": [{"name": "PXD008163", "size":199.859428141}
+"children": [{"name": "PXD008163", "size":200}
 ]
 },
 {
@@ -13266,7 +13266,7 @@
 },
 {
 "name": "PMDX008177",
-"children": [{"name": "PXD008177", "size":50.830882957}
+"children": [{"name": "PXD008177", "size":51}
 ]
 },
 {
@@ -13281,17 +13281,17 @@
 },
 {
 "name": "PMDX008190",
-"children": [{"name": "PXD008190", "size":53.956688728}
+"children": [{"name": "PXD008190", "size":54}
 ]
 },
 {
 "name": "PMDX008204",
-"children": [{"name": "PXD008204", "size":112.384800538}
+"children": [{"name": "PXD008204", "size":112}
 ]
 },
 {
 "name": "PMDX008205",
-"children": [{"name": "PXD008205", "size":22.091325508}
+"children": [{"name": "PXD008205", "size":22}
 ]
 },
 {
@@ -13306,7 +13306,7 @@
 },
 {
 "name": "PMDX008229",
-"children": [{"name": "PXD008229", "size":21.48617797}
+"children": [{"name": "PXD008229", "size":21}
 ]
 },
 {
@@ -13316,12 +13316,12 @@
 },
 {
 "name": "PMDX008259",
-"children": [{"name": "PXD008259", "size":18.694441047}
+"children": [{"name": "PXD008259", "size":19}
 ]
 },
 {
 "name": "PMDX008260",
-"children": [{"name": "PXD008260", "size":28.883043419}
+"children": [{"name": "PXD008260", "size":29}
 ]
 },
 {
@@ -13336,7 +13336,7 @@
 },
 {
 "name": "PMDX008272",
-"children": [{"name": "PXD008272", "size":30.871594669}
+"children": [{"name": "PXD008272", "size":31}
 ]
 },
 {
@@ -13346,7 +13346,7 @@
 },
 {
 "name": "PMDX008289",
-"children": [{"name": "PXD008289", "size":134.723181383}
+"children": [{"name": "PXD008289", "size":135}
 ]
 },
 {
@@ -13366,17 +13366,17 @@
 },
 {
 "name": "PMDX008310",
-"children": [{"name": "PXD008310", "size":11.857978359}
+"children": [{"name": "PXD008310", "size":12}
 ]
 },
 {
 "name": "PMDX008311",
-"children": [{"name": "PXD008311", "size":28.049503653}
+"children": [{"name": "PXD008311", "size":28}
 ]
 },
 {
 "name": "PMDX008316",
-"children": [{"name": "PXD008316", "size":82.570771866}
+"children": [{"name": "PXD008316", "size":83}
 ]
 },
 {
@@ -13406,27 +13406,27 @@
 },
 {
 "name": "PMDX008354",
-"children": [{"name": "PXD008354", "size":45.133187989}
+"children": [{"name": "PXD008354", "size":45}
 ]
 },
 {
 "name": "PMDX008364",
-"children": [{"name": "PXD008364", "size":13.077146603}
+"children": [{"name": "PXD008364", "size":13}
 ]
 },
 {
 "name": "PMDX008375",
-"children": [{"name": "PXD008375", "size":23.830044237}
+"children": [{"name": "PXD008375", "size":24}
 ]
 },
 {
 "name": "PMDX008378",
-"children": [{"name": "PXD008378", "size":14.495686611}
+"children": [{"name": "PXD008378", "size":14}
 ]
 },
 {
 "name": "PMDX008381",
-"children": [{"name": "PXD008381", "size":110.700970978}
+"children": [{"name": "PXD008381", "size":111}
 ]
 },
 {
@@ -13436,32 +13436,32 @@
 },
 {
 "name": "PMDX008389",
-"children": [{"name": "PXD008389", "size":13.517572265}
+"children": [{"name": "PXD008389", "size":14}
 ]
 },
 {
 "name": "PMDX008407",
-"children": [{"name": "PXD008407", "size":354.622157313}
+"children": [{"name": "PXD008407", "size":355}
 ]
 },
 {
 "name": "PMDX008411",
-"children": [{"name": "PXD008411", "size":17.547443023}
+"children": [{"name": "PXD008411", "size":18}
 ]
 },
 {
 "name": "PMDX008436",
-"children": [{"name": "PXD008436", "size":44.466836498}
+"children": [{"name": "PXD008436", "size":44}
 ]
 },
 {
 "name": "PMDX008438",
-"children": [{"name": "PXD008438", "size":18.629177204}
+"children": [{"name": "PXD008438", "size":19}
 ]
 },
 {
 "name": "PMDX008440",
-"children": [{"name": "PXD008440", "size":452.717510587}
+"children": [{"name": "PXD008440", "size":453}
 ]
 },
 {
@@ -13471,7 +13471,7 @@
 },
 {
 "name": "PMDX008445",
-"children": [{"name": "PXD008445", "size":476.054159792}
+"children": [{"name": "PXD008445", "size":476}
 ]
 },
 {
@@ -13501,7 +13501,7 @@
 },
 {
 "name": "PMDX008462",
-"children": [{"name": "PXD008462", "size":25.763438978}
+"children": [{"name": "PXD008462", "size":26}
 ]
 },
 {
@@ -13511,12 +13511,12 @@
 },
 {
 "name": "PMDX008485",
-"children": [{"name": "PXD008485", "size":33.849546668}
+"children": [{"name": "PXD008485", "size":34}
 ]
 },
 {
 "name": "PMDX008493",
-"children": [{"name": "PXD008493", "size":362.116720814}
+"children": [{"name": "PXD008493", "size":362}
 ]
 },
 {
@@ -13526,7 +13526,7 @@
 },
 {
 "name": "PMDX008500",
-"children": [{"name": "PXD008500", "size":38.875543704}
+"children": [{"name": "PXD008500", "size":39}
 ]
 },
 {
@@ -13609,7 +13609,7 @@
 },
 {
 "name": "PMDX008522",
-"children": [{"name": "PXD008522", "size":49.145435913}
+"children": [{"name": "PXD008522", "size":49}
 ]
 },
 {
@@ -13624,7 +13624,7 @@
 },
 {
 "name": "PMDX008545",
-"children": [{"name": "PXD008545", "size":20.800919697}
+"children": [{"name": "PXD008545", "size":21}
 ]
 },
 {
@@ -13642,12 +13642,12 @@
 },
 {
 "name": "PMDX008553",
-"children": [{"name": "PXD008553", "size":429.999194281}
+"children": [{"name": "PXD008553", "size":430}
 ]
 },
 {
 "name": "PMDX008554",
-"children": [{"name": "PXD008554", "size":192.250273583}
+"children": [{"name": "PXD008554", "size":192}
 ]
 },
 {
@@ -13704,12 +13704,12 @@
 },
 {
 "name": "PMDX008575",
-"children": [{"name": "PXD008575", "size":94.064679873}
+"children": [{"name": "PXD008575", "size":94}
 ]
 },
 {
 "name": "PMDX008579",
-"children": [{"name": "PXD008579", "size":346.022417346}
+"children": [{"name": "PXD008579", "size":346}
 ]
 },
 {
@@ -13719,7 +13719,7 @@
 },
 {
 "name": "PMDX008584",
-"children": [{"name": "PXD008584", "size":33.37741426}
+"children": [{"name": "PXD008584", "size":33}
 ]
 },
 {
@@ -13734,7 +13734,7 @@
 },
 {
 "name": "PMDX008606",
-"children": [{"name": "PXD008606", "size":28.500476007}
+"children": [{"name": "PXD008606", "size":29}
 ]
 },
 {
@@ -14334,27 +14334,27 @@
 },
 {
 "name": "PMDX008642",
-"children": [{"name": "PXD008642", "size":145.983563339}
+"children": [{"name": "PXD008642", "size":146}
 ]
 },
 {
 "name": "PMDX008646",
-"children": [{"name": "PXD008646", "size":484.684652431}
+"children": [{"name": "PXD008646", "size":485}
 ]
 },
 {
 "name": "PMDX008665",
-"children": [{"name": "PXD008665", "size":112.160177529}
+"children": [{"name": "PXD008665", "size":112}
 ]
 },
 {
 "name": "PMDX008676",
-"children": [{"name": "PXD008676", "size":16.164660276}
+"children": [{"name": "PXD008676", "size":16}
 ]
 },
 {
 "name": "PMDX008682",
-"children": [{"name": "PXD008682", "size":78.170976097}
+"children": [{"name": "PXD008682", "size":78}
 ]
 },
 {
@@ -14364,12 +14364,12 @@
 },
 {
 "name": "PMDX008687",
-"children": [{"name": "PXD008687", "size":31.324839388}
+"children": [{"name": "PXD008687", "size":31}
 ]
 },
 {
 "name": "PMDX008693",
-"children": [{"name": "PXD008693", "size":16.670243105}
+"children": [{"name": "PXD008693", "size":17}
 ]
 },
 {
@@ -14379,7 +14379,7 @@
 },
 {
 "name": "PMDX008700",
-"children": [{"name": "PXD008700", "size":38.929051774}
+"children": [{"name": "PXD008700", "size":39}
 ]
 },
 {
@@ -14417,27 +14417,27 @@
 },
 {
 "name": "PMDX008723",
-"children": [{"name": "PXD008723", "size":12.251319951}
+"children": [{"name": "PXD008723", "size":12}
 ]
 },
 {
 "name": "PMDX008731",
-"children": [{"name": "PXD008731", "size":28.738027869}
+"children": [{"name": "PXD008731", "size":29}
 ]
 },
 {
 "name": "PMDX008743",
-"children": [{"name": "PXD008743", "size":60.433779407}
+"children": [{"name": "PXD008743", "size":60}
 ]
 },
 {
 "name": "PMDX008748",
-"children": [{"name": "PXD008748", "size":23.069449902}
+"children": [{"name": "PXD008748", "size":23}
 ]
 },
 {
 "name": "PMDX008750",
-"children": [{"name": "PXD008750", "size":413.384351896}
+"children": [{"name": "PXD008750", "size":413}
 ]
 },
 {
@@ -14447,7 +14447,7 @@
 },
 {
 "name": "PMDX008773",
-"children": [{"name": "PXD008773", "size":11.558791095}
+"children": [{"name": "PXD008773", "size":12}
 ]
 },
 {
@@ -14457,12 +14457,12 @@
 },
 {
 "name": "PMDX008787",
-"children": [{"name": "PXD008787", "size":410.487439474}
+"children": [{"name": "PXD008787", "size":410}
 ]
 },
 {
 "name": "PMDX008788",
-"children": [{"name": "PXD008788", "size":19.829122293}
+"children": [{"name": "PXD008788", "size":20}
 ]
 },
 {
@@ -14545,7 +14545,7 @@
 },
 {
 "name": "PMDX008832",
-"children": [{"name": "PXD008832", "size":180.980990307}
+"children": [{"name": "PXD008832", "size":181}
 ]
 },
 {
@@ -14555,17 +14555,17 @@
 },
 {
 "name": "PMDX008842",
-"children": [{"name": "PXD008842", "size":13.420014401}
+"children": [{"name": "PXD008842", "size":13}
 ]
 },
 {
 "name": "PMDX008855",
-"children": [{"name": "PXD008855", "size":18.86347276}
+"children": [{"name": "PXD008855", "size":19}
 ]
 },
 {
 "name": "PMDX008859",
-"children": [{"name": "PXD008859", "size":29.283727414}
+"children": [{"name": "PXD008859", "size":29}
 ]
 },
 {
@@ -14583,7 +14583,7 @@
 },
 {
 "name": "PMDX008870",
-"children": [{"name": "PXD008870", "size":77.469129287}
+"children": [{"name": "PXD008870", "size":77}
 ]
 },
 {
@@ -14593,7 +14593,7 @@
 },
 {
 "name": "PMDX008891",
-"children": [{"name": "PXD008891", "size":20.198553261}
+"children": [{"name": "PXD008891", "size":20}
 ]
 },
 {
@@ -14603,7 +14603,7 @@
 },
 {
 "name": "PMDX008897",
-"children": [{"name": "PXD008897", "size":11.19749764}
+"children": [{"name": "PXD008897", "size":11}
 ]
 },
 {
@@ -14613,7 +14613,7 @@
 },
 {
 "name": "PMDX008918",
-"children": [{"name": "PXD008918", "size":162.274612172}
+"children": [{"name": "PXD008918", "size":162}
 ]
 },
 {
@@ -14628,7 +14628,7 @@
 },
 {
 "name": "PMDX008937",
-"children": [{"name": "PXD008937", "size":31.700258508}
+"children": [{"name": "PXD008937", "size":32}
 ]
 },
 {
@@ -14638,7 +14638,7 @@
 },
 {
 "name": "PMDX008952",
-"children": [{"name": "PXD008952", "size":111.86620925}
+"children": [{"name": "PXD008952", "size":112}
 ]
 },
 {
@@ -14648,7 +14648,7 @@
 },
 {
 "name": "PMDX008967",
-"children": [{"name": "PXD008967", "size":229.356609605}
+"children": [{"name": "PXD008967", "size":229}
 ]
 },
 {
@@ -14658,7 +14658,7 @@
 },
 {
 "name": "PMDX008978",
-"children": [{"name": "PXD008978", "size":26.028052245}
+"children": [{"name": "PXD008978", "size":26}
 ]
 },
 {
@@ -14668,12 +14668,12 @@
 },
 {
 "name": "PMDX008992",
-"children": [{"name": "PXD008992", "size":421.869129453}
+"children": [{"name": "PXD008992", "size":422}
 ]
 },
 {
 "name": "PMDX008996",
-"children": [{"name": "PXD008996", "size":48.039843973}
+"children": [{"name": "PXD008996", "size":48}
 ]
 },
 {
@@ -14683,7 +14683,7 @@
 },
 {
 "name": "PMDX009009",
-"children": [{"name": "PXD009009", "size":85.872701747}
+"children": [{"name": "PXD009009", "size":86}
 ]
 },
 {
@@ -14715,7 +14715,7 @@
 },
 {
 "name": "PMDX009025",
-"children": [{"name": "PXD009025", "size":18.300005709}
+"children": [{"name": "PXD009025", "size":18}
 ]
 },
 {
@@ -14733,7 +14733,7 @@
 },
 {
 "name": "PMDX009029",
-"children": [{"name": "PXD009029", "size":96.260843857}
+"children": [{"name": "PXD009029", "size":96}
 ]
 },
 {
@@ -14765,22 +14765,22 @@
 },
 {
 "name": "PMDX009048",
-"children": [{"name": "PXD009048", "size":138.982562942}
+"children": [{"name": "PXD009048", "size":139}
 ]
 },
 {
 "name": "PMDX009051",
-"children": [{"name": "PXD009051", "size":49.188025556}
+"children": [{"name": "PXD009051", "size":49}
 ]
 },
 {
 "name": "PMDX009056",
-"children": [{"name": "PXD009056", "size":214.927992614}
+"children": [{"name": "PXD009056", "size":215}
 ]
 },
 {
 "name": "PMDX009074",
-"children": [{"name": "PXD009074", "size":13.192201501}
+"children": [{"name": "PXD009074", "size":13}
 ]
 },
 {
@@ -14790,12 +14790,12 @@
 },
 {
 "name": "PMDX009101",
-"children": [{"name": "PXD009101", "size":10.303198865}
+"children": [{"name": "PXD009101", "size":10}
 ]
 },
 {
 "name": "PMDX009110",
-"children": [{"name": "PXD009110", "size":30.809412949}
+"children": [{"name": "PXD009110", "size":31}
 ]
 },
 {
@@ -14843,17 +14843,17 @@
 },
 {
 "name": "PMDX009185",
-"children": [{"name": "PXD009185", "size":48.031091918}
+"children": [{"name": "PXD009185", "size":48}
 ]
 },
 {
 "name": "PMDX009188",
-"children": [{"name": "PXD009188", "size":17.029645777}
+"children": [{"name": "PXD009188", "size":17}
 ]
 },
 {
 "name": "PMDX009196",
-"children": [{"name": "PXD009196", "size":256.611336253}
+"children": [{"name": "PXD009196", "size":257}
 ]
 },
 {
@@ -14886,17 +14886,17 @@
 },
 {
 "name": "PMDX009227",
-"children": [{"name": "PXD009227", "size":158.052658046}
+"children": [{"name": "PXD009227", "size":158}
 ]
 },
 {
 "name": "PMDX009234",
-"children": [{"name": "PXD009234", "size":20.313200902}
+"children": [{"name": "PXD009234", "size":20}
 ]
 },
 {
 "name": "PMDX009237",
-"children": [{"name": "PXD009237", "size":14.164928221}
+"children": [{"name": "PXD009237", "size":14}
 ]
 },
 {
@@ -14906,12 +14906,12 @@
 },
 {
 "name": "PMDX009251",
-"children": [{"name": "PXD009251", "size":57.286356021}
+"children": [{"name": "PXD009251", "size":57}
 ]
 },
 {
 "name": "PMDX009252",
-"children": [{"name": "PXD009252", "size":10.055610411}
+"children": [{"name": "PXD009252", "size":10}
 ]
 },
 {
@@ -14963,12 +14963,12 @@
 },
 {
 "name": "PMDX009286",
-"children": [{"name": "PXD009286", "size":27.830092531}
+"children": [{"name": "PXD009286", "size":28}
 ]
 },
 {
 "name": "PMDX009291",
-"children": [{"name": "PXD009291", "size":34.624993841}
+"children": [{"name": "PXD009291", "size":35}
 ]
 },
 {
@@ -14988,7 +14988,7 @@
 },
 {
 "name": "PMDX009317",
-"children": [{"name": "PXD009317", "size":68.113251014}
+"children": [{"name": "PXD009317", "size":68}
 ]
 },
 {
@@ -15003,7 +15003,7 @@
 },
 {
 "name": "PMDX009338",
-"children": [{"name": "PXD009338", "size":150.844804958}
+"children": [{"name": "PXD009338", "size":151}
 ]
 },
 {
@@ -15023,7 +15023,7 @@
 },
 {
 "name": "PMDX009389",
-"children": [{"name": "PXD009389", "size":21.374875832}
+"children": [{"name": "PXD009389", "size":21}
 ]
 },
 {
@@ -15033,37 +15033,37 @@
 },
 {
 "name": "PMDX009409",
-"children": [{"name": "PXD009409", "size":13.003142876}
+"children": [{"name": "PXD009409", "size":13}
 ]
 },
 {
 "name": "PMDX009417",
-"children": [{"name": "PXD009417", "size":14.728432195}
+"children": [{"name": "PXD009417", "size":15}
 ]
 },
 {
 "name": "PMDX009424",
-"children": [{"name": "PXD009424", "size":191.115792593}
+"children": [{"name": "PXD009424", "size":191}
 ]
 },
 {
 "name": "PMDX009426",
-"children": [{"name": "PXD009426", "size":62.406177815}
+"children": [{"name": "PXD009426", "size":62}
 ]
 },
 {
 "name": "PMDX009437",
-"children": [{"name": "PXD009437", "size":36.058948166}
+"children": [{"name": "PXD009437", "size":36}
 ]
 },
 {
 "name": "PMDX009440",
-"children": [{"name": "PXD009440", "size":10.792027376}
+"children": [{"name": "PXD009440", "size":11}
 ]
 },
 {
 "name": "PMDX009442",
-"children": [{"name": "PXD009442", "size":14.529583317}
+"children": [{"name": "PXD009442", "size":15}
 ]
 },
 {
@@ -15073,17 +15073,17 @@
 },
 {
 "name": "PMDX009449",
-"children": [{"name": "PXD009449", "size":160.101799263}
+"children": [{"name": "PXD009449", "size":160}
 ]
 },
 {
 "name": "PMDX009450",
-"children": [{"name": "PXD009450", "size":25.127826476}
+"children": [{"name": "PXD009450", "size":25}
 ]
 },
 {
 "name": "PMDX009453",
-"children": [{"name": "PXD009453", "size":178.253978653}
+"children": [{"name": "PXD009453", "size":178}
 ]
 },
 {
@@ -15093,22 +15093,22 @@
 },
 {
 "name": "PMDX009481",
-"children": [{"name": "PXD009481", "size":12.191514339}
+"children": [{"name": "PXD009481", "size":12}
 ]
 },
 {
 "name": "PMDX009487",
-"children": [{"name": "PXD009487", "size":168.083518375}
+"children": [{"name": "PXD009487", "size":168}
 ]
 },
 {
 "name": "PMDX009495",
-"children": [{"name": "PXD009495", "size":257.883563996}
+"children": [{"name": "PXD009495", "size":258}
 ]
 },
 {
 "name": "PMDX009498",
-"children": [{"name": "PXD009498", "size":13.481140219}
+"children": [{"name": "PXD009498", "size":13}
 ]
 },
 {
@@ -15160,12 +15160,12 @@
 },
 {
 "name": "PMDX009515",
-"children": [{"name": "PXD009515", "size":71.879106779}
+"children": [{"name": "PXD009515", "size":72}
 ]
 },
 {
 "name": "PMDX009531",
-"children": [{"name": "PXD009531", "size":99.572257128}
+"children": [{"name": "PXD009531", "size":100}
 ]
 },
 {
@@ -15222,22 +15222,22 @@
 },
 {
 "name": "PMDX009565",
-"children": [{"name": "PXD009565", "size":158.969611295}
+"children": [{"name": "PXD009565", "size":159}
 ]
 },
 {
 "name": "PMDX009570",
-"children": [{"name": "PXD009570", "size":21.087457063}
+"children": [{"name": "PXD009570", "size":21}
 ]
 },
 {
 "name": "PMDX009575",
-"children": [{"name": "PXD009575", "size":16.755058698}
+"children": [{"name": "PXD009575", "size":17}
 ]
 },
 {
 "name": "PMDX009578",
-"children": [{"name": "PXD009578", "size":38.640047703}
+"children": [{"name": "PXD009578", "size":39}
 ]
 },
 {
@@ -15247,12 +15247,12 @@
 },
 {
 "name": "PMDX009598",
-"children": [{"name": "PXD009598", "size":10.484184567}
+"children": [{"name": "PXD009598", "size":10}
 ]
 },
 {
 "name": "PMDX009600",
-"children": [{"name": "PXD009600", "size":49.365070828}
+"children": [{"name": "PXD009600", "size":49}
 ]
 },
 {
@@ -15345,32 +15345,32 @@
 },
 {
 "name": "PMDX009645",
-"children": [{"name": "PXD009645", "size":12.007499442}
+"children": [{"name": "PXD009645", "size":12}
 ]
 },
 {
 "name": "PMDX009646",
-"children": [{"name": "PXD009646", "size":57.399388651}
+"children": [{"name": "PXD009646", "size":57}
 ]
 },
 {
 "name": "PMDX009652",
-"children": [{"name": "PXD009652", "size":11.068137974}
+"children": [{"name": "PXD009652", "size":11}
 ]
 },
 {
 "name": "PMDX009656",
-"children": [{"name": "PXD009656", "size":45.767373399}
+"children": [{"name": "PXD009656", "size":46}
 ]
 },
 {
 "name": "PMDX009660",
-"children": [{"name": "PXD009660", "size":166.124879191}
+"children": [{"name": "PXD009660", "size":166}
 ]
 },
 {
 "name": "PMDX009677",
-"children": [{"name": "PXD009677", "size":13.158286328}
+"children": [{"name": "PXD009677", "size":13}
 ]
 },
 {
@@ -15385,12 +15385,12 @@
 },
 {
 "name": "PMDX009716",
-"children": [{"name": "PXD009716", "size":10.841902211}
+"children": [{"name": "PXD009716", "size":11}
 ]
 },
 {
 "name": "PMDX009724",
-"children": [{"name": "PXD009724", "size":13.543907385}
+"children": [{"name": "PXD009724", "size":14}
 ]
 },
 {
@@ -15400,7 +15400,7 @@
 },
 {
 "name": "PMDX009738",
-"children": [{"name": "PXD009738", "size":82.828891783}
+"children": [{"name": "PXD009738", "size":83}
 ]
 },
 {
@@ -15418,7 +15418,7 @@
 },
 {
 "name": "PMDX009744",
-"children": [{"name": "PXD009744", "size":34.617658146}
+"children": [{"name": "PXD009744", "size":35}
 ]
 },
 {
@@ -15428,17 +15428,17 @@
 },
 {
 "name": "PMDX009758",
-"children": [{"name": "PXD009758", "size":10.003574001}
+"children": [{"name": "PXD009758", "size":10}
 ]
 },
 {
 "name": "PMDX009784",
-"children": [{"name": "PXD009784", "size":144.19032057}
+"children": [{"name": "PXD009784", "size":144}
 ]
 },
 {
 "name": "PMDX009797",
-"children": [{"name": "PXD009797", "size":43.369102135}
+"children": [{"name": "PXD009797", "size":43}
 ]
 },
 {
@@ -15453,7 +15453,7 @@
 },
 {
 "name": "PMDX009819",
-"children": [{"name": "PXD009819", "size":20.777674679}
+"children": [{"name": "PXD009819", "size":21}
 ]
 },
 {
@@ -15468,7 +15468,7 @@
 },
 {
 "name": "PMDX009861",
-"children": [{"name": "PXD009861", "size":115.859850958}
+"children": [{"name": "PXD009861", "size":116}
 ]
 },
 {
@@ -15486,7 +15486,7 @@
 },
 {
 "name": "PMDX009868",
-"children": [{"name": "PXD009868", "size":192.650684642}
+"children": [{"name": "PXD009868", "size":193}
 ]
 },
 {
@@ -15496,12 +15496,12 @@
 },
 {
 "name": "PMDX009880",
-"children": [{"name": "PXD009880", "size":49.532629533}
+"children": [{"name": "PXD009880", "size":50}
 ]
 },
 {
 "name": "PMDX009893",
-"children": [{"name": "PXD009893", "size":72.204391765}
+"children": [{"name": "PXD009893", "size":72}
 ]
 },
 {
@@ -15511,22 +15511,22 @@
 },
 {
 "name": "PMDX009897",
-"children": [{"name": "PXD009897", "size":11.752207309}
+"children": [{"name": "PXD009897", "size":12}
 ]
 },
 {
 "name": "PMDX009900",
-"children": [{"name": "PXD009900", "size":81.082747661}
+"children": [{"name": "PXD009900", "size":81}
 ]
 },
 {
 "name": "PMDX009915",
-"children": [{"name": "PXD009915", "size":21.41497781}
+"children": [{"name": "PXD009915", "size":21}
 ]
 },
 {
 "name": "PMDX009919",
-"children": [{"name": "PXD009919", "size":27.770508749}
+"children": [{"name": "PXD009919", "size":28}
 ]
 },
 {
@@ -15536,12 +15536,12 @@
 },
 {
 "name": "PMDX009949",
-"children": [{"name": "PXD009949", "size":262.664540116}
+"children": [{"name": "PXD009949", "size":263}
 ]
 },
 {
 "name": "PMDX009950",
-"children": [{"name": "PXD009950", "size":17.53173876}
+"children": [{"name": "PXD009950", "size":18}
 ]
 },
 {
@@ -15551,22 +15551,22 @@
 },
 {
 "name": "PMDX009969",
-"children": [{"name": "PXD009969", "size":32.083657074}
+"children": [{"name": "PXD009969", "size":32}
 ]
 },
 {
 "name": "PMDX009991",
-"children": [{"name": "PXD009991", "size":40.799796386}
+"children": [{"name": "PXD009991", "size":41}
 ]
 },
 {
 "name": "PMDX009999",
-"children": [{"name": "PXD009999", "size":25.125128182}
+"children": [{"name": "PXD009999", "size":25}
 ]
 },
 {
 "name": "PMDX010002",
-"children": [{"name": "PXD010002", "size":131.067584345}
+"children": [{"name": "PXD010002", "size":131}
 ]
 },
 {
@@ -15598,27 +15598,27 @@
 },
 {
 "name": "PMDX010012",
-"children": [{"name": "PXD010012", "size":640.545188756}
+"children": [{"name": "PXD010012", "size":641}
 ]
 },
 {
 "name": "PMDX010025",
-"children": [{"name": "PXD010025", "size":81.514219936}
+"children": [{"name": "PXD010025", "size":82}
 ]
 },
 {
 "name": "PMDX010075",
-"children": [{"name": "PXD010075", "size":49.937557872}
+"children": [{"name": "PXD010075", "size":50}
 ]
 },
 {
 "name": "PMDX010088",
-"children": [{"name": "PXD010088", "size":245.675705845}
+"children": [{"name": "PXD010088", "size":246}
 ]
 },
 {
 "name": "PMDX010093",
-"children": [{"name": "PXD010093", "size":22.899378465}
+"children": [{"name": "PXD010093", "size":23}
 ]
 },
 {
@@ -15633,22 +15633,22 @@
 },
 {
 "name": "PMDX010132",
-"children": [{"name": "PXD010132", "size":24.092336426}
+"children": [{"name": "PXD010132", "size":24}
 ]
 },
 {
 "name": "PMDX010142",
-"children": [{"name": "PXD010142", "size":120.172460393}
+"children": [{"name": "PXD010142", "size":120}
 ]
 },
 {
 "name": "PMDX010145",
-"children": [{"name": "PXD010145", "size":21.80053533}
+"children": [{"name": "PXD010145", "size":22}
 ]
 },
 {
 "name": "PMDX010150",
-"children": [{"name": "PXD010150", "size":105.182149734}
+"children": [{"name": "PXD010150", "size":105}
 ]
 },
 {
@@ -15658,7 +15658,7 @@
 },
 {
 "name": "PMDX010155",
-"children": [{"name": "PXD010155", "size":57.008915794}
+"children": [{"name": "PXD010155", "size":57}
 ]
 },
 {
@@ -15681,7 +15681,7 @@
 },
 {
 "name": "PMDX010207",
-"children": [{"name": "PXD010207", "size":18.922207071}
+"children": [{"name": "PXD010207", "size":19}
 ]
 },
 {
@@ -15691,22 +15691,22 @@
 },
 {
 "name": "PMDX010222",
-"children": [{"name": "PXD010222", "size":117.419271736}
+"children": [{"name": "PXD010222", "size":117}
 ]
 },
 {
 "name": "PMDX010223",
-"children": [{"name": "PXD010223", "size":71.892071948}
+"children": [{"name": "PXD010223", "size":72}
 ]
 },
 {
 "name": "PMDX010224",
-"children": [{"name": "PXD010224", "size":14.518249198}
+"children": [{"name": "PXD010224", "size":15}
 ]
 },
 {
 "name": "PMDX010230",
-"children": [{"name": "PXD010230", "size":10.540399191}
+"children": [{"name": "PXD010230", "size":11}
 ]
 },
 {
@@ -15726,7 +15726,7 @@
 },
 {
 "name": "PMDX010306",
-"children": [{"name": "PXD010306", "size":20.924477743}
+"children": [{"name": "PXD010306", "size":21}
 ]
 },
 {
@@ -15736,7 +15736,7 @@
 },
 {
 "name": "PMDX010361",
-"children": [{"name": "PXD010361", "size":14.485620548}
+"children": [{"name": "PXD010361", "size":14}
 ]
 },
 {
@@ -15746,12 +15746,12 @@
 },
 {
 "name": "PMDX010395",
-"children": [{"name": "PXD010395", "size":23.137323224}
+"children": [{"name": "PXD010395", "size":23}
 ]
 },
 {
 "name": "PMDX010398",
-"children": [{"name": "PXD010398", "size":20.561875893}
+"children": [{"name": "PXD010398", "size":21}
 ]
 },
 {
@@ -15834,12 +15834,12 @@
 },
 {
 "name": "PMDX010480",
-"children": [{"name": "PXD010480", "size":19.51239261}
+"children": [{"name": "PXD010480", "size":20}
 ]
 },
 {
 "name": "PMDX010516",
-"children": [{"name": "PXD010516", "size":74.816335418}
+"children": [{"name": "PXD010516", "size":75}
 ]
 },
 {
@@ -15849,7 +15849,7 @@
 },
 {
 "name": "PMDX010538",
-"children": [{"name": "PXD010538", "size":271.609070284}
+"children": [{"name": "PXD010538", "size":272}
 ]
 },
 {
@@ -15859,12 +15859,12 @@
 },
 {
 "name": "PMDX010586",
-"children": [{"name": "PXD010586", "size":77.475154926}
+"children": [{"name": "PXD010586", "size":77}
 ]
 },
 {
 "name": "PMDX010606",
-"children": [{"name": "PXD010606", "size":120.135937222}
+"children": [{"name": "PXD010606", "size":120}
 ]
 },
 {
@@ -15874,32 +15874,32 @@
 },
 {
 "name": "PMDX010634",
-"children": [{"name": "PXD010634", "size":35.731410217}
+"children": [{"name": "PXD010634", "size":36}
 ]
 },
 {
 "name": "PMDX010750",
-"children": [{"name": "PXD010750", "size":19.386989262}
+"children": [{"name": "PXD010750", "size":19}
 ]
 },
 {
 "name": "PMDX010776",
-"children": [{"name": "PXD010776", "size":37.004123761}
+"children": [{"name": "PXD010776", "size":37}
 ]
 },
 {
 "name": "PMDX010783",
-"children": [{"name": "PXD010783", "size":10.526329486}
+"children": [{"name": "PXD010783", "size":11}
 ]
 },
 {
 "name": "PMDX010793",
-"children": [{"name": "PXD010793", "size":15.345482454}
+"children": [{"name": "PXD010793", "size":15}
 ]
 },
 {
 "name": "PMDX010821",
-"children": [{"name": "PXD010821", "size":127.995328781}
+"children": [{"name": "PXD010821", "size":128}
 ]
 },
 {
@@ -15909,7 +15909,7 @@
 },
 {
 "name": "PMDX010870",
-"children": [{"name": "PXD010870", "size":15.66284505}
+"children": [{"name": "PXD010870", "size":16}
 ]
 },
 {
@@ -15927,12 +15927,12 @@
 },
 {
 "name": "PMDX011000",
-"children": [{"name": "PXD011000", "size":53.396270383}
+"children": [{"name": "PXD011000", "size":53}
 ]
 },
 {
 "name": "PMDX011009",
-"children": [{"name": "PXD011009", "size":91.483526823}
+"children": [{"name": "PXD011009", "size":91}
 ]
 },
 {
@@ -15942,7 +15942,7 @@
 },
 {
 "name": "PMDX011033",
-"children": [{"name": "PXD011033", "size":92.805627699}
+"children": [{"name": "PXD011033", "size":93}
 ]
 },
 {
@@ -15957,17 +15957,17 @@
 },
 {
 "name": "PMDX011118",
-"children": [{"name": "PXD011118", "size":11.660688302}
+"children": [{"name": "PXD011118", "size":12}
 ]
 },
 {
 "name": "PMDX011152",
-"children": [{"name": "PXD011152", "size":35.727580316}
+"children": [{"name": "PXD011152", "size":36}
 ]
 },
 {
 "name": "PMDX011173",
-"children": [{"name": "PXD011173", "size":14.967832667}
+"children": [{"name": "PXD011173", "size":15}
 ]
 },
 {
@@ -15977,12 +15977,12 @@
 },
 {
 "name": "PMDX011187",
-"children": [{"name": "PXD011187", "size":23.329108532}
+"children": [{"name": "PXD011187", "size":23}
 ]
 },
 {
 "name": "PMDX011204",
-"children": [{"name": "PXD011204", "size":22.928617262}
+"children": [{"name": "PXD011204", "size":23}
 ]
 },
 {
@@ -15997,7 +15997,7 @@
 },
 {
 "name": "PMDX011256",
-"children": [{"name": "PXD011256", "size":11.338146098}
+"children": [{"name": "PXD011256", "size":11}
 ]
 },
 {
@@ -16007,12 +16007,12 @@
 },
 {
 "name": "PMDX011309",
-"children": [{"name": "PXD011309", "size":230.12131689}
+"children": [{"name": "PXD011309", "size":230}
 ]
 },
 {
 "name": "PMDX011492",
-"children": [{"name": "PXD011492", "size":46.020467225}
+"children": [{"name": "PXD011492", "size":46}
 ]
 },
 {
@@ -16022,7 +16022,7 @@
 },
 {
 "name": "PMDX011609",
-"children": [{"name": "PXD011609", "size":81.671107753}
+"children": [{"name": "PXD011609", "size":82}
 ]
 }
 ]
