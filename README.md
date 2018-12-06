@@ -1,2 +1,0 @@
-# prometadb
-About ProMetaDB
