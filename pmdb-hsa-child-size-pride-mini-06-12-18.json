@@ -1,0 +1,11561 @@
+{
+"name": "PRIDE",
+"children": [{
+"name": "PMDR000001",
+"children": [{"name": "PRD000001", "size":}
+]
+},
+{
+"name": "PMDR000002",
+"children": [{"name": "PRD000002", "size":}
+]
+},
+{
+"name": "PMDR000008",
+"children": [{"name": "PRD000008", "size":}
+]
+},
+{
+"name": "PMDR000011",
+"children": [{"name": "PRD000011", "size":}
+]
+},
+{
+"name": "PMDR000012",
+"children": [{
+"name": "PRD000013", "size":
+},
+{"name": "PRD000012", "size":}
+]
+},
+{
+"name": "PMDR000018",
+"children": [{"name": "PRD000018", "size":}
+]
+},
+{
+"name": "PMDR000019",
+"children": [{"name": "PRD000019", "size":}
+]
+},
+{
+"name": "PMDR000032",
+"children": [{"name": "PRD000032", "size":}
+]
+},
+{
+"name": "PMDR000042",
+"children": [{"name": "PRD000042", "size":}
+]
+},
+{
+"name": "PMDR000049",
+"children": [{"name": "PRD000049", "size":}
+]
+},
+{
+"name": "PMDR000052",
+"children": [{"name": "PRD000052", "size":}
+]
+},
+{
+"name": "PMDR000053",
+"children": [{"name": "PRD000053", "size":}
+]
+},
+{
+"name": "PMDR000062",
+"children": [{"name": "PRD000062", "size":}
+]
+},
+{
+"name": "PMDR000068",
+"children": [{"name": "PRD000068", "size":}
+]
+},
+{
+"name": "PMDR000069",
+"children": [{"name": "PRD000069", "size":}
+]
+},
+{
+"name": "PMDR000073",
+"children": [{"name": "PRD000073", "size":}
+]
+},
+{
+"name": "PMDR000075",
+"children": [{"name": "PRD000075", "size":}
+]
+},
+{
+"name": "PMDR000092",
+"children": [{"name": "PRD000092", "size":}
+]
+},
+{
+"name": "PMDR000104",
+"children": [{"name": "PRD000104", "size":}
+]
+},
+{
+"name": "PMDR000108",
+"children": [{"name": "PRD000108", "size":}
+]
+},
+{
+"name": "PMDR000113",
+"children": [{"name": "PRD000113", "size":}
+]
+},
+{
+"name": "PMDR000118",
+"children": [{"name": "PRD000118", "size":}
+]
+},
+{
+"name": "PMDR000123",
+"children": [{
+"name": "PRD000123", "size":
+},
+{"name": "PRD000124", "size":}
+]
+},
+{
+"name": "PMDR000146",
+"children": [{"name": "PRD000146", "size":}
+]
+},
+{
+"name": "PMDR000151",
+"children": [{"name": "PRD000151", "size":}
+]
+},
+{
+"name": "PMDR000154",
+"children": [{"name": "PRD000154", "size":}
+]
+},
+{
+"name": "PMDR000158",
+"children": [{"name": "PRD000158", "size":}
+]
+},
+{
+"name": "PMDR000167",
+"children": [{
+"name": "PRD000167", "size":
+},
+{"name": "PRD000168", "size":}
+]
+},
+{
+"name": "PMDR000172",
+"children": [{"name": "PRD000172", "size":}
+]
+},
+{
+"name": "PMDR000178",
+"children": [{"name": "PRD000178", "size":}
+]
+},
+{
+"name": "PMDR000209",
+"children": [{"name": "PRD000209", "size":}
+]
+},
+{
+"name": "PMDR000220",
+"children": [{"name": "PRD000220", "size":}
+]
+},
+{
+"name": "PMDR000226",
+"children": [{"name": "PRD000226", "size":}
+]
+},
+{
+"name": "PMDR000234",
+"children": [{"name": "PRD000234", "size":}
+]
+},
+{
+"name": "PMDR000242",
+"children": [{"name": "PRD000242", "size":}
+]
+},
+{
+"name": "PMDR000258",
+"children": [{"name": "PRD000258", "size":}
+]
+},
+{
+"name": "PMDR000269",
+"children": [{"name": "PRD000269", "size":}
+]
+},
+{
+"name": "PMDR000284",
+"children": [{"name": "PRD000284", "size":}
+]
+},
+{
+"name": "PMDR000285",
+"children": [{"name": "PRD000285", "size":}
+]
+},
+{
+"name": "PMDR000291",
+"children": [{"name": "PRD000291", "size":}
+]
+},
+{
+"name": "PMDR000309",
+"children": [{"name": "PRD000309", "size":}
+]
+},
+{
+"name": "PMDR000321",
+"children": [{"name": "PRD000321", "size":}
+]
+},
+{
+"name": "PMDR000336",
+"children": [{"name": "PRD000336", "size":}
+]
+},
+{
+"name": "PMDR000345",
+"children": [{"name": "PRD000345", "size":}
+]
+},
+{
+"name": "PMDR000354",
+"children": [{"name": "PRD000354", "size":}
+]
+},
+{
+"name": "PMDR000362",
+"children": [{"name": "PRD000362", "size":}
+]
+},
+{
+"name": "PMDR000364",
+"children": [{
+"name": "PRD000364", "size":
+},
+{"name": "PRD000365", "size":}
+]
+},
+{
+"name": "PMDR000369",
+"children": [{"name": "PRD000369", "size":}
+]
+},
+{
+"name": "PMDR000373",
+"children": [{"name": "PRD000373", "size":}
+]
+},
+{
+"name": "PMDR000376",
+"children": [{"name": "PRD000376", "size":}
+]
+},
+{
+"name": "PMDR000395",
+"children": [{"name": "PRD000395", "size":}
+]
+},
+{
+"name": "PMDR000407",
+"children": [{"name": "PRD000407", "size":}
+]
+},
+{
+"name": "PMDR000410",
+"children": [{
+"name": "PRD000411", "size":
+},
+{"name": "PRD000410", "size":}
+]
+},
+{
+"name": "PMDR000414",
+"children": [{"name": "PRD000414", "size":}
+]
+},
+{
+"name": "PMDR000416",
+"children": [{
+"name": "PRD000416", "size":
+},
+{"name": "PRD000417", "size":}
+]
+},
+{
+"name": "PMDR000421",
+"children": [{"name": "PRD000421", "size":}
+]
+},
+{
+"name": "PMDR000443",
+"children": [{"name": "PRD000443", "size":}
+]
+},
+{
+"name": "PMDR000461",
+"children": [{"name": "PRD000461", "size":}
+]
+},
+{
+"name": "PMDR000463",
+"children": [{"name": "PRD000463", "size":}
+]
+},
+{
+"name": "PMDR000465",
+"children": [{"name": "PRD000465", "size":}
+]
+},
+{
+"name": "PMDR000471",
+"children": [{"name": "PRD000471", "size":}
+]
+},
+{
+"name": "PMDR000473",
+"children": [{"name": "PRD000473", "size":}
+]
+},
+{
+"name": "PMDR000474",
+"children": [{"name": "PRD000474", "size":}
+]
+},
+{
+"name": "PMDR000477",
+"children": [{"name": "PRD000477", "size":}
+]
+},
+{
+"name": "PMDR000478",
+"children": [{"name": "PRD000478", "size":}
+]
+},
+{
+"name": "PMDR000481",
+"children": [{"name": "PRD000481", "size":}
+]
+},
+{
+"name": "PMDR000483",
+"children": [{"name": "PRD000483", "size":}
+]
+},
+{
+"name": "PMDR000495",
+"children": [{"name": "PRD000495", "size":}
+]
+},
+{
+"name": "PMDR000523",
+"children": [{"name": "PRD000523", "size":}
+]
+},
+{
+"name": "PMDR000535",
+"children": [{"name": "PRD000535", "size":}
+]
+},
+{
+"name": "PMDR000544",
+"children": [{"name": "PRD000544", "size":}
+]
+},
+{
+"name": "PMDR000557",
+"children": [{"name": "PRD000557", "size":}
+]
+},
+{
+"name": "PMDR000565",
+"children": [{"name": "PRD000565", "size":}
+]
+},
+{
+"name": "PMDR000580",
+"children": [{"name": "PRD000580", "size":}
+]
+},
+{
+"name": "PMDR000597",
+"children": [{"name": "PRD000597", "size":}
+]
+},
+{
+"name": "PMDR000600",
+"children": [{"name": "PRD000600", "size":}
+]
+},
+{
+"name": "PMDR000607",
+"children": [{"name": "PRD000607", "size":}
+]
+},
+{
+"name": "PMDR000620",
+"children": [{"name": "PRD000620", "size":}
+]
+},
+{
+"name": "PMDR000631",
+"children": [{"name": "PRD000631", "size":}
+]
+},
+{
+"name": "PMDR000644",
+"children": [{"name": "PRD000644", "size":}
+]
+},
+{
+"name": "PMDR000647",
+"children": [{"name": "PRD000647", "size":}
+]
+},
+{
+"name": "PMDR000651",
+"children": [{"name": "PRD000651", "size":}
+]
+},
+{
+"name": "PMDR000665",
+"children": [{"name": "PRD000665", "size":}
+]
+},
+{
+"name": "PMDR000666",
+"children": [{"name": "PRD000666", "size":}
+]
+},
+{
+"name": "PMDR000671",
+"children": [{"name": "PRD000671", "size":}
+]
+},
+{
+"name": "PMDR000680",
+"children": [{"name": "PRD000680", "size":}
+]
+},
+{
+"name": "PMDR000684",
+"children": [{"name": "PRD000684", "size":}
+]
+},
+{
+"name": "PMDR000689",
+"children": [{"name": "PRD000689", "size":}
+]
+},
+{
+"name": "PMDR000711",
+"children": [{"name": "PRD000711", "size":}
+]
+},
+{
+"name": "PMDR000726",
+"children": [{"name": "PRD000726", "size":}
+]
+},
+{
+"name": "PMDR000727",
+"children": [{"name": "PRD000727", "size":}
+]
+},
+{
+"name": "PMDR000732",
+"children": [{"name": "PRD000732", "size":}
+]
+},
+{
+"name": "PMDR000733",
+"children": [{"name": "PRD000733", "size":}
+]
+},
+{
+"name": "PMDR000738",
+"children": [{"name": "PRD000738", "size":}
+]
+},
+{
+"name": "PMDR000744",
+"children": [{"name": "PRD000744", "size":}
+]
+},
+{
+"name": "PMDR000748",
+"children": [{"name": "PRD000748", "size":}
+]
+},
+{
+"name": "PMDR000814",
+"children": [{"name": "PRD000814", "size":}
+]
+},
+{
+"name": "PMDX000004",
+"children": [{"name": "PXD000004", "size":}
+]
+},
+{
+"name": "PMDX000005",
+"children": [{"name": "PXD000005", "size":}
+]
+},
+{
+"name": "PMDX000006",
+"children": [{"name": "PXD000006", "size":}
+]
+},
+{
+"name": "PMDX000012",
+"children": [{"name": "PXD000012", "size":}
+]
+},
+{
+"name": "PMDX000013",
+"children": [{"name": "PXD000013", "size":}
+]
+},
+{
+"name": "PMDX000014",
+"children": [{"name": "PXD000014", "size":}
+]
+},
+{
+"name": "PMDX000021",
+"children": [{"name": "PXD000021", "size":}
+]
+},
+{
+"name": "PMDX000026",
+"children": [{"name": "PXD000026", "size":}
+]
+},
+{
+"name": "PMDX000029",
+"children": [{"name": "PXD000029", "size":}
+]
+},
+{
+"name": "PMDX000030",
+"children": [{"name": "PXD000030", "size":}
+]
+},
+{
+"name": "PMDX000036",
+"children": [{"name": "PXD000036", "size":}
+]
+},
+{
+"name": "PMDX000039",
+"children": [{"name": "PXD000039", "size":}
+]
+},
+{
+"name": "PMDX000047",
+"children": [{"name": "PXD000047", "size":}
+]
+},
+{
+"name": "PMDX000058",
+"children": [{"name": "PXD000058", "size":}
+]
+},
+{
+"name": "PMDX000061",
+"children": [{"name": "PXD000061", "size":}
+]
+},
+{
+"name": "PMDX000064",
+"children": [{"name": "PXD000064", "size":}
+]
+},
+{
+"name": "PMDX000065",
+"children": [{"name": "PXD000065", "size":}
+]
+},
+{
+"name": "PMDX000066",
+"children": [{"name": "PXD000066", "size":}
+]
+},
+{
+"name": "PMDX000067",
+"children": [{"name": "PXD000067", "size":}
+]
+},
+{
+"name": "PMDX000071",
+"children": [{"name": "PXD000071", "size":}
+]
+},
+{
+"name": "PMDX000072",
+"children": [{"name": "PXD000072", "size":}
+]
+},
+{
+"name": "PMDX000079",
+"children": [{"name": "PXD000079", "size":}
+]
+},
+{
+"name": "PMDX000089",
+"children": [{"name": "PXD000089", "size":}
+]
+},
+{
+"name": "PMDX000106",
+"children": [{"name": "PXD000106", "size":}
+]
+},
+{
+"name": "PMDX000109",
+"children": [{"name": "PXD000109", "size":}
+]
+},
+{
+"name": "PMDX000114",
+"children": [{"name": "PXD000114", "size":}
+]
+},
+{
+"name": "PMDX000115",
+"children": [{"name": "PXD000115", "size":}
+]
+},
+{
+"name": "PMDX000117",
+"children": [{"name": "PXD000117", "size":}
+]
+},
+{
+"name": "PMDX000119",
+"children": [{"name": "PXD000119", "size":}
+]
+},
+{
+"name": "PMDX000120",
+"children": [{"name": "PXD000120", "size":}
+]
+},
+{
+"name": "PMDX000125",
+"children": [{"name": "PXD000125", "size":}
+]
+},
+{
+"name": "PMDX000132",
+"children": [{"name": "PXD000132", "size":}
+]
+},
+{
+"name": "PMDX000134",
+"children": [{"name": "PXD000134", "size":}
+]
+},
+{
+"name": "PMDX000138",
+"children": [{"name": "PXD000138", "size":}
+]
+},
+{
+"name": "PMDX000148",
+"children": [{"name": "PXD000148", "size":}
+]
+},
+{
+"name": "PMDX000151",
+"children": [{"name": "PXD000151", "size":}
+]
+},
+{
+"name": "PMDX000155",
+"children": [{"name": "PXD000155", "size":}
+]
+},
+{
+"name": "PMDX000157",
+"children": [{
+"name": "PXD002117", "size":
+},
+{"name": "PXD000157", "size":}
+]
+},
+{
+"name": "PMDX000158",
+"children": [{"name": "PXD000158", "size":}
+]
+},
+{
+"name": "PMDX000159",
+"children": [{
+"name": "PXD000850", "size":
+},
+{"name": "PXD000159", "size":}
+]
+},
+{
+"name": "PMDX000162",
+"children": [{"name": "PXD000162", "size":}
+]
+},
+{
+"name": "PMDX000164",
+"children": [{"name": "PXD000164", "size":}
+]
+},
+{
+"name": "PMDX000171",
+"children": [{"name": "PXD000171", "size":}
+]
+},
+{
+"name": "PMDX000172",
+"children": [{"name": "PXD000172", "size":}
+]
+},
+{
+"name": "PMDX000183",
+"children": [{"name": "PXD000183", "size":}
+]
+},
+{
+"name": "PMDX000185",
+"children": [{"name": "PXD000185", "size":}
+]
+},
+{
+"name": "PMDX000190",
+"children": [{"name": "PXD000190", "size":}
+]
+},
+{
+"name": "PMDX000194",
+"children": [{"name": "PXD000194", "size":}
+]
+},
+{
+"name": "PMDX000197",
+"children": [{"name": "PXD000197", "size":}
+]
+},
+{
+"name": "PMDX000198",
+"children": [{"name": "PXD000198", "size":}
+]
+},
+{
+"name": "PMDX000208",
+"children": [{"name": "PXD000208", "size":}
+]
+},
+{
+"name": "PMDX000212",
+"children": [{"name": "PXD000212", "size":}
+]
+},
+{
+"name": "PMDX000217",
+"children": [{"name": "PXD000217", "size":}
+]
+},
+{
+"name": "PMDX000218",
+"children": [{"name": "PXD000218", "size":}
+]
+},
+{
+"name": "PMDX000219",
+"children": [{"name": "PXD000219", "size":}
+]
+},
+{
+"name": "PMDX000222",
+"children": [{"name": "PXD000222", "size":}
+]
+},
+{
+"name": "PMDX000225",
+"children": [{"name": "PXD000225", "size":}
+]
+},
+{
+"name": "PMDX000226",
+"children": [{"name": "PXD000226", "size":}
+]
+},
+{
+"name": "PMDX000228",
+"children": [{"name": "PXD000228", "size":}
+]
+},
+{
+"name": "PMDX000230",
+"children": [{"name": "PXD000230", "size":}
+]
+},
+{
+"name": "PMDX000234",
+"children": [{"name": "PXD000234", "size":}
+]
+},
+{
+"name": "PMDX000238",
+"children": [{"name": "PXD000238", "size":}
+]
+},
+{
+"name": "PMDX000239",
+"children": [{"name": "PXD000239", "size":}
+]
+},
+{
+"name": "PMDX000240",
+"children": [{
+"name": "PXD000506", "size":
+},
+{"name": "PXD000240", "size":}
+]
+},
+{
+"name": "PMDX000242",
+"children": [{"name": "PXD000242", "size":}
+]
+},
+{
+"name": "PMDX000243",
+"children": [{"name": "PXD000243", "size":}
+]
+},
+{
+"name": "PMDX000246",
+"children": [{"name": "PXD000246", "size":}
+]
+},
+{
+"name": "PMDX000252",
+"children": [{"name": "PXD000252", "size":}
+]
+},
+{
+"name": "PMDX000254",
+"children": [{"name": "PXD000254", "size":}
+]
+},
+{
+"name": "PMDX000260",
+"children": [{"name": "PXD000260", "size":}
+]
+},
+{
+"name": "PMDX000261",
+"children": [{"name": "PXD000261", "size":}
+]
+},
+{
+"name": "PMDX000262",
+"children": [{
+"name": "PXD003239", "size":
+},
+{"name": "PXD000262", "size":}
+]
+},
+{
+"name": "PMDX000263",
+"children": [{"name": "PXD000263", "size":}
+]
+},
+{
+"name": "PMDX000275",
+"children": [{"name": "PXD000275", "size":}
+]
+},
+{
+"name": "PMDX000278",
+"children": [{"name": "PXD000278", "size":}
+]
+},
+{
+"name": "PMDX000279",
+"children": [{"name": "PXD000279", "size":}
+]
+},
+{
+"name": "PMDX000281",
+"children": [{"name": "PXD000281", "size":}
+]
+},
+{
+"name": "PMDX000284",
+"children": [{"name": "PXD000284", "size":}
+]
+},
+{
+"name": "PMDX000293",
+"children": [{"name": "PXD000293", "size":}
+]
+},
+{
+"name": "PMDX000301",
+"children": [{"name": "PXD000301", "size":}
+]
+},
+{
+"name": "PMDX000302",
+"children": [{"name": "PXD000302", "size":}
+]
+},
+{
+"name": "PMDX000304",
+"children": [{"name": "PXD000304", "size":}
+]
+},
+{
+"name": "PMDX000309",
+"children": [{"name": "PXD000309", "size":}
+]
+},
+{
+"name": "PMDX000314",
+"children": [{"name": "PXD000314", "size":}
+]
+},
+{
+"name": "PMDX000328",
+"children": [{"name": "PXD000328", "size":}
+]
+},
+{
+"name": "PMDX000331",
+"children": [{"name": "PXD000331", "size":}
+]
+},
+{
+"name": "PMDX000332",
+"children": [{"name": "PXD000332", "size":}
+]
+},
+{
+"name": "PMDX000333",
+"children": [{"name": "PXD000333", "size":}
+]
+},
+{
+"name": "PMDX000335",
+"children": [{"name": "PXD000335", "size":}
+]
+},
+{
+"name": "PMDX000341",
+"children": [{"name": "PXD000341", "size":}
+]
+},
+{
+"name": "PMDX000343",
+"children": [{
+"name": "PXD006057", "size":
+},
+{"name": "PXD000343", "size":}
+]
+},
+{
+"name": "PMDX000347",
+"children": [{"name": "PXD000347", "size":}
+]
+},
+{
+"name": "PMDX000350",
+"children": [{"name": "PXD000350", "size":}
+]
+},
+{
+"name": "PMDX000357",
+"children": [{"name": "PXD000357", "size":}
+]
+},
+{
+"name": "PMDX000359",
+"children": [{"name": "PXD000359", "size":}
+]
+},
+{
+"name": "PMDX000361",
+"children": [{"name": "PXD000361", "size":}
+]
+},
+{
+"name": "PMDX000362",
+"children": [{"name": "PXD000362", "size":}
+]
+},
+{
+"name": "PMDX000376",
+"children": [{"name": "PXD000376", "size":}
+]
+},
+{
+"name": "PMDX000380",
+"children": [{"name": "PXD000380", "size":}
+]
+},
+{
+"name": "PMDX000383",
+"children": [{"name": "PXD000383", "size":}
+]
+},
+{
+"name": "PMDX000384",
+"children": [{"name": "PXD000384", "size":}
+]
+},
+{
+"name": "PMDX000385",
+"children": [{"name": "PXD000385", "size":}
+]
+},
+{
+"name": "PMDX000386",
+"children": [{"name": "PXD000386", "size":}
+]
+},
+{
+"name": "PMDX000387",
+"children": [{"name": "PXD000387", "size":}
+]
+},
+{
+"name": "PMDX000394",
+"children": [{"name": "PXD000394", "size":}
+]
+},
+{
+"name": "PMDX000395",
+"children": [{"name": "PXD000395", "size":}
+]
+},
+{
+"name": "PMDX000396",
+"children": [{"name": "PXD000396", "size":}
+]
+},
+{
+"name": "PMDX000397",
+"children": [{"name": "PXD000397", "size":}
+]
+},
+{
+"name": "PMDX000400",
+"children": [{"name": "PXD000400", "size":}
+]
+},
+{
+"name": "PMDX000412",
+"children": [{"name": "PXD000412", "size":}
+]
+},
+{
+"name": "PMDX000415",
+"children": [{"name": "PXD000415", "size":}
+]
+},
+{
+"name": "PMDX000416",
+"children": [{"name": "PXD000416", "size":}
+]
+},
+{
+"name": "PMDX000418",
+"children": [{"name": "PXD000418", "size":}
+]
+},
+{
+"name": "PMDX000419",
+"children": [{"name": "PXD000419", "size":}
+]
+},
+{
+"name": "PMDX000420",
+"children": [{"name": "PXD000420", "size":}
+]
+},
+{
+"name": "PMDX000426",
+"children": [{"name": "PXD000426", "size":}
+]
+},
+{
+"name": "PMDX000427",
+"children": [{"name": "PXD000427", "size":}
+]
+},
+{
+"name": "PMDX000434",
+"children": [{"name": "PXD000434", "size":}
+]
+},
+{
+"name": "PMDX000437",
+"children": [{"name": "PXD000437", "size":}
+]
+},
+{
+"name": "PMDX000438",
+"children": [{"name": "PXD000438", "size":}
+]
+},
+{
+"name": "PMDX000439",
+"children": [{"name": "PXD000439", "size":}
+]
+},
+{
+"name": "PMDX000440",
+"children": [{"name": "PXD000440", "size":}
+]
+},
+{
+"name": "PMDX000441",
+"children": [{"name": "PXD000441", "size":}
+]
+},
+{
+"name": "PMDX000442",
+"children": [{
+"name": "PXD000443", "size":
+},
+{
+"name": "PXD000447", "size":
+},
+{
+"name": "PXD000449", "size":
+},
+{"name": "PXD000442", "size":}
+]
+},
+{
+"name": "PMDX000445",
+"children": [{"name": "PXD000445", "size":}
+]
+},
+{
+"name": "PMDX000448",
+"children": [{"name": "PXD000448", "size":}
+]
+},
+{
+"name": "PMDX000450",
+"children": [{"name": "PXD000450", "size":}
+]
+},
+{
+"name": "PMDX000451",
+"children": [{"name": "PXD000451", "size":}
+]
+},
+{
+"name": "PMDX000456",
+"children": [{"name": "PXD000456", "size":}
+]
+},
+{
+"name": "PMDX000457",
+"children": [{"name": "PXD000457", "size":}
+]
+},
+{
+"name": "PMDX000458",
+"children": [{"name": "PXD000458", "size":}
+]
+},
+{
+"name": "PMDX000459",
+"children": [{"name": "PXD000459", "size":}
+]
+},
+{
+"name": "PMDX000462",
+"children": [{"name": "PXD000462", "size":}
+]
+},
+{
+"name": "PMDX000467",
+"children": [{"name": "PXD000467", "size":}
+]
+},
+{
+"name": "PMDX000472",
+"children": [{"name": "PXD000472", "size":}
+]
+},
+{
+"name": "PMDX000473",
+"children": [{"name": "PXD000473", "size":}
+]
+},
+{
+"name": "PMDX000474",
+"children": [{"name": "PXD000474", "size":}
+]
+},
+{
+"name": "PMDX000484",
+"children": [{
+"name": "PXD000485", "size":
+},
+{"name": "PXD000484", "size":}
+]
+},
+{
+"name": "PMDX000490",
+"children": [{"name": "PXD000491", "size":}
+]
+},
+{
+"name": "PMDX000492",
+"children": [{"name": "PXD000493", "size":}
+]
+},
+{
+"name": "PMDX000497",
+"children": [{"name": "PXD000497", "size":}
+]
+},
+{
+"name": "PMDX000499",
+"children": [{"name": "PXD000499", "size":}
+]
+},
+{
+"name": "PMDX000508",
+"children": [{"name": "PXD000508", "size":}
+]
+},
+{
+"name": "PMDX000523",
+"children": [{
+"name": "PXD001068", "size":
+},
+{"name": "PXD000523", "size":}
+]
+},
+{
+"name": "PMDX000528",
+"children": [{"name": "PXD000528", "size":}
+]
+},
+{
+"name": "PMDX000529",
+"children": [{
+"name": "PXD000535", "size":
+},
+{
+"name": "PXD000533", "size":
+},
+{"name": "PXD000529", "size":}
+]
+},
+{
+"name": "PMDX000531",
+"children": [{"name": "PXD000531", "size":}
+]
+},
+{
+"name": "PMDX000534",
+"children": [{"name": "PXD000534", "size":}
+]
+},
+{
+"name": "PMDX000536",
+"children": [{"name": "PXD000536", "size":}
+]
+},
+{
+"name": "PMDX000537",
+"children": [{"name": "PXD000537", "size":}
+]
+},
+{
+"name": "PMDX000538",
+"children": [{"name": "PXD000538", "size":}
+]
+},
+{
+"name": "PMDX000547",
+"children": [{
+"name": "PXD000547", "size":
+},
+{"name": "PXD000548", "size":}
+]
+},
+{
+"name": "PMDX000551",
+"children": [{
+"name": "PXD000551", "size":
+},
+{"name": "PXD001282", "size":}
+]
+},
+{
+"name": "PMDX000561",
+"children": [{"name": "PXD000561", "size":}
+]
+},
+{
+"name": "PMDX000563",
+"children": [{"name": "PXD000563", "size":}
+]
+},
+{
+"name": "PMDX000570",
+"children": [{"name": "PXD000570", "size":}
+]
+},
+{
+"name": "PMDX000574",
+"children": [{"name": "PXD000574", "size":}
+]
+},
+{
+"name": "PMDX000577",
+"children": [{"name": "PXD000577", "size":}
+]
+},
+{
+"name": "PMDX000578",
+"children": [{"name": "PXD000578", "size":}
+]
+},
+{
+"name": "PMDX000584",
+"children": [{"name": "PXD000584", "size":}
+]
+},
+{
+"name": "PMDX000589",
+"children": [{"name": "PXD000589", "size":}
+]
+},
+{
+"name": "PMDX000593",
+"children": [{"name": "PXD000593", "size":}
+]
+},
+{
+"name": "PMDX000596",
+"children": [{"name": "PXD000596", "size":}
+]
+},
+{
+"name": "PMDX000597",
+"children": [{"name": "PXD000597", "size":}
+]
+},
+{
+"name": "PMDX000599",
+"children": [{"name": "PXD000599", "size":}
+]
+},
+{
+"name": "PMDX000603",
+"children": [{"name": "PXD000603", "size":}
+]
+},
+{
+"name": "PMDX000604",
+"children": [{"name": "PXD000604", "size":}
+]
+},
+{
+"name": "PMDX000605",
+"children": [{"name": "PXD000605", "size":}
+]
+},
+{
+"name": "PMDX000608",
+"children": [{"name": "PXD000608", "size":}
+]
+},
+{
+"name": "PMDX000612",
+"children": [{"name": "PXD000612", "size":}
+]
+},
+{
+"name": "PMDX000618",
+"children": [{"name": "PXD000618", "size":}
+]
+},
+{
+"name": "PMDX000619",
+"children": [{"name": "PXD000619", "size":}
+]
+},
+{
+"name": "PMDX000621",
+"children": [{"name": "PXD000621", "size":}
+]
+},
+{
+"name": "PMDX000623",
+"children": [{"name": "PXD000623", "size":}
+]
+},
+{
+"name": "PMDX000624",
+"children": [{"name": "PXD000624", "size":}
+]
+},
+{
+"name": "PMDX000640",
+"children": [{"name": "PXD000640", "size":}
+]
+},
+{
+"name": "PMDX000642",
+"children": [{"name": "PXD000642", "size":}
+]
+},
+{
+"name": "PMDX000643",
+"children": [{"name": "PXD000643", "size":}
+]
+},
+{
+"name": "PMDX000651",
+"children": [{
+"name": "PXD000657", "size":
+},
+{
+"name": "PXD000656", "size":
+},
+{
+"name": "PXD000655", "size":
+},
+{
+"name": "PXD000654", "size":
+},
+{
+"name": "PXD000653", "size":
+},
+{
+"name": "PXD000652", "size":
+},
+{"name": "PXD000651", "size":}
+]
+},
+{
+"name": "PMDX000658",
+"children": [{"name": "PXD000658", "size":}
+]
+},
+{
+"name": "PMDX000661",
+"children": [{"name": "PXD000661", "size":}
+]
+},
+{
+"name": "PMDX000670",
+"children": [{
+"name": "PXD000677", "size":
+},
+{"name": "PXD000670", "size":}
+]
+},
+{
+"name": "PMDX000672",
+"children": [{"name": "PXD000672", "size":}
+]
+},
+{
+"name": "PMDX000678",
+"children": [{"name": "PXD000678", "size":}
+]
+},
+{
+"name": "PMDX000680",
+"children": [{"name": "PXD000680", "size":}
+]
+},
+{
+"name": "PMDX000681",
+"children": [{"name": "PXD000681", "size":}
+]
+},
+{
+"name": "PMDX000682",
+"children": [{"name": "PXD000682", "size":}
+]
+},
+{
+"name": "PMDX000686",
+"children": [{"name": "PXD000686", "size":}
+]
+},
+{
+"name": "PMDX000688",
+"children": [{"name": "PXD000688", "size":}
+]
+},
+{
+"name": "PMDX000691",
+"children": [{
+"name": "PXD000944", "size":
+},
+{"name": "PXD000691", "size":}
+]
+},
+{
+"name": "PMDX000695",
+"children": [{"name": "PXD000695", "size":}
+]
+},
+{
+"name": "PMDX000696",
+"children": [{
+"name": "PXD000701", "size":
+},
+{"name": "PXD000696", "size":}
+]
+},
+{
+"name": "PMDX000697",
+"children": [{"name": "PXD000697", "size":}
+]
+},
+{
+"name": "PMDX000704",
+"children": [{"name": "PXD000704", "size":}
+]
+},
+{
+"name": "PMDX000705",
+"children": [{"name": "PXD000705", "size":}
+]
+},
+{
+"name": "PMDX000716",
+"children": [{"name": "PXD000716", "size":}
+]
+},
+{
+"name": "PMDX000717",
+"children": [{
+"name": "PXD000734", "size":
+},
+{"name": "PXD000721", "size":}
+]
+},
+{
+"name": "PMDX000729",
+"children": [{"name": "PXD000729", "size":}
+]
+},
+{
+"name": "PMDX000737",
+"children": [{"name": "PXD000737", "size":}
+]
+},
+{
+"name": "PMDX000740",
+"children": [{"name": "PXD000740", "size":}
+]
+},
+{
+"name": "PMDX000741",
+"children": [{"name": "PXD000741", "size":}
+]
+},
+{
+"name": "PMDX000742",
+"children": [{
+"name": "PXD000757", "size":
+},
+{
+"name": "PXD000755", "size":
+},
+{
+"name": "PXD000749", "size":
+},
+{"name": "PXD000742", "size":}
+]
+},
+{
+"name": "PMDX000746",
+"children": [{"name": "PXD000746", "size":}
+]
+},
+{
+"name": "PMDX000748",
+"children": [{"name": "PXD000748", "size":}
+]
+},
+{
+"name": "PMDX000750",
+"children": [{"name": "PXD000750", "size":}
+]
+},
+{
+"name": "PMDX000752",
+"children": [{"name": "PXD000752", "size":}
+]
+},
+{
+"name": "PMDX000754",
+"children": [{"name": "PXD000754", "size":}
+]
+},
+{
+"name": "PMDX000759",
+"children": [{"name": "PXD000759", "size":}
+]
+},
+{
+"name": "PMDX000760",
+"children": [{"name": "PXD000760", "size":}
+]
+},
+{
+"name": "PMDX000764",
+"children": [{"name": "PXD000764", "size":}
+]
+},
+{
+"name": "PMDX000765",
+"children": [{"name": "PXD000765", "size":}
+]
+},
+{
+"name": "PMDX000766",
+"children": [{"name": "PXD000766", "size":}
+]
+},
+{
+"name": "PMDX000768",
+"children": [{
+"name": "PXD000769", "size":
+},
+{"name": "PXD000768", "size":}
+]
+},
+{
+"name": "PMDX000773",
+"children": [{"name": "PXD000773", "size":}
+]
+},
+{
+"name": "PMDX000774",
+"children": [{"name": "PXD000774", "size":}
+]
+},
+{
+"name": "PMDX000782",
+"children": [{"name": "PXD000782", "size":}
+]
+},
+{
+"name": "PMDX000786",
+"children": [{"name": "PXD000786", "size":}
+]
+},
+{
+"name": "PMDX000787",
+"children": [{"name": "PXD000787", "size":}
+]
+},
+{
+"name": "PMDX000788",
+"children": [{"name": "PXD000788", "size":}
+]
+},
+{
+"name": "PMDX000805",
+"children": [{
+"name": "PXD001496", "size":
+},
+{"name": "PXD000805", "size":}
+]
+},
+{
+"name": "PMDX000807",
+"children": [{"name": "PXD000807", "size":}
+]
+},
+{
+"name": "PMDX000813",
+"children": [{"name": "PXD000813", "size":}
+]
+},
+{
+"name": "PMDX000815",
+"children": [{"name": "PXD000815", "size":}
+]
+},
+{
+"name": "PMDX000834",
+"children": [{"name": "PXD000834", "size":}
+]
+},
+{
+"name": "PMDX000836",
+"children": [{"name": "PXD000836", "size":}
+]
+},
+{
+"name": "PMDX000838",
+"children": [{"name": "PXD000838", "size":}
+]
+},
+{
+"name": "PMDX000851",
+"children": [{"name": "PXD000851", "size":}
+]
+},
+{
+"name": "PMDX000852",
+"children": [{"name": "PXD000852", "size":}
+]
+},
+{
+"name": "PMDX000853",
+"children": [{"name": "PXD000853", "size":}
+]
+},
+{
+"name": "PMDX000861",
+"children": [{"name": "PXD000861", "size":}
+]
+},
+{
+"name": "PMDX000863",
+"children": [{"name": "PXD000863", "size":}
+]
+},
+{
+"name": "PMDX000865",
+"children": [{"name": "PXD000865", "size":}
+]
+},
+{
+"name": "PMDX000866",
+"children": [{"name": "PXD000866", "size":}
+]
+},
+{
+"name": "PMDX000870",
+"children": [{"name": "PXD000870", "size":}
+]
+},
+{
+"name": "PMDX000883",
+"children": [{"name": "PXD000883", "size":}
+]
+},
+{
+"name": "PMDX000895",
+"children": [{"name": "PXD000895", "size":}
+]
+},
+{
+"name": "PMDX000900",
+"children": [{"name": "PXD000900", "size":}
+]
+},
+{
+"name": "PMDX000901",
+"children": [{"name": "PXD000901", "size":}
+]
+},
+{
+"name": "PMDX000906",
+"children": [{"name": "PXD000906", "size":}
+]
+},
+{
+"name": "PMDX000914",
+"children": [{
+"name": "PXD000914", "size":
+},
+{"name": "PXD002649", "size":}
+]
+},
+{
+"name": "PMDX000916",
+"children": [{"name": "PXD000917", "size":}
+]
+},
+{
+"name": "PMDX000921",
+"children": [{"name": "PXD000921", "size":}
+]
+},
+{
+"name": "PMDX000928",
+"children": [{"name": "PXD000928", "size":}
+]
+},
+{
+"name": "PMDX000930",
+"children": [{"name": "PXD000930", "size":}
+]
+},
+{
+"name": "PMDX000932",
+"children": [{"name": "PXD000932", "size":}
+]
+},
+{
+"name": "PMDX000933",
+"children": [{"name": "PXD000933", "size":}
+]
+},
+{
+"name": "PMDX000934",
+"children": [{"name": "PXD000934", "size":}
+]
+},
+{
+"name": "PMDX000935",
+"children": [{"name": "PXD000935", "size":}
+]
+},
+{
+"name": "PMDX000948",
+"children": [{"name": "PXD000948", "size":}
+]
+},
+{
+"name": "PMDX000953",
+"children": [{
+"name": "PXD000954", "size":
+},
+{"name": "PXD000953", "size":}
+]
+},
+{
+"name": "PMDX000957",
+"children": [{"name": "PXD000957", "size":}
+]
+},
+{
+"name": "PMDX000959",
+"children": [{"name": "PXD000959", "size":}
+]
+},
+{
+"name": "PMDX000963",
+"children": [{"name": "PXD000963", "size":}
+]
+},
+{
+"name": "PMDX000964",
+"children": [{"name": "PXD000964", "size":}
+]
+},
+{
+"name": "PMDX000965",
+"children": [{"name": "PXD000965", "size":}
+]
+},
+{
+"name": "PMDX000970",
+"children": [{"name": "PXD000970", "size":}
+]
+},
+{
+"name": "PMDX000985",
+"children": [{"name": "PXD000985", "size":}
+]
+},
+{
+"name": "PMDX000987",
+"children": [{"name": "PXD000987", "size":}
+]
+},
+{
+"name": "PMDX000988",
+"children": [{"name": "PXD000988", "size":}
+]
+},
+{
+"name": "PMDX000991",
+"children": [{"name": "PXD000991", "size":}
+]
+},
+{
+"name": "PMDX000994",
+"children": [{"name": "PXD000994", "size":}
+]
+},
+{
+"name": "PMDX000996",
+"children": [{"name": "PXD000996", "size":}
+]
+},
+{
+"name": "PMDX000997",
+"children": [{"name": "PXD000997", "size":}
+]
+},
+{
+"name": "PMDX000998",
+"children": [{"name": "PXD000998", "size":}
+]
+},
+{
+"name": "PMDX000999",
+"children": [{"name": "PXD000999", "size":}
+]
+},
+{
+"name": "PMDX001001",
+"children": [{"name": "PXD001001", "size":}
+]
+},
+{
+"name": "PMDX001012",
+"children": [{
+"name": "PXD001017", "size":
+},
+{
+"name": "PXD001016", "size":
+},
+{
+"name": "PXD001015", "size":
+},
+{
+"name": "PXD001014", "size":
+},
+{
+"name": "PXD001013", "size":
+},
+{"name": "PXD001012", "size":}
+]
+},
+{
+"name": "PMDX001018",
+"children": [{
+"name": "PXD001018", "size":
+},
+{
+"name": "PXD001040", "size":
+},
+{"name": "PXD001041", "size":}
+]
+},
+{
+"name": "PMDX001025",
+"children": [{"name": "PXD001025", "size":}
+]
+},
+{
+"name": "PMDX001026",
+"children": [{"name": "PXD001026", "size":}
+]
+},
+{
+"name": "PMDX001032",
+"children": [{"name": "PXD001032", "size":}
+]
+},
+{
+"name": "PMDX001034",
+"children": [{
+"name": "PXD001034", "size":
+},
+{"name": "PXD001055", "size":}
+]
+},
+{
+"name": "PMDX001038",
+"children": [{"name": "PXD001038", "size":}
+]
+},
+{
+"name": "PMDX001042",
+"children": [{"name": "PXD001390", "size":}
+]
+},
+{
+"name": "PMDX001043",
+"children": [{"name": "PXD001043", "size":}
+]
+},
+{
+"name": "PMDX001047",
+"children": [{"name": "PXD001047", "size":}
+]
+},
+{
+"name": "PMDX001052",
+"children": [{"name": "PXD001052", "size":}
+]
+},
+{
+"name": "PMDX001060",
+"children": [{"name": "PXD001060", "size":}
+]
+},
+{
+"name": "PMDX001061",
+"children": [{"name": "PXD001061", "size":}
+]
+},
+{
+"name": "PMDX001062",
+"children": [{"name": "PXD001062", "size":}
+]
+},
+{
+"name": "PMDX001064",
+"children": [{"name": "PXD001064", "size":}
+]
+},
+{
+"name": "PMDX001066",
+"children": [{"name": "PXD001066", "size":}
+]
+},
+{
+"name": "PMDX001075",
+"children": [{"name": "PXD001075", "size":}
+]
+},
+{
+"name": "PMDX001078",
+"children": [{"name": "PXD001078", "size":}
+]
+},
+{
+"name": "PMDX001079",
+"children": [{"name": "PXD001079", "size":}
+]
+},
+{
+"name": "PMDX001084",
+"children": [{"name": "PXD001084", "size":}
+]
+},
+{
+"name": "PMDX001085",
+"children": [{"name": "PXD001085", "size":}
+]
+},
+{
+"name": "PMDX001088",
+"children": [{
+"name": "PXD001224", "size":
+},
+{"name": "PXD001088", "size":}
+]
+},
+{
+"name": "PMDX001094",
+"children": [{"name": "PXD001094", "size":}
+]
+},
+{
+"name": "PMDX001095",
+"children": [{"name": "PXD001095", "size":}
+]
+},
+{
+"name": "PMDX001099",
+"children": [{"name": "PXD001099", "size":}
+]
+},
+{
+"name": "PMDX001100",
+"children": [{"name": "PXD001100", "size":}
+]
+},
+{
+"name": "PMDX001101",
+"children": [{"name": "PXD001101", "size":}
+]
+},
+{
+"name": "PMDX001107",
+"children": [{"name": "PXD001107", "size":}
+]
+},
+{
+"name": "PMDX001109",
+"children": [{"name": "PXD001109", "size":}
+]
+},
+{
+"name": "PMDX001110",
+"children": [{"name": "PXD001110", "size":}
+]
+},
+{
+"name": "PMDX001111",
+"children": [{"name": "PXD001111", "size":}
+]
+},
+{
+"name": "PMDX001113",
+"children": [{
+"name": "PXD001121", "size":
+},
+{
+"name": "PXD001114", "size":
+},
+{"name": "PXD001113", "size":}
+]
+},
+{
+"name": "PMDX001115",
+"children": [{"name": "PXD001115", "size":}
+]
+},
+{
+"name": "PMDX001117",
+"children": [{"name": "PXD001117", "size":}
+]
+},
+{
+"name": "PMDX001118",
+"children": [{"name": "PXD001118", "size":}
+]
+},
+{
+"name": "PMDX001120",
+"children": [{"name": "PXD001120", "size":}
+]
+},
+{
+"name": "PMDX001123",
+"children": [{"name": "PXD001123", "size":}
+]
+},
+{
+"name": "PMDX001124",
+"children": [{"name": "PXD001124", "size":}
+]
+},
+{
+"name": "PMDX001129",
+"children": [{"name": "PXD001129", "size":}
+]
+},
+{
+"name": "PMDX001154",
+"children": [{"name": "PXD001154", "size":}
+]
+},
+{
+"name": "PMDX001170",
+"children": [{"name": "PXD001170", "size":}
+]
+},
+{
+"name": "PMDX001171",
+"children": [{"name": "PXD001171", "size":}
+]
+},
+{
+"name": "PMDX001174",
+"children": [{"name": "PXD001174", "size":}
+]
+},
+{
+"name": "PMDX001175",
+"children": [{"name": "PXD001175", "size":}
+]
+},
+{
+"name": "PMDX001176",
+"children": [{"name": "PXD001176", "size":}
+]
+},
+{
+"name": "PMDX001180",
+"children": [{"name": "PXD001180", "size":}
+]
+},
+{
+"name": "PMDX001183",
+"children": [{"name": "PXD001183", "size":}
+]
+},
+{
+"name": "PMDX001186",
+"children": [{"name": "PXD001186", "size":}
+]
+},
+{
+"name": "PMDX001189",
+"children": [{"name": "PXD001189", "size":}
+]
+},
+{
+"name": "PMDX001192",
+"children": [{"name": "PXD001192", "size":}
+]
+},
+{
+"name": "PMDX001194",
+"children": [{"name": "PXD001194", "size":}
+]
+},
+{
+"name": "PMDX001196",
+"children": [{
+"name": "PXD001245", "size":
+},
+{
+"name": "PXD001244", "size":
+},
+{"name": "PXD001196", "size":}
+]
+},
+{
+"name": "PMDX001197",
+"children": [{"name": "PXD001197", "size":}
+]
+},
+{
+"name": "PMDX001200",
+"children": [{"name": "PXD001200", "size":}
+]
+},
+{
+"name": "PMDX001202",
+"children": [{"name": "PXD001202", "size":}
+]
+},
+{
+"name": "PMDX001203",
+"children": [{"name": "PXD001203", "size":}
+]
+},
+{
+"name": "PMDX001205",
+"children": [{"name": "PXD001205", "size":}
+]
+},
+{
+"name": "PMDX001220",
+"children": [{"name": "PXD001220", "size":}
+]
+},
+{
+"name": "PMDX001222",
+"children": [{"name": "PXD001222", "size":}
+]
+},
+{
+"name": "PMDX001225",
+"children": [{
+"name": "PXD001225", "size":
+},
+{"name": "PXD004273", "size":}
+]
+},
+{
+"name": "PMDX001237",
+"children": [{"name": "PXD001237", "size":}
+]
+},
+{
+"name": "PMDX001240",
+"children": [{"name": "PXD001240", "size":}
+]
+},
+{
+"name": "PMDX001241",
+"children": [{"name": "PXD001241", "size":}
+]
+},
+{
+"name": "PMDX001242",
+"children": [{"name": "PXD001242", "size":}
+]
+},
+{
+"name": "PMDX001247",
+"children": [{"name": "PXD001247", "size":}
+]
+},
+{
+"name": "PMDX001248",
+"children": [{"name": "PXD001248", "size":}
+]
+},
+{
+"name": "PMDX001249",
+"children": [{"name": "PXD001249", "size":}
+]
+},
+{
+"name": "PMDX001253",
+"children": [{"name": "PXD001253", "size":}
+]
+},
+{
+"name": "PMDX001255",
+"children": [{"name": "PXD001255", "size":}
+]
+},
+{
+"name": "PMDX001258",
+"children": [{"name": "PXD001258", "size":}
+]
+},
+{
+"name": "PMDX001259",
+"children": [{"name": "PXD001259", "size":}
+]
+},
+{
+"name": "PMDX001260",
+"children": [{"name": "PXD001260", "size":}
+]
+},
+{
+"name": "PMDX001265",
+"children": [{"name": "PXD001265", "size":}
+]
+},
+{
+"name": "PMDX001268",
+"children": [{"name": "PXD001268", "size":}
+]
+},
+{
+"name": "PMDX001271",
+"children": [{"name": "PXD001271", "size":}
+]
+},
+{
+"name": "PMDX001274",
+"children": [{"name": "PXD001274", "size":}
+]
+},
+{
+"name": "PMDX001276",
+"children": [{"name": "PXD001276", "size":}
+]
+},
+{
+"name": "PMDX001278",
+"children": [{"name": "PXD001278", "size":}
+]
+},
+{
+"name": "PMDX001281",
+"children": [{"name": "PXD001281", "size":}
+]
+},
+{
+"name": "PMDX001305",
+"children": [{"name": "PXD001305", "size":}
+]
+},
+{
+"name": "PMDX001311",
+"children": [{
+"name": "PXD001328", "size":
+},
+{
+"name": "PXD001327", "size":
+},
+{
+"name": "PXD001326", "size":
+},
+{
+"name": "PXD001325", "size":
+},
+{
+"name": "PXD001324", "size":
+},
+{
+"name": "PXD001323", "size":
+},
+{"name": "PXD001311", "size":}
+]
+},
+{
+"name": "PMDX001333",
+"children": [{"name": "PXD001333", "size":}
+]
+},
+{
+"name": "PMDX001339",
+"children": [{"name": "PXD001339", "size":}
+]
+},
+{
+"name": "PMDX001352",
+"children": [{"name": "PXD001352", "size":}
+]
+},
+{
+"name": "PMDX001353",
+"children": [{"name": "PXD001353", "size":}
+]
+},
+{
+"name": "PMDX001357",
+"children": [{
+"name": "PXD001362", "size":
+},
+{
+"name": "PXD001359", "size":
+},
+{
+"name": "PXD001361", "size":
+},
+{
+"name": "PXD001360", "size":
+},
+{"name": "PXD001357", "size":}
+]
+},
+{
+"name": "PMDX001374",
+"children": [{"name": "PXD001374", "size":}
+]
+},
+{
+"name": "PMDX001377",
+"children": [{"name": "PXD001377", "size":}
+]
+},
+{
+"name": "PMDX001381",
+"children": [{"name": "PXD001381", "size":}
+]
+},
+{
+"name": "PMDX001383",
+"children": [{"name": "PXD001383", "size":}
+]
+},
+{
+"name": "PMDX001385",
+"children": [{"name": "PXD001385", "size":}
+]
+},
+{
+"name": "PMDX001391",
+"children": [{"name": "PXD001391", "size":}
+]
+},
+{
+"name": "PMDX001397",
+"children": [{"name": "PXD001397", "size":}
+]
+},
+{
+"name": "PMDX001398",
+"children": [{"name": "PXD001398", "size":}
+]
+},
+{
+"name": "PMDX001402",
+"children": [{
+"name": "PXD001403", "size":
+},
+{"name": "PXD001402", "size":}
+]
+},
+{
+"name": "PMDX001410",
+"children": [{"name": "PXD001410", "size":}
+]
+},
+{
+"name": "PMDX001415",
+"children": [{
+"name": "PXD001423", "size":
+},
+{
+"name": "PXD001422", "size":
+},
+{
+"name": "PXD001421", "size":
+},
+{
+"name": "PXD001420", "size":
+},
+{
+"name": "PXD001419", "size":
+},
+{
+"name": "PXD001418", "size":
+},
+{
+"name": "PXD001417", "size":
+},
+{
+"name": "PXD001416", "size":
+},
+{"name": "PXD001415", "size":}
+]
+},
+{
+"name": "PMDX001424",
+"children": [{
+"name": "PXD001424", "size":
+},
+{"name": "PXD002194", "size":}
+]
+},
+{
+"name": "PMDX001425",
+"children": [{"name": "PXD001425", "size":}
+]
+},
+{
+"name": "PMDX001426",
+"children": [{"name": "PXD001426", "size":}
+]
+},
+{
+"name": "PMDX001427",
+"children": [{
+"name": "PXD001427", "size":
+},
+{"name": "PXD001454", "size":}
+]
+},
+{
+"name": "PMDX001428",
+"children": [{"name": "PXD001428", "size":}
+]
+},
+{
+"name": "PMDX001430",
+"children": [{"name": "PXD001430", "size":}
+]
+},
+{
+"name": "PMDX001432",
+"children": [{"name": "PXD001432", "size":}
+]
+},
+{
+"name": "PMDX001434",
+"children": [{"name": "PXD001434", "size":}
+]
+},
+{
+"name": "PMDX001435",
+"children": [{"name": "PXD001435", "size":}
+]
+},
+{
+"name": "PMDX001447",
+"children": [{"name": "PXD001447", "size":}
+]
+},
+{
+"name": "PMDX001449",
+"children": [{"name": "PXD001449", "size":}
+]
+},
+{
+"name": "PMDX001460",
+"children": [{"name": "PXD001460", "size":}
+]
+},
+{
+"name": "PMDX001464",
+"children": [{"name": "PXD001464", "size":}
+]
+},
+{
+"name": "PMDX001468",
+"children": [{"name": "PXD001468", "size":}
+]
+},
+{
+"name": "PMDX001471",
+"children": [{"name": "PXD001471", "size":}
+]
+},
+{
+"name": "PMDX001474",
+"children": [{"name": "PXD001474", "size":}
+]
+},
+{
+"name": "PMDX001476",
+"children": [{
+"name": "PXD003478", "size":
+},
+{
+"name": "PXD001487", "size":
+},
+{
+"name": "PXD003471", "size":
+},
+{"name": "PXD001476", "size":}
+]
+},
+{
+"name": "PMDX001485",
+"children": [{"name": "PXD001485", "size":}
+]
+},
+{
+"name": "PMDX001493",
+"children": [{"name": "PXD001493", "size":}
+]
+},
+{
+"name": "PMDX001501",
+"children": [{"name": "PXD001501", "size":}
+]
+},
+{
+"name": "PMDX001502",
+"children": [{
+"name": "PXD001504", "size":
+},
+{
+"name": "PXD001503", "size":
+},
+{"name": "PXD001502", "size":}
+]
+},
+{
+"name": "PMDX001506",
+"children": [{"name": "PXD001506", "size":}
+]
+},
+{
+"name": "PMDX001511",
+"children": [{"name": "PXD001511", "size":}
+]
+},
+{
+"name": "PMDX001512",
+"children": [{
+"name": "PXD001516", "size":
+},
+{
+"name": "PXD001515", "size":
+},
+{"name": "PXD001512", "size":}
+]
+},
+{
+"name": "PMDX001521",
+"children": [{
+"name": "PXD001521", "size":
+},
+{
+"name": "PXD001523", "size":
+},
+{"name": "PXD001522", "size":}
+]
+},
+{
+"name": "PMDX001524",
+"children": [{"name": "PXD001524", "size":}
+]
+},
+{
+"name": "PMDX001527",
+"children": [{"name": "PXD001527", "size":}
+]
+},
+{
+"name": "PMDX001533",
+"children": [{"name": "PXD001533", "size":}
+]
+},
+{
+"name": "PMDX001536",
+"children": [{
+"name": "PXD001536", "size":
+},
+{"name": "PXD001553", "size":}
+]
+},
+{
+"name": "PMDX001539",
+"children": [{"name": "PXD001539", "size":}
+]
+},
+{
+"name": "PMDX001541",
+"children": [{"name": "PXD001541", "size":}
+]
+},
+{
+"name": "PMDX001543",
+"children": [{"name": "PXD001543", "size":}
+]
+},
+{
+"name": "PMDX001546",
+"children": [{
+"name": "PXD001550", "size":
+},
+{"name": "PXD001546", "size":}
+]
+},
+{
+"name": "PMDX001548",
+"children": [{"name": "PXD001548", "size":}
+]
+},
+{
+"name": "PMDX001549",
+"children": [{"name": "PXD001549", "size":}
+]
+},
+{
+"name": "PMDX001554",
+"children": [{"name": "PXD001554", "size":}
+]
+},
+{
+"name": "PMDX001558",
+"children": [{
+"name": "PXD003048", "size":
+},
+{"name": "PXD001558", "size":}
+]
+},
+{
+"name": "PMDX001559",
+"children": [{"name": "PXD001559", "size":}
+]
+},
+{
+"name": "PMDX001560",
+"children": [{
+"name": "PXD001563", "size":
+},
+{"name": "PXD001560", "size":}
+]
+},
+{
+"name": "PMDX001561",
+"children": [{"name": "PXD001561", "size":}
+]
+},
+{
+"name": "PMDX001565",
+"children": [{"name": "PXD001565", "size":}
+]
+},
+{
+"name": "PMDX001566",
+"children": [{"name": "PXD001566", "size":}
+]
+},
+{
+"name": "PMDX001571",
+"children": [{"name": "PXD001571", "size":}
+]
+},
+{
+"name": "PMDX001572",
+"children": [{"name": "PXD001572", "size":}
+]
+},
+{
+"name": "PMDX001573",
+"children": [{"name": "PXD001573", "size":}
+]
+},
+{
+"name": "PMDX001574",
+"children": [{"name": "PXD001574", "size":}
+]
+},
+{
+"name": "PMDX001578",
+"children": [{"name": "PXD001578", "size":}
+]
+},
+{
+"name": "PMDX001581",
+"children": [{"name": "PXD001581", "size":}
+]
+},
+{
+"name": "PMDX001582",
+"children": [{"name": "PXD001582", "size":}
+]
+},
+{
+"name": "PMDX001587",
+"children": [{"name": "PXD001587", "size":}
+]
+},
+{
+"name": "PMDX001592",
+"children": [{"name": "PXD001592", "size":}
+]
+},
+{
+"name": "PMDX001593",
+"children": [{
+"name": "PXD001593", "size":
+},
+{"name": "PXD001630", "size":}
+]
+},
+{
+"name": "PMDX001598",
+"children": [{"name": "PXD001598", "size":}
+]
+},
+{
+"name": "PMDX001603",
+"children": [{"name": "PXD001603", "size":}
+]
+},
+{
+"name": "PMDX001608",
+"children": [{"name": "PXD001608", "size":}
+]
+},
+{
+"name": "PMDX001609",
+"children": [{"name": "PXD001609", "size":}
+]
+},
+{
+"name": "PMDX001610",
+"children": [{"name": "PXD001610", "size":}
+]
+},
+{
+"name": "PMDX001620",
+"children": [{"name": "PXD001620", "size":}
+]
+},
+{
+"name": "PMDX001635",
+"children": [{"name": "PXD001635", "size":}
+]
+},
+{
+"name": "PMDX001645",
+"children": [{"name": "PXD001645", "size":}
+]
+},
+{
+"name": "PMDX001654",
+"children": [{"name": "PXD001654", "size":}
+]
+},
+{
+"name": "PMDX001655",
+"children": [{"name": "PXD001655", "size":}
+]
+},
+{
+"name": "PMDX001657",
+"children": [{"name": "PXD001657", "size":}
+]
+},
+{
+"name": "PMDX001660",
+"children": [{"name": "PXD001660", "size":}
+]
+},
+{
+"name": "PMDX001666",
+"children": [{"name": "PXD001666", "size":}
+]
+},
+{
+"name": "PMDX001668",
+"children": [{"name": "PXD001668", "size":}
+]
+},
+{
+"name": "PMDX001672",
+"children": [{"name": "PXD001672", "size":}
+]
+},
+{
+"name": "PMDX001674",
+"children": [{"name": "PXD001674", "size":}
+]
+},
+{
+"name": "PMDX001675",
+"children": [{"name": "PXD001675", "size":}
+]
+},
+{
+"name": "PMDX001676",
+"children": [{"name": "PXD001676", "size":}
+]
+},
+{
+"name": "PMDX001677",
+"children": [{"name": "PXD001677", "size":}
+]
+},
+{
+"name": "PMDX001680",
+"children": [{"name": "PXD001680", "size":}
+]
+},
+{
+"name": "PMDX001681",
+"children": [{"name": "PXD001681", "size":}
+]
+},
+{
+"name": "PMDX001682",
+"children": [{"name": "PXD001682", "size":}
+]
+},
+{
+"name": "PMDX001685",
+"children": [{"name": "PXD001685", "size":}
+]
+},
+{
+"name": "PMDX001689",
+"children": [{"name": "PXD001689", "size":}
+]
+},
+{
+"name": "PMDX001692",
+"children": [{"name": "PXD001692", "size":}
+]
+},
+{
+"name": "PMDX001694",
+"children": [{"name": "PXD001694", "size":}
+]
+},
+{
+"name": "PMDX001724",
+"children": [{
+"name": "PXD001725", "size":
+},
+{"name": "PXD001724", "size":}
+]
+},
+{
+"name": "PMDX001731",
+"children": [{"name": "PXD001731", "size":}
+]
+},
+{
+"name": "PMDX001736",
+"children": [{"name": "PXD001736", "size":}
+]
+},
+{
+"name": "PMDX001737",
+"children": [{"name": "PXD001737", "size":}
+]
+},
+{
+"name": "PMDX001739",
+"children": [{"name": "PXD001739", "size":}
+]
+},
+{
+"name": "PMDX001764",
+"children": [{"name": "PXD001764", "size":}
+]
+},
+{
+"name": "PMDX001773",
+"children": [{"name": "PXD001773", "size":}
+]
+},
+{
+"name": "PMDX001778",
+"children": [{"name": "PXD001778", "size":}
+]
+},
+{
+"name": "PMDX001781",
+"children": [{"name": "PXD001781", "size":}
+]
+},
+{
+"name": "PMDX001789",
+"children": [{"name": "PXD001906", "size":}
+]
+},
+{
+"name": "PMDX001794",
+"children": [{"name": "PXD001794", "size":}
+]
+},
+{
+"name": "PMDX001798",
+"children": [{"name": "PXD001798", "size":}
+]
+},
+{
+"name": "PMDX001805",
+"children": [{"name": "PXD001805", "size":}
+]
+},
+{
+"name": "PMDX001806",
+"children": [{"name": "PXD001806", "size":}
+]
+},
+{
+"name": "PMDX001808",
+"children": [{"name": "PXD001808", "size":}
+]
+},
+{
+"name": "PMDX001809",
+"children": [{"name": "PXD001809", "size":}
+]
+},
+{
+"name": "PMDX001810",
+"children": [{"name": "PXD001810", "size":}
+]
+},
+{
+"name": "PMDX001812",
+"children": [{"name": "PXD001812", "size":}
+]
+},
+{
+"name": "PMDX001819",
+"children": [{"name": "PXD001819", "size":}
+]
+},
+{
+"name": "PMDX001821",
+"children": [{"name": "PXD001821", "size":}
+]
+},
+{
+"name": "PMDX001825",
+"children": [{"name": "PXD001825", "size":}
+]
+},
+{
+"name": "PMDX001828",
+"children": [{"name": "PXD001828", "size":}
+]
+},
+{
+"name": "PMDX001833",
+"children": [{"name": "PXD001833", "size":}
+]
+},
+{
+"name": "PMDX001837",
+"children": [{"name": "PXD001837", "size":}
+]
+},
+{
+"name": "PMDX001838",
+"children": [{"name": "PXD001838", "size":}
+]
+},
+{
+"name": "PMDX001843",
+"children": [{
+"name": "PXD001846", "size":
+},
+{"name": "PXD001843", "size":}
+]
+},
+{
+"name": "PMDX001845",
+"children": [{"name": "PXD001845", "size":}
+]
+},
+{
+"name": "PMDX001847",
+"children": [{
+"name": "PXD001848", "size":
+},
+{"name": "PXD001847", "size":}
+]
+},
+{
+"name": "PMDX001849",
+"children": [{"name": "PXD001849", "size":}
+]
+},
+{
+"name": "PMDX001856",
+"children": [{"name": "PXD001856", "size":}
+]
+},
+{
+"name": "PMDX001861",
+"children": [{"name": "PXD001861", "size":}
+]
+},
+{
+"name": "PMDX001862",
+"children": [{"name": "PXD001862", "size":}
+]
+},
+{
+"name": "PMDX001863",
+"children": [{"name": "PXD001863", "size":}
+]
+},
+{
+"name": "PMDX001872",
+"children": [{
+"name": "PXD001904", "size":
+},
+{"name": "PXD001872", "size":}
+]
+},
+{
+"name": "PMDX001873",
+"children": [{"name": "PXD001873", "size":}
+]
+},
+{
+"name": "PMDX001874",
+"children": [{"name": "PXD001874", "size":}
+]
+},
+{
+"name": "PMDX001889",
+"children": [{"name": "PXD001889", "size":}
+]
+},
+{
+"name": "PMDX001890",
+"children": [{"name": "PXD001890", "size":}
+]
+},
+{
+"name": "PMDX001898",
+"children": [{"name": "PXD001898", "size":}
+]
+},
+{
+"name": "PMDX001907",
+"children": [{"name": "PXD001907", "size":}
+]
+},
+{
+"name": "PMDX001909",
+"children": [{"name": "PXD001909", "size":}
+]
+},
+{
+"name": "PMDX001932",
+"children": [{"name": "PXD001932", "size":}
+]
+},
+{
+"name": "PMDX001933",
+"children": [{"name": "PXD001933", "size":}
+]
+},
+{
+"name": "PMDX001938",
+"children": [{"name": "PXD001938", "size":}
+]
+},
+{
+"name": "PMDX001942",
+"children": [{"name": "PXD001942", "size":}
+]
+},
+{
+"name": "PMDX001949",
+"children": [{"name": "PXD001949", "size":}
+]
+},
+{
+"name": "PMDX001952",
+"children": [{"name": "PXD001952", "size":}
+]
+},
+{
+"name": "PMDX001953",
+"children": [{"name": "PXD001953", "size":}
+]
+},
+{
+"name": "PMDX001958",
+"children": [{"name": "PXD001958", "size":}
+]
+},
+{
+"name": "PMDX001962",
+"children": [{"name": "PXD001962", "size":}
+]
+},
+{
+"name": "PMDX001963",
+"children": [{"name": "PXD001963", "size":}
+]
+},
+{
+"name": "PMDX001974",
+"children": [{"name": "PXD001974", "size":}
+]
+},
+{
+"name": "PMDX001976",
+"children": [{"name": "PXD001976", "size":}
+]
+},
+{
+"name": "PMDX001977",
+"children": [{"name": "PXD001977", "size":}
+]
+},
+{
+"name": "PMDX001978",
+"children": [{"name": "PXD001978", "size":}
+]
+},
+{
+"name": "PMDX001980",
+"children": [{"name": "PXD001980", "size":}
+]
+},
+{
+"name": "PMDX001985",
+"children": [{"name": "PXD001985", "size":}
+]
+},
+{
+"name": "PMDX001987",
+"children": [{"name": "PXD001987", "size":}
+]
+},
+{
+"name": "PMDX001988",
+"children": [{"name": "PXD001988", "size":}
+]
+},
+{
+"name": "PMDX001994",
+"children": [{"name": "PXD001994", "size":}
+]
+},
+{
+"name": "PMDX001997",
+"children": [{"name": "PXD001997", "size":}
+]
+},
+{
+"name": "PMDX001999",
+"children": [{"name": "PXD001999", "size":}
+]
+},
+{
+"name": "PMDX002001",
+"children": [{"name": "PXD002001", "size":}
+]
+},
+{
+"name": "PMDX002004",
+"children": [{"name": "PXD002004", "size":}
+]
+},
+{
+"name": "PMDX002013",
+"children": [{"name": "PXD002013", "size":}
+]
+},
+{
+"name": "PMDX002014",
+"children": [{"name": "PXD002014", "size":}
+]
+},
+{
+"name": "PMDX002022",
+"children": [{"name": "PXD002022", "size":}
+]
+},
+{
+"name": "PMDX002023",
+"children": [{"name": "PXD002023", "size":}
+]
+},
+{
+"name": "PMDX002029",
+"children": [{"name": "PXD002029", "size":}
+]
+},
+{
+"name": "PMDX002032",
+"children": [{"name": "PXD002032", "size":}
+]
+},
+{
+"name": "PMDX002039",
+"children": [{"name": "PXD002039", "size":}
+]
+},
+{
+"name": "PMDX002041",
+"children": [{
+"name": "PXD002045", "size":
+},
+{
+"name": "PXD002042", "size":
+},
+{
+"name": "PXD002043", "size":
+},
+{
+"name": "PXD002041", "size":
+},
+{
+"name": "PXD002050", "size":
+},
+{
+"name": "PXD002049", "size":
+},
+{
+"name": "PXD002048", "size":
+},
+{
+"name": "PXD002047", "size":
+},
+{
+"name": "PXD002046", "size":
+},
+{"name": "PXD002044", "size":}
+]
+},
+{
+"name": "PMDX002052",
+"children": [{"name": "PXD002052", "size":}
+]
+},
+{
+"name": "PMDX002053",
+"children": [{"name": "PXD002053", "size":}
+]
+},
+{
+"name": "PMDX002055",
+"children": [{"name": "PXD002055", "size":}
+]
+},
+{
+"name": "PMDX002057",
+"children": [{"name": "PXD002057", "size":}
+]
+},
+{
+"name": "PMDX002058",
+"children": [{"name": "PXD002058", "size":}
+]
+},
+{
+"name": "PMDX002065",
+"children": [{"name": "PXD002065", "size":}
+]
+},
+{
+"name": "PMDX002066",
+"children": [{"name": "PXD002066", "size":}
+]
+},
+{
+"name": "PMDX002070",
+"children": [{"name": "PXD002070", "size":}
+]
+},
+{
+"name": "PMDX002073",
+"children": [{"name": "PXD002073", "size":}
+]
+},
+{
+"name": "PMDX002076",
+"children": [{"name": "PXD002076", "size":}
+]
+},
+{
+"name": "PMDX002079",
+"children": [{"name": "PXD002079", "size":}
+]
+},
+{
+"name": "PMDX002080",
+"children": [{
+"name": "PXD002083", "size":
+},
+{
+"name": "PXD002081", "size":
+},
+{
+"name": "PXD002086", "size":
+},
+{
+"name": "PXD002084", "size":
+},
+{
+"name": "PXD002089", "size":
+},
+{
+"name": "PXD002088", "size":
+},
+{
+"name": "PXD002087", "size":
+},
+{
+"name": "PXD002085", "size":
+},
+{
+"name": "PXD002082", "size":
+},
+{"name": "PXD002080", "size":}
+]
+},
+{
+"name": "PMDX002090",
+"children": [{"name": "PXD002090", "size":}
+]
+},
+{
+"name": "PMDX002091",
+"children": [{"name": "PXD002091", "size":}
+]
+},
+{
+"name": "PMDX002097",
+"children": [{"name": "PXD002097", "size":}
+]
+},
+{
+"name": "PMDX002098",
+"children": [{"name": "PXD002098", "size":}
+]
+},
+{
+"name": "PMDX002103",
+"children": [{"name": "PXD002103", "size":}
+]
+},
+{
+"name": "PMDX002104",
+"children": [{"name": "PXD002104", "size":}
+]
+},
+{
+"name": "PMDX002107",
+"children": [{"name": "PXD002107", "size":}
+]
+},
+{
+"name": "PMDX002113",
+"children": [{"name": "PXD002113", "size":}
+]
+},
+{
+"name": "PMDX002121",
+"children": [{"name": "PXD002121", "size":}
+]
+},
+{
+"name": "PMDX002127",
+"children": [{"name": "PXD002127", "size":}
+]
+},
+{
+"name": "PMDX002131",
+"children": [{"name": "PXD002131", "size":}
+]
+},
+{
+"name": "PMDX002132",
+"children": [{"name": "PXD002132", "size":}
+]
+},
+{
+"name": "PMDX002133",
+"children": [{"name": "PXD002133", "size":}
+]
+},
+{
+"name": "PMDX002135",
+"children": [{"name": "PXD002135", "size":}
+]
+},
+{
+"name": "PMDX002137",
+"children": [{"name": "PXD002137", "size":}
+]
+},
+{
+"name": "PMDX002142",
+"children": [{
+"name": "PXD004107", "size":
+},
+{"name": "PXD002142", "size":}
+]
+},
+{
+"name": "PMDX002145",
+"children": [{"name": "PXD002145", "size":}
+]
+},
+{
+"name": "PMDX002150",
+"children": [{"name": "PXD002150", "size":}
+]
+},
+{
+"name": "PMDX002163",
+"children": [{"name": "PXD002163", "size":}
+]
+},
+{
+"name": "PMDX002170",
+"children": [{"name": "PXD002170", "size":}
+]
+},
+{
+"name": "PMDX002171",
+"children": [{"name": "PXD002171", "size":}
+]
+},
+{
+"name": "PMDX002179",
+"children": [{"name": "PXD002179", "size":}
+]
+},
+{
+"name": "PMDX002192",
+"children": [{"name": "PXD002192", "size":}
+]
+},
+{
+"name": "PMDX002193",
+"children": [{"name": "PXD002193", "size":}
+]
+},
+{
+"name": "PMDX002208",
+"children": [{"name": "PXD002208", "size":}
+]
+},
+{
+"name": "PMDX002211",
+"children": [{
+"name": "PXD002212", "size":
+},
+{"name": "PXD002211", "size":}
+]
+},
+{
+"name": "PMDX002213",
+"children": [{
+"name": "PXD004501", "size":
+},
+{
+"name": "PXD003351", "size":
+},
+{"name": "PXD002213", "size":}
+]
+},
+{
+"name": "PMDX002214",
+"children": [{"name": "PXD002214", "size":}
+]
+},
+{
+"name": "PMDX002217",
+"children": [{"name": "PXD002217", "size":}
+]
+},
+{
+"name": "PMDX002220",
+"children": [{"name": "PXD002220", "size":}
+]
+},
+{
+"name": "PMDX002224",
+"children": [{"name": "PXD002224", "size":}
+]
+},
+{
+"name": "PMDX002235",
+"children": [{"name": "PXD002235", "size":}
+]
+},
+{
+"name": "PMDX002236",
+"children": [{"name": "PXD002236", "size":}
+]
+},
+{
+"name": "PMDX002241",
+"children": [{"name": "PXD002241", "size":}
+]
+},
+{
+"name": "PMDX002252",
+"children": [{"name": "PXD002252", "size":}
+]
+},
+{
+"name": "PMDX002255",
+"children": [{"name": "PXD002255", "size":}
+]
+},
+{
+"name": "PMDX002264",
+"children": [{"name": "PXD002264", "size":}
+]
+},
+{
+"name": "PMDX002265",
+"children": [{"name": "PXD002265", "size":}
+]
+},
+{
+"name": "PMDX002269",
+"children": [{"name": "PXD002269", "size":}
+]
+},
+{
+"name": "PMDX002273",
+"children": [{"name": "PXD002273", "size":}
+]
+},
+{
+"name": "PMDX002275",
+"children": [{"name": "PXD002275", "size":}
+]
+},
+{
+"name": "PMDX002277",
+"children": [{"name": "PXD002277", "size":}
+]
+},
+{
+"name": "PMDX002279",
+"children": [{"name": "PXD002279", "size":}
+]
+},
+{
+"name": "PMDX002281",
+"children": [{"name": "PXD002281", "size":}
+]
+},
+{
+"name": "PMDX002286",
+"children": [{"name": "PXD002286", "size":}
+]
+},
+{
+"name": "PMDX002292",
+"children": [{"name": "PXD002292", "size":}
+]
+},
+{
+"name": "PMDX002295",
+"children": [{"name": "PXD002295", "size":}
+]
+},
+{
+"name": "PMDX002304",
+"children": [{
+"name": "PXD002305", "size":
+},
+{"name": "PXD002304", "size":}
+]
+},
+{
+"name": "PMDX002319",
+"children": [{"name": "PXD002322", "size":}
+]
+},
+{
+"name": "PMDX002328",
+"children": [{"name": "PXD002328", "size":}
+]
+},
+{
+"name": "PMDX002332",
+"children": [{"name": "PXD002332", "size":}
+]
+},
+{
+"name": "PMDX002339",
+"children": [{"name": "PXD002339", "size":}
+]
+},
+{
+"name": "PMDX002354",
+"children": [{"name": "PXD002354", "size":}
+]
+},
+{
+"name": "PMDX002363",
+"children": [{"name": "PXD002363", "size":}
+]
+},
+{
+"name": "PMDX002367",
+"children": [{"name": "PXD002367", "size":}
+]
+},
+{
+"name": "PMDX002370",
+"children": [{"name": "PXD002370", "size":}
+]
+},
+{
+"name": "PMDX002378",
+"children": [{"name": "PXD002378", "size":}
+]
+},
+{
+"name": "PMDX002381",
+"children": [{"name": "PXD002381", "size":}
+]
+},
+{
+"name": "PMDX002384",
+"children": [{"name": "PXD002388", "size":}
+]
+},
+{
+"name": "PMDX002386",
+"children": [{"name": "PXD002386", "size":}
+]
+},
+{
+"name": "PMDX002389",
+"children": [{"name": "PXD002389", "size":}
+]
+},
+{
+"name": "PMDX002391",
+"children": [{"name": "PXD002391", "size":}
+]
+},
+{
+"name": "PMDX002393",
+"children": [{"name": "PXD002393", "size":}
+]
+},
+{
+"name": "PMDX002394",
+"children": [{"name": "PXD002394", "size":}
+]
+},
+{
+"name": "PMDX002395",
+"children": [{"name": "PXD002395", "size":}
+]
+},
+{
+"name": "PMDX002405",
+"children": [{"name": "PXD002405", "size":}
+]
+},
+{
+"name": "PMDX002411",
+"children": [{"name": "PXD002411", "size":}
+]
+},
+{
+"name": "PMDX002412",
+"children": [{
+"name": "PXD002534", "size":
+},
+{"name": "PXD002412", "size":}
+]
+},
+{
+"name": "PMDX002421",
+"children": [{"name": "PXD002421", "size":}
+]
+},
+{
+"name": "PMDX002424",
+"children": [{"name": "PXD002424", "size":}
+]
+},
+{
+"name": "PMDX002425",
+"children": [{"name": "PXD002425", "size":}
+]
+},
+{
+"name": "PMDX002428",
+"children": [{"name": "PXD002428", "size":}
+]
+},
+{
+"name": "PMDX002436",
+"children": [{"name": "PXD002436", "size":}
+]
+},
+{
+"name": "PMDX002437",
+"children": [{"name": "PXD002437", "size":}
+]
+},
+{
+"name": "PMDX002439",
+"children": [{"name": "PXD002439", "size":}
+]
+},
+{
+"name": "PMDX002442",
+"children": [{"name": "PXD002442", "size":}
+]
+},
+{
+"name": "PMDX002444",
+"children": [{"name": "PXD002444", "size":}
+]
+},
+{
+"name": "PMDX002448",
+"children": [{"name": "PXD002448", "size":}
+]
+},
+{
+"name": "PMDX002449",
+"children": [{"name": "PXD002449", "size":}
+]
+},
+{
+"name": "PMDX002454",
+"children": [{"name": "PXD002454", "size":}
+]
+},
+{
+"name": "PMDX002460",
+"children": [{"name": "PXD002460", "size":}
+]
+},
+{
+"name": "PMDX002461",
+"children": [{"name": "PXD002461", "size":}
+]
+},
+{
+"name": "PMDX002462",
+"children": [{"name": "PXD002462", "size":}
+]
+},
+{
+"name": "PMDX002471",
+"children": [{"name": "PXD002471", "size":}
+]
+},
+{
+"name": "PMDX002475",
+"children": [{"name": "PXD002475", "size":}
+]
+},
+{
+"name": "PMDX002483",
+"children": [{"name": "PXD002483", "size":}
+]
+},
+{
+"name": "PMDX002486",
+"children": [{"name": "PXD002486", "size":}
+]
+},
+{
+"name": "PMDX002496",
+"children": [{"name": "PXD002496", "size":}
+]
+},
+{
+"name": "PMDX002498",
+"children": [{"name": "PXD002498", "size":}
+]
+},
+{
+"name": "PMDX002516",
+"children": [{"name": "PXD002516", "size":}
+]
+},
+{
+"name": "PMDX002523",
+"children": [{"name": "PXD002523", "size":}
+]
+},
+{
+"name": "PMDX002528",
+"children": [{"name": "PXD002528", "size":}
+]
+},
+{
+"name": "PMDX002532",
+"children": [{"name": "PXD002532", "size":}
+]
+},
+{
+"name": "PMDX002533",
+"children": [{
+"name": "PXD002533", "size":
+},
+{"name": "PXD004713", "size":}
+]
+},
+{
+"name": "PMDX002549",
+"children": [{
+"name": "PXD002549", "size":
+},
+{"name": "PXD002572", "size":}
+]
+},
+{
+"name": "PMDX002554",
+"children": [{"name": "PXD002554", "size":}
+]
+},
+{
+"name": "PMDX002555",
+"children": [{"name": "PXD002555", "size":}
+]
+},
+{
+"name": "PMDX002556",
+"children": [{"name": "PXD002556", "size":}
+]
+},
+{
+"name": "PMDX002565",
+"children": [{"name": "PXD002565", "size":}
+]
+},
+{
+"name": "PMDX002566",
+"children": [{"name": "PXD002566", "size":}
+]
+},
+{
+"name": "PMDX002591",
+"children": [{"name": "PXD002591", "size":}
+]
+},
+{
+"name": "PMDX002596",
+"children": [{"name": "PXD002596", "size":}
+]
+},
+{
+"name": "PMDX002598",
+"children": [{"name": "PXD002598", "size":}
+]
+},
+{
+"name": "PMDX002600",
+"children": [{"name": "PXD002600", "size":}
+]
+},
+{
+"name": "PMDX002601",
+"children": [{
+"name": "PXD003053", "size":
+},
+{"name": "PXD002601", "size":}
+]
+},
+{
+"name": "PMDX002612",
+"children": [{"name": "PXD002612", "size":}
+]
+},
+{
+"name": "PMDX002613",
+"children": [{"name": "PXD002613", "size":}
+]
+},
+{
+"name": "PMDX002614",
+"children": [{"name": "PXD002614", "size":}
+]
+},
+{
+"name": "PMDX002619",
+"children": [{"name": "PXD002619", "size":}
+]
+},
+{
+"name": "PMDX002620",
+"children": [{"name": "PXD002620", "size":}
+]
+},
+{
+"name": "PMDX002622",
+"children": [{"name": "PXD002622", "size":}
+]
+},
+{
+"name": "PMDX002623",
+"children": [{"name": "PXD002623", "size":}
+]
+},
+{
+"name": "PMDX002626",
+"children": [{"name": "PXD002626", "size":}
+]
+},
+{
+"name": "PMDX002629",
+"children": [{"name": "PXD002629", "size":}
+]
+},
+{
+"name": "PMDX002633",
+"children": [{"name": "PXD002633", "size":}
+]
+},
+{
+"name": "PMDX002635",
+"children": [{"name": "PXD002635", "size":}
+]
+},
+{
+"name": "PMDX002637",
+"children": [{"name": "PXD002637", "size":}
+]
+},
+{
+"name": "PMDX002645",
+"children": [{"name": "PXD002645", "size":}
+]
+},
+{
+"name": "PMDX002646",
+"children": [{"name": "PXD002646", "size":}
+]
+},
+{
+"name": "PMDX002648",
+"children": [{"name": "PXD002648", "size":}
+]
+},
+{
+"name": "PMDX002650",
+"children": [{"name": "PXD002650", "size":}
+]
+},
+{
+"name": "PMDX002656",
+"children": [{"name": "PXD002656", "size":}
+]
+},
+{
+"name": "PMDX002657",
+"children": [{"name": "PXD002657", "size":}
+]
+},
+{
+"name": "PMDX002658",
+"children": [{"name": "PXD002658", "size":}
+]
+},
+{
+"name": "PMDX002659",
+"children": [{"name": "PXD002659", "size":}
+]
+},
+{
+"name": "PMDX002661",
+"children": [{"name": "PXD002661", "size":}
+]
+},
+{
+"name": "PMDX002662",
+"children": [{"name": "PXD002662", "size":}
+]
+},
+{
+"name": "PMDX002668",
+"children": [{"name": "PXD002668", "size":}
+]
+},
+{
+"name": "PMDX002669",
+"children": [{"name": "PXD002669", "size":}
+]
+},
+{
+"name": "PMDX002672",
+"children": [{"name": "PXD002672", "size":}
+]
+},
+{
+"name": "PMDX002673",
+"children": [{"name": "PXD002673", "size":}
+]
+},
+{
+"name": "PMDX002676",
+"children": [{"name": "PXD002676", "size":}
+]
+},
+{
+"name": "PMDX002678",
+"children": [{"name": "PXD002678", "size":}
+]
+},
+{
+"name": "PMDX002687",
+"children": [{"name": "PXD002687", "size":}
+]
+},
+{
+"name": "PMDX002690",
+"children": [{"name": "PXD002690", "size":}
+]
+},
+{
+"name": "PMDX002703",
+"children": [{"name": "PXD002703", "size":}
+]
+},
+{
+"name": "PMDX002704",
+"children": [{"name": "PXD002704", "size":}
+]
+},
+{
+"name": "PMDX002707",
+"children": [{"name": "PXD002707", "size":}
+]
+},
+{
+"name": "PMDX002720",
+"children": [{"name": "PXD002720", "size":}
+]
+},
+{
+"name": "PMDX002725",
+"children": [{
+"name": "PXD007083", "size":
+},
+{"name": "PXD002725", "size":}
+]
+},
+{
+"name": "PMDX002732",
+"children": [{"name": "PXD002732", "size":}
+]
+},
+{
+"name": "PMDX002733",
+"children": [{"name": "PXD002733", "size":}
+]
+},
+{
+"name": "PMDX002734",
+"children": [{"name": "PXD002734", "size":}
+]
+},
+{
+"name": "PMDX002735",
+"children": [{"name": "PXD002735", "size":}
+]
+},
+{
+"name": "PMDX002736",
+"children": [{
+"name": "PXD003743", "size":
+},
+{"name": "PXD002736", "size":}
+]
+},
+{
+"name": "PMDX002743",
+"children": [{"name": "PXD002743", "size":}
+]
+},
+{
+"name": "PMDX002757",
+"children": [{"name": "PXD002757", "size":}
+]
+},
+{
+"name": "PMDX002760",
+"children": [{"name": "PXD002760", "size":}
+]
+},
+{
+"name": "PMDX002762",
+"children": [{"name": "PXD002762", "size":}
+]
+},
+{
+"name": "PMDX002765",
+"children": [{"name": "PXD002765", "size":}
+]
+},
+{
+"name": "PMDX002770",
+"children": [{"name": "PXD002770", "size":}
+]
+},
+{
+"name": "PMDX002772",
+"children": [{"name": "PXD002772", "size":}
+]
+},
+{
+"name": "PMDX002774",
+"children": [{"name": "PXD002774", "size":}
+]
+},
+{
+"name": "PMDX002775",
+"children": [{"name": "PXD002775", "size":}
+]
+},
+{
+"name": "PMDX002776",
+"children": [{"name": "PXD002776", "size":}
+]
+},
+{
+"name": "PMDX002781",
+"children": [{"name": "PXD002781", "size":}
+]
+},
+{
+"name": "PMDX002783",
+"children": [{"name": "PXD002783", "size":}
+]
+},
+{
+"name": "PMDX002793",
+"children": [{"name": "PXD002793", "size":}
+]
+},
+{
+"name": "PMDX002797",
+"children": [{"name": "PXD002797", "size":}
+]
+},
+{
+"name": "PMDX002798",
+"children": [{"name": "PXD002798", "size":}
+]
+},
+{
+"name": "PMDX002802",
+"children": [{"name": "PXD002802", "size":}
+]
+},
+{
+"name": "PMDX002803",
+"children": [{"name": "PXD002803", "size":}
+]
+},
+{
+"name": "PMDX002811",
+"children": [{"name": "PXD002811", "size":}
+]
+},
+{
+"name": "PMDX002813",
+"children": [{"name": "PXD002813", "size":}
+]
+},
+{
+"name": "PMDX002815",
+"children": [{
+"name": "PXD002829", "size":
+},
+{"name": "PXD002815", "size":}
+]
+},
+{
+"name": "PMDX002821",
+"children": [{"name": "PXD002821", "size":}
+]
+},
+{
+"name": "PMDX002823",
+"children": [{"name": "PXD002823", "size":}
+]
+},
+{
+"name": "PMDX002825",
+"children": [{"name": "PXD002825", "size":}
+]
+},
+{
+"name": "PMDX002836",
+"children": [{"name": "PXD002836", "size":}
+]
+},
+{
+"name": "PMDX002839",
+"children": [{"name": "PXD002839", "size":}
+]
+},
+{
+"name": "PMDX002842",
+"children": [{"name": "PXD002842", "size":}
+]
+},
+{
+"name": "PMDX002844",
+"children": [{"name": "PXD002844", "size":}
+]
+},
+{
+"name": "PMDX002845",
+"children": [{"name": "PXD002845", "size":}
+]
+},
+{
+"name": "PMDX002850",
+"children": [{"name": "PXD002850", "size":}
+]
+},
+{
+"name": "PMDX002855",
+"children": [{"name": "PXD002855", "size":}
+]
+},
+{
+"name": "PMDX002859",
+"children": [{"name": "PXD002859", "size":}
+]
+},
+{
+"name": "PMDX002861",
+"children": [{"name": "PXD002861", "size":}
+]
+},
+{
+"name": "PMDX002862",
+"children": [{"name": "PXD002862", "size":}
+]
+},
+{
+"name": "PMDX002871",
+"children": [{"name": "PXD002871", "size":}
+]
+},
+{
+"name": "PMDX002880",
+"children": [{"name": "PXD002880", "size":}
+]
+},
+{
+"name": "PMDX002883",
+"children": [{"name": "PXD002883", "size":}
+]
+},
+{
+"name": "PMDX002884",
+"children": [{
+"name": "PXD002911", "size":
+},
+{"name": "PXD002884", "size":}
+]
+},
+{
+"name": "PMDX002885",
+"children": [{"name": "PXD002885", "size":}
+]
+},
+{
+"name": "PMDX002892",
+"children": [{"name": "PXD002892", "size":}
+]
+},
+{
+"name": "PMDX002899",
+"children": [{"name": "PXD002899", "size":}
+]
+},
+{
+"name": "PMDX002903",
+"children": [{"name": "PXD002903", "size":}
+]
+},
+{
+"name": "PMDX002931",
+"children": [{
+"name": "PXD002932", "size":
+},
+{"name": "PXD002931", "size":}
+]
+},
+{
+"name": "PMDX002933",
+"children": [{
+"name": "PXD002995", "size":
+},
+{"name": "PXD002933", "size":}
+]
+},
+{
+"name": "PMDX002934",
+"children": [{"name": "PXD002934", "size":}
+]
+},
+{
+"name": "PMDX002941",
+"children": [{"name": "PXD002941", "size":}
+]
+},
+{
+"name": "PMDX002943",
+"children": [{"name": "PXD002943", "size":}
+]
+},
+{
+"name": "PMDX002946",
+"children": [{"name": "PXD002946", "size":}
+]
+},
+{
+"name": "PMDX002950",
+"children": [{"name": "PXD002950", "size":}
+]
+},
+{
+"name": "PMDX002951",
+"children": [{"name": "PXD002951", "size":}
+]
+},
+{
+"name": "PMDX002952",
+"children": [{"name": "PXD002952", "size":}
+]
+},
+{
+"name": "PMDX002957",
+"children": [{"name": "PXD002957", "size":}
+]
+},
+{
+"name": "PMDX002959",
+"children": [{"name": "PXD002959", "size":}
+]
+},
+{
+"name": "PMDX002960",
+"children": [{"name": "PXD002960", "size":}
+]
+},
+{
+"name": "PMDX002966",
+"children": [{"name": "PXD002966", "size":}
+]
+},
+{
+"name": "PMDX002967",
+"children": [{"name": "PXD002967", "size":}
+]
+},
+{
+"name": "PMDX002971",
+"children": [{"name": "PXD002971", "size":}
+]
+},
+{
+"name": "PMDX002975",
+"children": [{
+"name": "PXD002975", "size":
+},
+{"name": "PXD002985", "size":}
+]
+},
+{
+"name": "PMDX002977",
+"children": [{"name": "PXD002977", "size":}
+]
+},
+{
+"name": "PMDX002987",
+"children": [{"name": "PXD002987", "size":}
+]
+},
+{
+"name": "PMDX002990",
+"children": [{"name": "PXD002990", "size":}
+]
+},
+{
+"name": "PMDX002998",
+"children": [{"name": "PXD002998", "size":}
+]
+},
+{
+"name": "PMDX003001",
+"children": [{"name": "PXD003001", "size":}
+]
+},
+{
+"name": "PMDX003003",
+"children": [{"name": "PXD003003", "size":}
+]
+},
+{
+"name": "PMDX003011",
+"children": [{"name": "PXD003111", "size":}
+]
+},
+{
+"name": "PMDX003014",
+"children": [{"name": "PXD003014", "size":}
+]
+},
+{
+"name": "PMDX003018",
+"children": [{"name": "PXD003018", "size":}
+]
+},
+{
+"name": "PMDX003019",
+"children": [{"name": "PXD003019", "size":}
+]
+},
+{
+"name": "PMDX003024",
+"children": [{"name": "PXD003024", "size":}
+]
+},
+{
+"name": "PMDX003027",
+"children": [{"name": "PXD003027", "size":}
+]
+},
+{
+"name": "PMDX003028",
+"children": [{"name": "PXD003028", "size":}
+]
+},
+{
+"name": "PMDX003029",
+"children": [{"name": "PXD003029", "size":}
+]
+},
+{
+"name": "PMDX003030",
+"children": [{"name": "PXD003030", "size":}
+]
+},
+{
+"name": "PMDX003037",
+"children": [{"name": "PXD003037", "size":}
+]
+},
+{
+"name": "PMDX003045",
+"children": [{"name": "PXD003045", "size":}
+]
+},
+{
+"name": "PMDX003051",
+"children": [{"name": "PXD003051", "size":}
+]
+},
+{
+"name": "PMDX003066",
+"children": [{
+"name": "PXD003960", "size":
+},
+{
+"name": "PXD003959", "size":
+},
+{
+"name": "PXD003958", "size":
+},
+{
+"name": "PXD003957", "size":
+},
+{
+"name": "PXD003072", "size":
+},
+{"name": "PXD003068", "size":}
+]
+},
+{
+"name": "PMDX003071",
+"children": [{"name": "PXD003071", "size":}
+]
+},
+{
+"name": "PMDX003075",
+"children": [{"name": "PXD003075", "size":}
+]
+},
+{
+"name": "PMDX003078",
+"children": [{"name": "PXD003078", "size":}
+]
+},
+{
+"name": "PMDX003082",
+"children": [{"name": "PXD003082", "size":}
+]
+},
+{
+"name": "PMDX003086",
+"children": [{"name": "PXD003086", "size":}
+]
+},
+{
+"name": "PMDX003092",
+"children": [{"name": "PXD003092", "size":}
+]
+},
+{
+"name": "PMDX003095",
+"children": [{"name": "PXD003095", "size":}
+]
+},
+{
+"name": "PMDX003105",
+"children": [{"name": "PXD003105", "size":}
+]
+},
+{
+"name": "PMDX003106",
+"children": [{"name": "PXD003106", "size":}
+]
+},
+{
+"name": "PMDX003108",
+"children": [{"name": "PXD003108", "size":}
+]
+},
+{
+"name": "PMDX003109",
+"children": [{"name": "PXD003109", "size":}
+]
+},
+{
+"name": "PMDX003112",
+"children": [{"name": "PXD003112", "size":}
+]
+},
+{
+"name": "PMDX003115",
+"children": [{"name": "PXD003115", "size":}
+]
+},
+{
+"name": "PMDX003120",
+"children": [{"name": "PXD003120", "size":}
+]
+},
+{
+"name": "PMDX003121",
+"children": [{"name": "PXD003121", "size":}
+]
+},
+{
+"name": "PMDX003132",
+"children": [{"name": "PXD003132", "size":}
+]
+},
+{
+"name": "PMDX003133",
+"children": [{
+"name": "PXD003134", "size":
+},
+{"name": "PXD003133", "size":}
+]
+},
+{
+"name": "PMDX003159",
+"children": [{"name": "PXD003159", "size":}
+]
+},
+{
+"name": "PMDX003176",
+"children": [{"name": "PXD003176", "size":}
+]
+},
+{
+"name": "PMDX003179",
+"children": [{"name": "PXD003179", "size":}
+]
+},
+{
+"name": "PMDX003185",
+"children": [{
+"name": "PXD003216", "size":
+},
+{"name": "PXD003185", "size":}
+]
+},
+{
+"name": "PMDX003186",
+"children": [{"name": "PXD003186", "size":}
+]
+},
+{
+"name": "PMDX003187",
+"children": [{"name": "PXD003187", "size":}
+]
+},
+{
+"name": "PMDX003190",
+"children": [{"name": "PXD003208", "size":}
+]
+},
+{
+"name": "PMDX003198",
+"children": [{"name": "PXD003198", "size":}
+]
+},
+{
+"name": "PMDX003199",
+"children": [{"name": "PXD003200", "size":}
+]
+},
+{
+"name": "PMDX003209",
+"children": [{"name": "PXD003209", "size":}
+]
+},
+{
+"name": "PMDX003210",
+"children": [{"name": "PXD003210", "size":}
+]
+},
+{
+"name": "PMDX003213",
+"children": [{"name": "PXD003213", "size":}
+]
+},
+{
+"name": "PMDX003215",
+"children": [{"name": "PXD003215", "size":}
+]
+},
+{
+"name": "PMDX003218",
+"children": [{"name": "PXD003218", "size":}
+]
+},
+{
+"name": "PMDX003224",
+"children": [{"name": "PXD003224", "size":}
+]
+},
+{
+"name": "PMDX003226",
+"children": [{"name": "PXD003226", "size":}
+]
+},
+{
+"name": "PMDX003230",
+"children": [{"name": "PXD003230", "size":}
+]
+},
+{
+"name": "PMDX003252",
+"children": [{"name": "PXD003252", "size":}
+]
+},
+{
+"name": "PMDX003257",
+"children": [{"name": "PXD003257", "size":}
+]
+},
+{
+"name": "PMDX003258",
+"children": [{"name": "PXD003258", "size":}
+]
+},
+{
+"name": "PMDX003262",
+"children": [{"name": "PXD003262", "size":}
+]
+},
+{
+"name": "PMDX003269",
+"children": [{"name": "PXD003269", "size":}
+]
+},
+{
+"name": "PMDX003271",
+"children": [{"name": "PXD003271", "size":}
+]
+},
+{
+"name": "PMDX003276",
+"children": [{"name": "PXD003276", "size":}
+]
+},
+{
+"name": "PMDX003279",
+"children": [{"name": "PXD003279", "size":}
+]
+},
+{
+"name": "PMDX003284",
+"children": [{"name": "PXD003284", "size":}
+]
+},
+{
+"name": "PMDX003286",
+"children": [{"name": "PXD003286", "size":}
+]
+},
+{
+"name": "PMDX003288",
+"children": [{"name": "PXD003288", "size":}
+]
+},
+{
+"name": "PMDX003289",
+"children": [{"name": "PXD003289", "size":}
+]
+},
+{
+"name": "PMDX003293",
+"children": [{
+"name": "PXD003323", "size":
+},
+{
+"name": "PXD003297", "size":
+},
+{
+"name": "PXD003296", "size":
+},
+{
+"name": "PXD003295", "size":
+},
+{
+"name": "PXD003294", "size":
+},
+{"name": "PXD003293", "size":}
+]
+},
+{
+"name": "PMDX003298",
+"children": [{"name": "PXD003298", "size":}
+]
+},
+{
+"name": "PMDX003316",
+"children": [{"name": "PXD003316", "size":}
+]
+},
+{
+"name": "PMDX003324",
+"children": [{"name": "PXD003324", "size":}
+]
+},
+{
+"name": "PMDX003340",
+"children": [{"name": "PXD003340", "size":}
+]
+},
+{
+"name": "PMDX003346",
+"children": [{"name": "PXD003346", "size":}
+]
+},
+{
+"name": "PMDX003348",
+"children": [{
+"name": "PXD004862", "size":
+},
+{
+"name": "PXD003365", "size":
+},
+{
+"name": "PXD003363", "size":
+},
+{"name": "PXD003354", "size":}
+]
+},
+{
+"name": "PMDX003362",
+"children": [{"name": "PXD003362", "size":}
+]
+},
+{
+"name": "PMDX003373",
+"children": [{"name": "PXD003373", "size":}
+]
+},
+{
+"name": "PMDX003387",
+"children": [{"name": "PXD003387", "size":}
+]
+},
+{
+"name": "PMDX003405",
+"children": [{"name": "PXD003405", "size":}
+]
+},
+{
+"name": "PMDX003406",
+"children": [{
+"name": "PXD003417", "size":
+},
+{
+"name": "PXD003416", "size":
+},
+{
+"name": "PXD003415", "size":
+},
+{
+"name": "PXD003414", "size":
+},
+{
+"name": "PXD003413", "size":
+},
+{
+"name": "PXD003412", "size":
+},
+{
+"name": "PXD003411", "size":
+},
+{
+"name": "PXD003410", "size":
+},
+{
+"name": "PXD003409", "size":
+},
+{
+"name": "PXD003408", "size":
+},
+{
+"name": "PXD003407", "size":
+},
+{"name": "PXD003406", "size":}
+]
+},
+{
+"name": "PMDX003419",
+"children": [{"name": "PXD003419", "size":}
+]
+},
+{
+"name": "PMDX003422",
+"children": [{"name": "PXD003422", "size":}
+]
+},
+{
+"name": "PMDX003423",
+"children": [{
+"name": "PXD006390", "size":
+},
+{"name": "PXD003423", "size":}
+]
+},
+{
+"name": "PMDX003430",
+"children": [{
+"name": "PXD004159", "size":
+},
+{
+"name": "PXD003636", "size":
+},
+{
+"name": "PXD003615", "size":
+},
+{
+"name": "PXD004132", "size":
+},
+{
+"name": "PXD003515", "size":
+},
+{
+"name": "PXD003452", "size":
+},
+{"name": "PXD003430", "size":}
+]
+},
+{
+"name": "PMDX003431",
+"children": [{"name": "PXD003431", "size":}
+]
+},
+{
+"name": "PMDX003434",
+"children": [{"name": "PXD003434", "size":}
+]
+},
+{
+"name": "PMDX003436",
+"children": [{"name": "PXD003436", "size":}
+]
+},
+{
+"name": "PMDX003438",
+"children": [{"name": "PXD003438", "size":}
+]
+},
+{
+"name": "PMDX003457",
+"children": [{"name": "PXD003457", "size":}
+]
+},
+{
+"name": "PMDX003458",
+"children": [{"name": "PXD003458", "size":}
+]
+},
+{
+"name": "PMDX003459",
+"children": [{"name": "PXD003459", "size":}
+]
+},
+{
+"name": "PMDX003465",
+"children": [{"name": "PXD003465", "size":}
+]
+},
+{
+"name": "PMDX003469",
+"children": [{"name": "PXD003469", "size":}
+]
+},
+{
+"name": "PMDX003485",
+"children": [{"name": "PXD003485", "size":}
+]
+},
+{
+"name": "PMDX003486",
+"children": [{"name": "PXD003486", "size":}
+]
+},
+{
+"name": "PMDX003489",
+"children": [{"name": "PXD003489", "size":}
+]
+},
+{
+"name": "PMDX003492",
+"children": [{"name": "PXD003492", "size":}
+]
+},
+{
+"name": "PMDX003497",
+"children": [{
+"name": "PXD004589", "size":
+},
+{"name": "PXD003497", "size":}
+]
+},
+{
+"name": "PMDX003498",
+"children": [{"name": "PXD003498", "size":}
+]
+},
+{
+"name": "PMDX003499",
+"children": [{"name": "PXD003499", "size":}
+]
+},
+{
+"name": "PMDX003501",
+"children": [{"name": "PXD003501", "size":}
+]
+},
+{
+"name": "PMDX003502",
+"children": [{"name": "PXD003502", "size":}
+]
+},
+{
+"name": "PMDX003503",
+"children": [{"name": "PXD003503", "size":}
+]
+},
+{
+"name": "PMDX003509",
+"children": [{"name": "PXD003509", "size":}
+]
+},
+{
+"name": "PMDX003514",
+"children": [{"name": "PXD003514", "size":}
+]
+},
+{
+"name": "PMDX003519",
+"children": [{"name": "PXD003519", "size":}
+]
+},
+{
+"name": "PMDX003529",
+"children": [{"name": "PXD003529", "size":}
+]
+},
+{
+"name": "PMDX003530",
+"children": [{
+"name": "PXD003530", "size":
+},
+{"name": "PXD004995", "size":}
+]
+},
+{
+"name": "PMDX003531",
+"children": [{"name": "PXD003531", "size":}
+]
+},
+{
+"name": "PMDX003533",
+"children": [{"name": "PXD003533", "size":}
+]
+},
+{
+"name": "PMDX003534",
+"children": [{"name": "PXD003534", "size":}
+]
+},
+{
+"name": "PMDX003535",
+"children": [{"name": "PXD003535", "size":}
+]
+},
+{
+"name": "PMDX003543",
+"children": [{"name": "PXD003543", "size":}
+]
+},
+{
+"name": "PMDX003544",
+"children": [{"name": "PXD003544", "size":}
+]
+},
+{
+"name": "PMDX003546",
+"children": [{"name": "PXD003546", "size":}
+]
+},
+{
+"name": "PMDX003547",
+"children": [{"name": "PXD003547", "size":}
+]
+},
+{
+"name": "PMDX003550",
+"children": [{"name": "PXD003550", "size":}
+]
+},
+{
+"name": "PMDX003551",
+"children": [{"name": "PXD003551", "size":}
+]
+},
+{
+"name": "PMDX003552",
+"children": [{"name": "PXD003552", "size":}
+]
+},
+{
+"name": "PMDX003554",
+"children": [{"name": "PXD003554", "size":}
+]
+},
+{
+"name": "PMDX003557",
+"children": [{"name": "PXD003557", "size":}
+]
+},
+{
+"name": "PMDX003558",
+"children": [{
+"name": "PXD003562", "size":
+},
+{
+"name": "PXD003559", "size":
+},
+{"name": "PXD003558", "size":}
+]
+},
+{
+"name": "PMDX003560",
+"children": [{"name": "PXD003560", "size":}
+]
+},
+{
+"name": "PMDX003561",
+"children": [{"name": "PXD003561", "size":}
+]
+},
+{
+"name": "PMDX003573",
+"children": [{"name": "PXD003573", "size":}
+]
+},
+{
+"name": "PMDX003577",
+"children": [{"name": "PXD003577", "size":}
+]
+},
+{
+"name": "PMDX003578",
+"children": [{"name": "PXD003578", "size":}
+]
+},
+{
+"name": "PMDX003587",
+"children": [{"name": "PXD003587", "size":}
+]
+},
+{
+"name": "PMDX003593",
+"children": [{"name": "PXD003593", "size":}
+]
+},
+{
+"name": "PMDX003594",
+"children": [{"name": "PXD003594", "size":}
+]
+},
+{
+"name": "PMDX003595",
+"children": [{"name": "PXD003595", "size":}
+]
+},
+{
+"name": "PMDX003596",
+"children": [{"name": "PXD003596", "size":}
+]
+},
+{
+"name": "PMDX003599",
+"children": [{"name": "PXD003599", "size":}
+]
+},
+{
+"name": "PMDX003606",
+"children": [{"name": "PXD003606", "size":}
+]
+},
+{
+"name": "PMDX003607",
+"children": [{"name": "PXD003607", "size":}
+]
+},
+{
+"name": "PMDX003608",
+"children": [{"name": "PXD003608", "size":}
+]
+},
+{
+"name": "PMDX003611",
+"children": [{"name": "PXD003611", "size":}
+]
+},
+{
+"name": "PMDX003613",
+"children": [{"name": "PXD003613", "size":}
+]
+},
+{
+"name": "PMDX003621",
+"children": [{"name": "PXD003621", "size":}
+]
+},
+{
+"name": "PMDX003622",
+"children": [{"name": "PXD003622", "size":}
+]
+},
+{
+"name": "PMDX003623",
+"children": [{"name": "PXD003623", "size":}
+]
+},
+{
+"name": "PMDX003628",
+"children": [{"name": "PXD003628", "size":}
+]
+},
+{
+"name": "PMDX003632",
+"children": [{"name": "PXD003632", "size":}
+]
+},
+{
+"name": "PMDX003640",
+"children": [{"name": "PXD003640", "size":}
+]
+},
+{
+"name": "PMDX003646",
+"children": [{"name": "PXD003646", "size":}
+]
+},
+{
+"name": "PMDX003651",
+"children": [{"name": "PXD003651", "size":}
+]
+},
+{
+"name": "PMDX003652",
+"children": [{
+"name": "PXD008401", "size":
+},
+{
+"name": "PXD008400", "size":
+},
+{
+"name": "PXD008399", "size":
+},
+{"name": "PXD008398", "size":}
+]
+},
+{
+"name": "PMDX003657",
+"children": [{"name": "PXD003657", "size":}
+]
+},
+{
+"name": "PMDX003660",
+"children": [{"name": "PXD003660", "size":}
+]
+},
+{
+"name": "PMDX003663",
+"children": [{"name": "PXD003663", "size":}
+]
+},
+{
+"name": "PMDX003664",
+"children": [{"name": "PXD003664", "size":}
+]
+},
+{
+"name": "PMDX003666",
+"children": [{"name": "PXD003666", "size":}
+]
+},
+{
+"name": "PMDX003668",
+"children": [{"name": "PXD003668", "size":}
+]
+},
+{
+"name": "PMDX003670",
+"children": [{"name": "PXD003670", "size":}
+]
+},
+{
+"name": "PMDX003691",
+"children": [{
+"name": "PXD004142", "size":
+},
+{"name": "PXD003691", "size":}
+]
+},
+{
+"name": "PMDX003698",
+"children": [{"name": "PXD003698", "size":}
+]
+},
+{
+"name": "PMDX003700",
+"children": [{"name": "PXD003700", "size":}
+]
+},
+{
+"name": "PMDX003701",
+"children": [{"name": "PXD003701", "size":}
+]
+},
+{
+"name": "PMDX003702",
+"children": [{"name": "PXD003702", "size":}
+]
+},
+{
+"name": "PMDX003704",
+"children": [{"name": "PXD003704", "size":}
+]
+},
+{
+"name": "PMDX003708",
+"children": [{"name": "PXD003708", "size":}
+]
+},
+{
+"name": "PMDX003709",
+"children": [{"name": "PXD003709", "size":}
+]
+},
+{
+"name": "PMDX003712",
+"children": [{"name": "PXD003712", "size":}
+]
+},
+{
+"name": "PMDX003719",
+"children": [{"name": "PXD003719", "size":}
+]
+},
+{
+"name": "PMDX003720",
+"children": [{"name": "PXD003720", "size":}
+]
+},
+{
+"name": "PMDX003733",
+"children": [{"name": "PXD003733", "size":}
+]
+},
+{
+"name": "PMDX003737",
+"children": [{"name": "PXD003737", "size":}
+]
+},
+{
+"name": "PMDX003745",
+"children": [{"name": "PXD003745", "size":}
+]
+},
+{
+"name": "PMDX003754",
+"children": [{"name": "PXD003754", "size":}
+]
+},
+{
+"name": "PMDX003762",
+"children": [{"name": "PXD003762", "size":}
+]
+},
+{
+"name": "PMDX003774",
+"children": [{"name": "PXD003774", "size":}
+]
+},
+{
+"name": "PMDX003777",
+"children": [{"name": "PXD003777", "size":}
+]
+},
+{
+"name": "PMDX003781",
+"children": [{"name": "PXD003781", "size":}
+]
+},
+{
+"name": "PMDX003785",
+"children": [{"name": "PXD003785", "size":}
+]
+},
+{
+"name": "PMDX003789",
+"children": [{"name": "PXD003789", "size":}
+]
+},
+{
+"name": "PMDX003790",
+"children": [{"name": "PXD003790", "size":}
+]
+},
+{
+"name": "PMDX003792",
+"children": [{"name": "PXD003792", "size":}
+]
+},
+{
+"name": "PMDX003794",
+"children": [{"name": "PXD003794", "size":}
+]
+},
+{
+"name": "PMDX003811",
+"children": [{"name": "PXD003811", "size":}
+]
+},
+{
+"name": "PMDX003813",
+"children": [{"name": "PXD003813", "size":}
+]
+},
+{
+"name": "PMDX003822",
+"children": [{"name": "PXD003822", "size":}
+]
+},
+{
+"name": "PMDX003825",
+"children": [{"name": "PXD003825", "size":}
+]
+},
+{
+"name": "PMDX003839",
+"children": [{"name": "PXD003839", "size":}
+]
+},
+{
+"name": "PMDX003843",
+"children": [{"name": "PXD003843", "size":}
+]
+},
+{
+"name": "PMDX003851",
+"children": [{"name": "PXD003851", "size":}
+]
+},
+{
+"name": "PMDX003856",
+"children": [{"name": "PXD003856", "size":}
+]
+},
+{
+"name": "PMDX003872",
+"children": [{"name": "PXD003872", "size":}
+]
+},
+{
+"name": "PMDX003875",
+"children": [{"name": "PXD003875", "size":}
+]
+},
+{
+"name": "PMDX003880",
+"children": [{"name": "PXD003880", "size":}
+]
+},
+{
+"name": "PMDX003881",
+"children": [{"name": "PXD003881", "size":}
+]
+},
+{
+"name": "PMDX003888",
+"children": [{"name": "PXD003888", "size":}
+]
+},
+{
+"name": "PMDX003896",
+"children": [{"name": "PXD003896", "size":}
+]
+},
+{
+"name": "PMDX003899",
+"children": [{"name": "PXD003899", "size":}
+]
+},
+{
+"name": "PMDX003902",
+"children": [{"name": "PXD003902", "size":}
+]
+},
+{
+"name": "PMDX003903",
+"children": [{
+"name": "PXD005506", "size":
+},
+{"name": "PXD003903", "size":}
+]
+},
+{
+"name": "PMDX003908",
+"children": [{"name": "PXD003908", "size":}
+]
+},
+{
+"name": "PMDX003909",
+"children": [{
+"name": "PXD003917", "size":
+},
+{
+"name": "PXD003913", "size":
+},
+{"name": "PXD003909", "size":}
+]
+},
+{
+"name": "PMDX003914",
+"children": [{"name": "PXD003914", "size":}
+]
+},
+{
+"name": "PMDX003924",
+"children": [{"name": "PXD003924", "size":}
+]
+},
+{
+"name": "PMDX003925",
+"children": [{"name": "PXD003925", "size":}
+]
+},
+{
+"name": "PMDX003929",
+"children": [{"name": "PXD003929", "size":}
+]
+},
+{
+"name": "PMDX003930",
+"children": [{"name": "PXD003930", "size":}
+]
+},
+{
+"name": "PMDX003931",
+"children": [{"name": "PXD003931", "size":}
+]
+},
+{
+"name": "PMDX003935",
+"children": [{"name": "PXD003935", "size":}
+]
+},
+{
+"name": "PMDX003937",
+"children": [{"name": "PXD003937", "size":}
+]
+},
+{
+"name": "PMDX003940",
+"children": [{"name": "PXD003940", "size":}
+]
+},
+{
+"name": "PMDX003947",
+"children": [{"name": "PXD003947", "size":}
+]
+},
+{
+"name": "PMDX003961",
+"children": [{"name": "PXD003961", "size":}
+]
+},
+{
+"name": "PMDX003963",
+"children": [{
+"name": "PXD003971", "size":
+},
+{
+"name": "PXD003967", "size":
+},
+{
+"name": "PXD003966", "size":
+},
+{
+"name": "PXD003965", "size":
+},
+{"name": "PXD003963", "size":}
+]
+},
+{
+"name": "PMDX003964",
+"children": [{"name": "PXD003964", "size":}
+]
+},
+{
+"name": "PMDX003968",
+"children": [{"name": "PXD003968", "size":}
+]
+},
+{
+"name": "PMDX003975",
+"children": [{"name": "PXD003975", "size":}
+]
+},
+{
+"name": "PMDX003977",
+"children": [{"name": "PXD003977", "size":}
+]
+},
+{
+"name": "PMDX003978",
+"children": [{"name": "PXD003978", "size":}
+]
+},
+{
+"name": "PMDX003983",
+"children": [{"name": "PXD003983", "size":}
+]
+},
+{
+"name": "PMDX004001",
+"children": [{"name": "PXD004001", "size":}
+]
+},
+{
+"name": "PMDX004003",
+"children": [{"name": "PXD004003", "size":}
+]
+},
+{
+"name": "PMDX004009",
+"children": [{"name": "PXD004009", "size":}
+]
+},
+{
+"name": "PMDX004010",
+"children": [{"name": "PXD004010", "size":}
+]
+},
+{
+"name": "PMDX004017",
+"children": [{"name": "PXD004017", "size":}
+]
+},
+{
+"name": "PMDX004023",
+"children": [{"name": "PXD004023", "size":}
+]
+},
+{
+"name": "PMDX004026",
+"children": [{"name": "PXD004026", "size":}
+]
+},
+{
+"name": "PMDX004034",
+"children": [{"name": "PXD004034", "size":}
+]
+},
+{
+"name": "PMDX004043",
+"children": [{"name": "PXD004043", "size":}
+]
+},
+{
+"name": "PMDX004051",
+"children": [{"name": "PXD004051", "size":}
+]
+},
+{
+"name": "PMDX004059",
+"children": [{"name": "PXD004059", "size":}
+]
+},
+{
+"name": "PMDX004060",
+"children": [{"name": "PXD004060", "size":}
+]
+},
+{
+"name": "PMDX004062",
+"children": [{
+"name": "PXD010659", "size":
+},
+{"name": "PXD004062", "size":}
+]
+},
+{
+"name": "PMDX004075",
+"children": [{
+"name": "PXD004075", "size":
+},
+{
+"name": "PXD004076", "size":
+},
+{"name": "PXD005065", "size":}
+]
+},
+{
+"name": "PMDX004077",
+"children": [{"name": "PXD004077", "size":}
+]
+},
+{
+"name": "PMDX004079",
+"children": [{"name": "PXD004079", "size":}
+]
+},
+{
+"name": "PMDX004086",
+"children": [{"name": "PXD004086", "size":}
+]
+},
+{
+"name": "PMDX004089",
+"children": [{"name": "PXD004089", "size":}
+]
+},
+{
+"name": "PMDX004092",
+"children": [{"name": "PXD004092", "size":}
+]
+},
+{
+"name": "PMDX004095",
+"children": [{"name": "PXD004095", "size":}
+]
+},
+{
+"name": "PMDX004098",
+"children": [{"name": "PXD004098", "size":}
+]
+},
+{
+"name": "PMDX004099",
+"children": [{"name": "PXD004099", "size":}
+]
+},
+{
+"name": "PMDX004103",
+"children": [{"name": "PXD004103", "size":}
+]
+},
+{
+"name": "PMDX004105",
+"children": [{"name": "PXD004105", "size":}
+]
+},
+{
+"name": "PMDX004109",
+"children": [{"name": "PXD004109", "size":}
+]
+},
+{
+"name": "PMDX004112",
+"children": [{"name": "PXD004112", "size":}
+]
+},
+{
+"name": "PMDX004117",
+"children": [{
+"name": "PXD004141", "size":
+},
+{"name": "PXD004117", "size":}
+]
+},
+{
+"name": "PMDX004131",
+"children": [{"name": "PXD004131", "size":}
+]
+},
+{
+"name": "PMDX004139",
+"children": [{"name": "PXD004139", "size":}
+]
+},
+{
+"name": "PMDX004143",
+"children": [{"name": "PXD004143", "size":}
+]
+},
+{
+"name": "PMDX004149",
+"children": [{"name": "PXD004149", "size":}
+]
+},
+{
+"name": "PMDX004154",
+"children": [{"name": "PXD004154", "size":}
+]
+},
+{
+"name": "PMDX004158",
+"children": [{"name": "PXD004158", "size":}
+]
+},
+{
+"name": "PMDX004163",
+"children": [{"name": "PXD004163", "size":}
+]
+},
+{
+"name": "PMDX004166",
+"children": [{"name": "PXD004166", "size":}
+]
+},
+{
+"name": "PMDX004175",
+"children": [{"name": "PXD004175", "size":}
+]
+},
+{
+"name": "PMDX004181",
+"children": [{"name": "PXD004181", "size":}
+]
+},
+{
+"name": "PMDX004184",
+"children": [{"name": "PXD004184", "size":}
+]
+},
+{
+"name": "PMDX004185",
+"children": [{"name": "PXD004185", "size":}
+]
+},
+{
+"name": "PMDX004187",
+"children": [{"name": "PXD004187", "size":}
+]
+},
+{
+"name": "PMDX004188",
+"children": [{"name": "PXD004188", "size":}
+]
+},
+{
+"name": "PMDX004190",
+"children": [{"name": "PXD004190", "size":}
+]
+},
+{
+"name": "PMDX004193",
+"children": [{"name": "PXD004193", "size":}
+]
+},
+{
+"name": "PMDX004195",
+"children": [{"name": "PXD004195", "size":}
+]
+},
+{
+"name": "PMDX004196",
+"children": [{"name": "PXD004196", "size":}
+]
+},
+{
+"name": "PMDX004198",
+"children": [{"name": "PXD004198", "size":}
+]
+},
+{
+"name": "PMDX004201",
+"children": [{"name": "PXD004201", "size":}
+]
+},
+{
+"name": "PMDX004205",
+"children": [{"name": "PXD004205", "size":}
+]
+},
+{
+"name": "PMDX004212",
+"children": [{"name": "PXD004212", "size":}
+]
+},
+{
+"name": "PMDX004218",
+"children": [{"name": "PXD004218", "size":}
+]
+},
+{
+"name": "PMDX004219",
+"children": [{"name": "PXD004219", "size":}
+]
+},
+{
+"name": "PMDX004233",
+"children": [{"name": "PXD004233", "size":}
+]
+},
+{
+"name": "PMDX004241",
+"children": [{"name": "PXD004241", "size":}
+]
+},
+{
+"name": "PMDX004242",
+"children": [{"name": "PXD004242", "size":}
+]
+},
+{
+"name": "PMDX004243",
+"children": [{"name": "PXD004243", "size":}
+]
+},
+{
+"name": "PMDX004245",
+"children": [{"name": "PXD004245", "size":}
+]
+},
+{
+"name": "PMDX004246",
+"children": [{"name": "PXD004246", "size":}
+]
+},
+{
+"name": "PMDX004248",
+"children": [{"name": "PXD004248", "size":}
+]
+},
+{
+"name": "PMDX004249",
+"children": [{
+"name": "PXD004249", "size":
+},
+{"name": "PXD005274", "size":}
+]
+},
+{
+"name": "PMDX004250",
+"children": [{"name": "PXD004250", "size":}
+]
+},
+{
+"name": "PMDX004252",
+"children": [{"name": "PXD004252", "size":}
+]
+},
+{
+"name": "PMDX004253",
+"children": [{"name": "PXD004253", "size":}
+]
+},
+{
+"name": "PMDX004264",
+"children": [{"name": "PXD004264", "size":}
+]
+},
+{
+"name": "PMDX004271",
+"children": [{"name": "PXD004271", "size":}
+]
+},
+{
+"name": "PMDX004278",
+"children": [{"name": "PXD004278", "size":}
+]
+},
+{
+"name": "PMDX004280",
+"children": [{"name": "PXD004280", "size":}
+]
+},
+{
+"name": "PMDX004288",
+"children": [{
+"name": "PXD004494", "size":
+},
+{"name": "PXD004288", "size":}
+]
+},
+{
+"name": "PMDX004291",
+"children": [{"name": "PXD004291", "size":}
+]
+},
+{
+"name": "PMDX004302",
+"children": [{"name": "PXD004302", "size":}
+]
+},
+{
+"name": "PMDX004303",
+"children": [{"name": "PXD004303", "size":}
+]
+},
+{
+"name": "PMDX004304",
+"children": [{"name": "PXD004304", "size":}
+]
+},
+{
+"name": "PMDX004312",
+"children": [{"name": "PXD004312", "size":}
+]
+},
+{
+"name": "PMDX004313",
+"children": [{
+"name": "PXD004316", "size":
+},
+{
+"name": "PXD004315", "size":
+},
+{
+"name": "PXD004314", "size":
+},
+{"name": "PXD004313", "size":}
+]
+},
+{
+"name": "PMDX004319",
+"children": [{"name": "PXD004319", "size":}
+]
+},
+{
+"name": "PMDX004320",
+"children": [{"name": "PXD004320", "size":}
+]
+},
+{
+"name": "PMDX004322",
+"children": [{"name": "PXD004322", "size":}
+]
+},
+{
+"name": "PMDX004332",
+"children": [{"name": "PXD004332", "size":}
+]
+},
+{
+"name": "PMDX004340",
+"children": [{"name": "PXD004340", "size":}
+]
+},
+{
+"name": "PMDX004341",
+"children": [{"name": "PXD004358", "size":}
+]
+},
+{
+"name": "PMDX004342",
+"children": [{
+"name": "PXD004343", "size":
+},
+{"name": "PXD004342", "size":}
+]
+},
+{
+"name": "PMDX004352",
+"children": [{"name": "PXD004352", "size":}
+]
+},
+{
+"name": "PMDX004357",
+"children": [{"name": "PXD004357", "size":}
+]
+},
+{
+"name": "PMDX004363",
+"children": [{
+"name": "PXD004363", "size":
+},
+{"name": "PXD004450", "size":}
+]
+},
+{
+"name": "PMDX004366",
+"children": [{"name": "PXD004366", "size":}
+]
+},
+{
+"name": "PMDX004369",
+"children": [{"name": "PXD004369", "size":}
+]
+},
+{
+"name": "PMDX004373",
+"children": [{"name": "PXD004373", "size":}
+]
+},
+{
+"name": "PMDX004397",
+"children": [{"name": "PXD004397", "size":}
+]
+},
+{
+"name": "PMDX004415",
+"children": [{"name": "PXD004415", "size":}
+]
+},
+{
+"name": "PMDX004419",
+"children": [{"name": "PXD004419", "size":}
+]
+},
+{
+"name": "PMDX004420",
+"children": [{"name": "PXD004420", "size":}
+]
+},
+{
+"name": "PMDX004423",
+"children": [{"name": "PXD004423", "size":}
+]
+},
+{
+"name": "PMDX004424",
+"children": [{"name": "PXD004424", "size":}
+]
+},
+{
+"name": "PMDX004434",
+"children": [{"name": "PXD004434", "size":}
+]
+},
+{
+"name": "PMDX004437",
+"children": [{"name": "PXD004437", "size":}
+]
+},
+{
+"name": "PMDX004442",
+"children": [{"name": "PXD004442", "size":}
+]
+},
+{
+"name": "PMDX004443",
+"children": [{"name": "PXD004443", "size":}
+]
+},
+{
+"name": "PMDX004445",
+"children": [{"name": "PXD004445", "size":}
+]
+},
+{
+"name": "PMDX004447",
+"children": [{"name": "PXD004447", "size":}
+]
+},
+{
+"name": "PMDX004452",
+"children": [{"name": "PXD004452", "size":}
+]
+},
+{
+"name": "PMDX004462",
+"children": [{"name": "PXD004462", "size":}
+]
+},
+{
+"name": "PMDX004465",
+"children": [{"name": "PXD004465", "size":}
+]
+},
+{
+"name": "PMDX004466",
+"children": [{"name": "PXD004466", "size":}
+]
+},
+{
+"name": "PMDX004471",
+"children": [{"name": "PXD004471", "size":}
+]
+},
+{
+"name": "PMDX004476",
+"children": [{"name": "PXD004476", "size":}
+]
+},
+{
+"name": "PMDX004499",
+"children": [{"name": "PXD004499", "size":}
+]
+},
+{
+"name": "PMDX004510",
+"children": [{"name": "PXD004510", "size":}
+]
+},
+{
+"name": "PMDX004514",
+"children": [{"name": "PXD004514", "size":}
+]
+},
+{
+"name": "PMDX004515",
+"children": [{"name": "PXD004515", "size":}
+]
+},
+{
+"name": "PMDX004529",
+"children": [{"name": "PXD004529", "size":}
+]
+},
+{
+"name": "PMDX004531",
+"children": [{"name": "PXD004531", "size":}
+]
+},
+{
+"name": "PMDX004540",
+"children": [{
+"name": "PXD004540", "size":
+},
+{"name": "PXD004572", "size":}
+]
+},
+{
+"name": "PMDX004541",
+"children": [{"name": "PXD004541", "size":}
+]
+},
+{
+"name": "PMDX004555",
+"children": [{"name": "PXD004555", "size":}
+]
+},
+{
+"name": "PMDX004559",
+"children": [{"name": "PXD004559", "size":}
+]
+},
+{
+"name": "PMDX004562",
+"children": [{"name": "PXD004562", "size":}
+]
+},
+{
+"name": "PMDX004569",
+"children": [{"name": "PXD004569", "size":}
+]
+},
+{
+"name": "PMDX004573",
+"children": [{
+"name": "PXD004573", "size":
+},
+{
+"name": "PXD006056", "size":
+},
+{"name": "PXD004574", "size":}
+]
+},
+{
+"name": "PMDX004575",
+"children": [{"name": "PXD004575", "size":}
+]
+},
+{
+"name": "PMDX004585",
+"children": [{"name": "PXD004585", "size":}
+]
+},
+{
+"name": "PMDX004588",
+"children": [{"name": "PXD004588", "size":}
+]
+},
+{
+"name": "PMDX004590",
+"children": [{"name": "PXD004590", "size":}
+]
+},
+{
+"name": "PMDX004595",
+"children": [{"name": "PXD004595", "size":}
+]
+},
+{
+"name": "PMDX004613",
+"children": [{"name": "PXD004613", "size":}
+]
+},
+{
+"name": "PMDX004624",
+"children": [{
+"name": "PXD004626", "size":
+},
+{
+"name": "PXD004625", "size":
+},
+{"name": "PXD004624", "size":}
+]
+},
+{
+"name": "PMDX004628",
+"children": [{"name": "PXD004628", "size":}
+]
+},
+{
+"name": "PMDX004635",
+"children": [{"name": "PXD004635", "size":}
+]
+},
+{
+"name": "PMDX004647",
+"children": [{"name": "PXD004647", "size":}
+]
+},
+{
+"name": "PMDX004655",
+"children": [{"name": "PXD004655", "size":}
+]
+},
+{
+"name": "PMDX004658",
+"children": [{"name": "PXD004658", "size":}
+]
+},
+{
+"name": "PMDX004659",
+"children": [{"name": "PXD004659", "size":}
+]
+},
+{
+"name": "PMDX004665",
+"children": [{"name": "PXD004665", "size":}
+]
+},
+{
+"name": "PMDX004666",
+"children": [{"name": "PXD004666", "size":}
+]
+},
+{
+"name": "PMDX004668",
+"children": [{"name": "PXD004668", "size":}
+]
+},
+{
+"name": "PMDX004669",
+"children": [{"name": "PXD004669", "size":}
+]
+},
+{
+"name": "PMDX004678",
+"children": [{"name": "PXD004678", "size":}
+]
+},
+{
+"name": "PMDX004682",
+"children": [{
+"name": "PXD005733", "size":
+},
+{
+"name": "PXD004684", "size":
+},
+{
+"name": "PXD004683", "size":
+},
+{"name": "PXD004682", "size":}
+]
+},
+{
+"name": "PMDX004686",
+"children": [{"name": "PXD004686", "size":}
+]
+},
+{
+"name": "PMDX004690",
+"children": [{"name": "PXD004690", "size":}
+]
+},
+{
+"name": "PMDX004696",
+"children": [{"name": "PXD004696", "size":}
+]
+},
+{
+"name": "PMDX004700",
+"children": [{"name": "PXD004700", "size":}
+]
+},
+{
+"name": "PMDX004707",
+"children": [{"name": "PXD004707", "size":}
+]
+},
+{
+"name": "PMDX004710",
+"children": [{"name": "PXD004710", "size":}
+]
+},
+{
+"name": "PMDX004723",
+"children": [{"name": "PXD004723", "size":}
+]
+},
+{
+"name": "PMDX004724",
+"children": [{"name": "PXD004724", "size":}
+]
+},
+{
+"name": "PMDX004725",
+"children": [{"name": "PXD004725", "size":}
+]
+},
+{
+"name": "PMDX004732",
+"children": [{"name": "PXD004732", "size":}
+]
+},
+{
+"name": "PMDX004734",
+"children": [{"name": "PXD004734", "size":}
+]
+},
+{
+"name": "PMDX004736",
+"children": [{"name": "PXD004736", "size":}
+]
+},
+{
+"name": "PMDX004739",
+"children": [{"name": "PXD004739", "size":}
+]
+},
+{
+"name": "PMDX004746",
+"children": [{
+"name": "PXD004746", "size":
+},
+{"name": "PXD005704", "size":}
+]
+},
+{
+"name": "PMDX004752",
+"children": [{"name": "PXD004752", "size":}
+]
+},
+{
+"name": "PMDX004762",
+"children": [{"name": "PXD004762", "size":}
+]
+},
+{
+"name": "PMDX004764",
+"children": [{
+"name": "PXD004796", "size":
+},
+{
+"name": "PXD004764", "size":
+},
+{
+"name": "PXD004788", "size":
+},
+{"name": "PXD004778", "size":}
+]
+},
+{
+"name": "PMDX004779",
+"children": [{"name": "PXD004779", "size":}
+]
+},
+{
+"name": "PMDX004781",
+"children": [{
+"name": "PXD004781", "size":
+},
+{"name": "PXD007191", "size":}
+]
+},
+{
+"name": "PMDX004785",
+"children": [{"name": "PXD004785", "size":}
+]
+},
+{
+"name": "PMDX004798",
+"children": [{"name": "PXD004798", "size":}
+]
+},
+{
+"name": "PMDX004801",
+"children": [{"name": "PXD004801", "size":}
+]
+},
+{
+"name": "PMDX004807",
+"children": [{"name": "PXD004807", "size":}
+]
+},
+{
+"name": "PMDX004815",
+"children": [{"name": "PXD004815", "size":}
+]
+},
+{
+"name": "PMDX004816",
+"children": [{"name": "PXD004816", "size":}
+]
+},
+{
+"name": "PMDX004817",
+"children": [{"name": "PXD004817", "size":}
+]
+},
+{
+"name": "PMDX004818",
+"children": [{"name": "PXD004818", "size":}
+]
+},
+{
+"name": "PMDX004824",
+"children": [{"name": "PXD004824", "size":}
+]
+},
+{
+"name": "PMDX004859",
+"children": [{"name": "PXD004859", "size":}
+]
+},
+{
+"name": "PMDX004863",
+"children": [{"name": "PXD004863", "size":}
+]
+},
+{
+"name": "PMDX004867",
+"children": [{"name": "PXD004867", "size":}
+]
+},
+{
+"name": "PMDX004868",
+"children": [{"name": "PXD004868", "size":}
+]
+},
+{
+"name": "PMDX004873",
+"children": [{"name": "PXD004873", "size":}
+]
+},
+{
+"name": "PMDX004874",
+"children": [{"name": "PXD004874", "size":}
+]
+},
+{
+"name": "PMDX004875",
+"children": [{"name": "PXD004875", "size":}
+]
+},
+{
+"name": "PMDX004879",
+"children": [{"name": "PXD004879", "size":}
+]
+},
+{
+"name": "PMDX004884",
+"children": [{
+"name": "PXD004884", "size":
+},
+{"name": "PXD006625", "size":}
+]
+},
+{
+"name": "PMDX004886",
+"children": [{"name": "PXD004886", "size":}
+]
+},
+{
+"name": "PMDX004894",
+"children": [{"name": "PXD004894", "size":}
+]
+},
+{
+"name": "PMDX004895",
+"children": [{"name": "PXD004895", "size":}
+]
+},
+{
+"name": "PMDX004900",
+"children": [{"name": "PXD004900", "size":}
+]
+},
+{
+"name": "PMDX004910",
+"children": [{"name": "PXD004910", "size":}
+]
+},
+{
+"name": "PMDX004912",
+"children": [{"name": "PXD004912", "size":}
+]
+},
+{
+"name": "PMDX004914",
+"children": [{"name": "PXD004914", "size":}
+]
+},
+{
+"name": "PMDX004915",
+"children": [{"name": "PXD004915", "size":}
+]
+},
+{
+"name": "PMDX004919",
+"children": [{"name": "PXD004919", "size":}
+]
+},
+{
+"name": "PMDX004920",
+"children": [{"name": "PXD004920", "size":}
+]
+},
+{
+"name": "PMDX004927",
+"children": [{
+"name": "PXD004927", "size":
+},
+{"name": "PXD005296", "size":}
+]
+},
+{
+"name": "PMDX004930",
+"children": [{"name": "PXD004930", "size":}
+]
+},
+{
+"name": "PMDX004931",
+"children": [{"name": "PXD004931", "size":}
+]
+},
+{
+"name": "PMDX004935",
+"children": [{"name": "PXD004935", "size":}
+]
+},
+{
+"name": "PMDX004936",
+"children": [{"name": "PXD004936", "size":}
+]
+},
+{
+"name": "PMDX004940",
+"children": [{"name": "PXD004940", "size":}
+]
+},
+{
+"name": "PMDX004941",
+"children": [{"name": "PXD004941", "size":}
+]
+},
+{
+"name": "PMDX004945",
+"children": [{"name": "PXD004945", "size":}
+]
+},
+{
+"name": "PMDX004948",
+"children": [{"name": "PXD005357", "size":}
+]
+},
+{
+"name": "PMDX004952",
+"children": [{"name": "PXD004952", "size":}
+]
+},
+{
+"name": "PMDX004962",
+"children": [{"name": "PXD004962", "size":}
+]
+},
+{
+"name": "PMDX004964",
+"children": [{"name": "PXD004964", "size":}
+]
+},
+{
+"name": "PMDX004967",
+"children": [{"name": "PXD004967", "size":}
+]
+},
+{
+"name": "PMDX004971",
+"children": [{"name": "PXD004971", "size":}
+]
+},
+{
+"name": "PMDX004977",
+"children": [{"name": "PXD004977", "size":}
+]
+},
+{
+"name": "PMDX004980",
+"children": [{"name": "PXD004980", "size":}
+]
+},
+{
+"name": "PMDX004987",
+"children": [{"name": "PXD004987", "size":}
+]
+},
+{
+"name": "PMDX005008",
+"children": [{"name": "PXD005008", "size":}
+]
+},
+{
+"name": "PMDX005013",
+"children": [{"name": "PXD005013", "size":}
+]
+},
+{
+"name": "PMDX005018",
+"children": [{"name": "PXD005018", "size":}
+]
+},
+{
+"name": "PMDX005021",
+"children": [{"name": "PXD005021", "size":}
+]
+},
+{
+"name": "PMDX005022",
+"children": [{"name": "PXD005022", "size":}
+]
+},
+{
+"name": "PMDX005039",
+"children": [{"name": "PXD005039", "size":}
+]
+},
+{
+"name": "PMDX005045",
+"children": [{"name": "PXD005045", "size":}
+]
+},
+{
+"name": "PMDX005055",
+"children": [{"name": "PXD005055", "size":}
+]
+},
+{
+"name": "PMDX005058",
+"children": [{"name": "PXD005058", "size":}
+]
+},
+{
+"name": "PMDX005073",
+"children": [{"name": "PXD005073", "size":}
+]
+},
+{
+"name": "PMDX005080",
+"children": [{"name": "PXD005080", "size":}
+]
+},
+{
+"name": "PMDX005083",
+"children": [{"name": "PXD005083", "size":}
+]
+},
+{
+"name": "PMDX005084",
+"children": [{"name": "PXD005084", "size":}
+]
+},
+{
+"name": "PMDX005086",
+"children": [{"name": "PXD005086", "size":}
+]
+},
+{
+"name": "PMDX005090",
+"children": [{"name": "PXD005090", "size":}
+]
+},
+{
+"name": "PMDX005107",
+"children": [{"name": "PXD005107", "size":}
+]
+},
+{
+"name": "PMDX005119",
+"children": [{
+"name": "PXD005119", "size":
+},
+{"name": "PXD006552", "size":}
+]
+},
+{
+"name": "PMDX005120",
+"children": [{"name": "PXD005120", "size":}
+]
+},
+{
+"name": "PMDX005123",
+"children": [{"name": "PXD005123", "size":}
+]
+},
+{
+"name": "PMDX005130",
+"children": [{"name": "PXD005130", "size":}
+]
+},
+{
+"name": "PMDX005132",
+"children": [{"name": "PXD005132", "size":}
+]
+},
+{
+"name": "PMDX005139",
+"children": [{"name": "PXD005140", "size":}
+]
+},
+{
+"name": "PMDX005141",
+"children": [{"name": "PXD005141", "size":}
+]
+},
+{
+"name": "PMDX005144",
+"children": [{"name": "PXD005144", "size":}
+]
+},
+{
+"name": "PMDX005145",
+"children": [{"name": "PXD005145", "size":}
+]
+},
+{
+"name": "PMDX005150",
+"children": [{"name": "PXD005150", "size":}
+]
+},
+{
+"name": "PMDX005152",
+"children": [{"name": "PXD005152", "size":}
+]
+},
+{
+"name": "PMDX005154",
+"children": [{"name": "PXD005154", "size":}
+]
+},
+{
+"name": "PMDX005156",
+"children": [{"name": "PXD005156", "size":}
+]
+},
+{
+"name": "PMDX005158",
+"children": [{"name": "PXD005158", "size":}
+]
+},
+{
+"name": "PMDX005165",
+"children": [{"name": "PXD005165", "size":}
+]
+},
+{
+"name": "PMDX005181",
+"children": [{"name": "PXD005181", "size":}
+]
+},
+{
+"name": "PMDX005183",
+"children": [{"name": "PXD005183", "size":}
+]
+},
+{
+"name": "PMDX005187",
+"children": [{"name": "PXD005187", "size":}
+]
+},
+{
+"name": "PMDX005188",
+"children": [{
+"name": "PXD005190", "size":
+},
+{
+"name": "PXD006093", "size":
+},
+{
+"name": "PXD005191", "size":
+},
+{
+"name": "PXD005189", "size":
+},
+{"name": "PXD005188", "size":}
+]
+},
+{
+"name": "PMDX005194",
+"children": [{"name": "PXD005194", "size":}
+]
+},
+{
+"name": "PMDX005200",
+"children": [{"name": "PXD005200", "size":}
+]
+},
+{
+"name": "PMDX005206",
+"children": [{
+"name": "PXD008029", "size":
+},
+{"name": "PXD005206", "size":}
+]
+},
+{
+"name": "PMDX005210",
+"children": [{"name": "PXD005210", "size":}
+]
+},
+{
+"name": "PMDX005214",
+"children": [{"name": "PXD005214", "size":}
+]
+},
+{
+"name": "PMDX005216",
+"children": [{
+"name": "PXD009350", "size":
+},
+{"name": "PXD005216", "size":}
+]
+},
+{
+"name": "PMDX005220",
+"children": [{"name": "PXD005220", "size":}
+]
+},
+{
+"name": "PMDX005230",
+"children": [{"name": "PXD009792", "size":}
+]
+},
+{
+"name": "PMDX005234",
+"children": [{"name": "PXD005234", "size":}
+]
+},
+{
+"name": "PMDX005235",
+"children": [{"name": "PXD005235", "size":}
+]
+},
+{
+"name": "PMDX005240",
+"children": [{"name": "PXD005240", "size":}
+]
+},
+{
+"name": "PMDX005245",
+"children": [{"name": "PXD005245", "size":}
+]
+},
+{
+"name": "PMDX005246",
+"children": [{"name": "PXD005246", "size":}
+]
+},
+{
+"name": "PMDX005252",
+"children": [{"name": "PXD005252", "size":}
+]
+},
+{
+"name": "PMDX005253",
+"children": [{"name": "PXD005253", "size":}
+]
+},
+{
+"name": "PMDX005267",
+"children": [{"name": "PXD005267", "size":}
+]
+},
+{
+"name": "PMDX005272",
+"children": [{
+"name": "PXD005272", "size":
+},
+{"name": "PXD005277", "size":}
+]
+},
+{
+"name": "PMDX005276",
+"children": [{"name": "PXD005276", "size":}
+]
+},
+{
+"name": "PMDX005286",
+"children": [{"name": "PXD005402", "size":}
+]
+},
+{
+"name": "PMDX005292",
+"children": [{
+"name": "PXD005295", "size":
+},
+{
+"name": "PXD005292", "size":
+},
+{
+"name": "PXD005339", "size":
+},
+{"name": "PXD005390", "size":}
+]
+},
+{
+"name": "PMDX005301",
+"children": [{"name": "PXD005301", "size":}
+]
+},
+{
+"name": "PMDX005303",
+"children": [{"name": "PXD005303", "size":}
+]
+},
+{
+"name": "PMDX005304",
+"children": [{"name": "PXD005304", "size":}
+]
+},
+{
+"name": "PMDX005314",
+"children": [{"name": "PXD005314", "size":}
+]
+},
+{
+"name": "PMDX005319",
+"children": [{"name": "PXD005319", "size":}
+]
+},
+{
+"name": "PMDX005320",
+"children": [{
+"name": "PXD006427", "size":
+},
+{"name": "PXD005320", "size":}
+]
+},
+{
+"name": "PMDX005323",
+"children": [{"name": "PXD005323", "size":}
+]
+},
+{
+"name": "PMDX005334",
+"children": [{"name": "PXD005334", "size":}
+]
+},
+{
+"name": "PMDX005336",
+"children": [{"name": "PXD005336", "size":}
+]
+},
+{
+"name": "PMDX005346",
+"children": [{
+"name": "PXD005349", "size":
+},
+{"name": "PXD005346", "size":}
+]
+},
+{
+"name": "PMDX005353",
+"children": [{
+"name": "PXD005353", "size":
+},
+{
+"name": "PXD005354", "size":
+},
+{"name": "PXD005355", "size":}
+]
+},
+{
+"name": "PMDX005361",
+"children": [{"name": "PXD005361", "size":}
+]
+},
+{
+"name": "PMDX005366",
+"children": [{"name": "PXD005366", "size":}
+]
+},
+{
+"name": "PMDX005389",
+"children": [{"name": "PXD005389", "size":}
+]
+},
+{
+"name": "PMDX005410",
+"children": [{"name": "PXD005410", "size":}
+]
+},
+{
+"name": "PMDX005414",
+"children": [{"name": "PXD005414", "size":}
+]
+},
+{
+"name": "PMDX005417",
+"children": [{"name": "PXD005417", "size":}
+]
+},
+{
+"name": "PMDX005420",
+"children": [{"name": "PXD005420", "size":}
+]
+},
+{
+"name": "PMDX005421",
+"children": [{"name": "PXD005421", "size":}
+]
+},
+{
+"name": "PMDX005425",
+"children": [{"name": "PXD005425", "size":}
+]
+},
+{
+"name": "PMDX005428",
+"children": [{"name": "PXD005428", "size":}
+]
+},
+{
+"name": "PMDX005436",
+"children": [{"name": "PXD005436", "size":}
+]
+},
+{
+"name": "PMDX005444",
+"children": [{"name": "PXD005444", "size":}
+]
+},
+{
+"name": "PMDX005445",
+"children": [{"name": "PXD005445", "size":}
+]
+},
+{
+"name": "PMDX005453",
+"children": [{"name": "PXD005453", "size":}
+]
+},
+{
+"name": "PMDX005461",
+"children": [{"name": "PXD005461", "size":}
+]
+},
+{
+"name": "PMDX005462",
+"children": [{"name": "PXD005462", "size":}
+]
+},
+{
+"name": "PMDX005464",
+"children": [{"name": "PXD005464", "size":}
+]
+},
+{
+"name": "PMDX005465",
+"children": [{"name": "PXD005465", "size":}
+]
+},
+{
+"name": "PMDX005466",
+"children": [{
+"name": "PXD005466", "size":
+},
+{"name": "PXD009303", "size":}
+]
+},
+{
+"name": "PMDX005467",
+"children": [{"name": "PXD005467", "size":}
+]
+},
+{
+"name": "PMDX005477",
+"children": [{
+"name": "PXD005477", "size":
+},
+{
+"name": "PXD007745", "size":
+},
+{"name": "PXD007744", "size":}
+]
+},
+{
+"name": "PMDX005479",
+"children": [{"name": "PXD005479", "size":}
+]
+},
+{
+"name": "PMDX005480",
+"children": [{"name": "PXD005480", "size":}
+]
+},
+{
+"name": "PMDX005482",
+"children": [{"name": "PXD005482", "size":}
+]
+},
+{
+"name": "PMDX005486",
+"children": [{"name": "PXD005486", "size":}
+]
+},
+{
+"name": "PMDX005487",
+"children": [{
+"name": "PXD005487", "size":
+},
+{"name": "PXD007280", "size":}
+]
+},
+{
+"name": "PMDX005493",
+"children": [{"name": "PXD005493", "size":}
+]
+},
+{
+"name": "PMDX005494",
+"children": [{"name": "PXD005494", "size":}
+]
+},
+{
+"name": "PMDX005497",
+"children": [{"name": "PXD005497", "size":}
+]
+},
+{
+"name": "PMDX005500",
+"children": [{
+"name": "PXD005500", "size":
+},
+{"name": "PXD005513", "size":}
+]
+},
+{
+"name": "PMDX005507",
+"children": [{"name": "PXD005507", "size":}
+]
+},
+{
+"name": "PMDX005508",
+"children": [{
+"name": "PXD005518", "size":
+},
+{
+"name": "PXD005547", "size":
+},
+{"name": "PXD005508", "size":}
+]
+},
+{
+"name": "PMDX005509",
+"children": [{"name": "PXD005509", "size":}
+]
+},
+{
+"name": "PMDX005517",
+"children": [{"name": "PXD005517", "size":}
+]
+},
+{
+"name": "PMDX005520",
+"children": [{"name": "PXD005520", "size":}
+]
+},
+{
+"name": "PMDX005536",
+"children": [{"name": "PXD005536", "size":}
+]
+},
+{
+"name": "PMDX005539",
+"children": [{"name": "PXD005539", "size":}
+]
+},
+{
+"name": "PMDX005544",
+"children": [{"name": "PXD005544", "size":}
+]
+},
+{
+"name": "PMDX005551",
+"children": [{"name": "PXD005551", "size":}
+]
+},
+{
+"name": "PMDX005557",
+"children": [{"name": "PXD005557", "size":}
+]
+},
+{
+"name": "PMDX005559",
+"children": [{"name": "PXD005559", "size":}
+]
+},
+{
+"name": "PMDX005566",
+"children": [{"name": "PXD005566", "size":}
+]
+},
+{
+"name": "PMDX005567",
+"children": [{"name": "PXD005567", "size":}
+]
+},
+{
+"name": "PMDX005571",
+"children": [{"name": "PXD005571", "size":}
+]
+},
+{
+"name": "PMDX005572",
+"children": [{"name": "PXD005572", "size":}
+]
+},
+{
+"name": "PMDX005573",
+"children": [{"name": "PXD005573", "size":}
+]
+},
+{
+"name": "PMDX005574",
+"children": [{"name": "PXD005574", "size":}
+]
+},
+{
+"name": "PMDX005575",
+"children": [{"name": "PXD005575", "size":}
+]
+},
+{
+"name": "PMDX005583",
+"children": [{"name": "PXD005583", "size":}
+]
+},
+{
+"name": "PMDX005590",
+"children": [{"name": "PXD005590", "size":}
+]
+},
+{
+"name": "PMDX005605",
+"children": [{"name": "PXD005605", "size":}
+]
+},
+{
+"name": "PMDX005610",
+"children": [{"name": "PXD005610", "size":}
+]
+},
+{
+"name": "PMDX005613",
+"children": [{"name": "PXD005613", "size":}
+]
+},
+{
+"name": "PMDX005620",
+"children": [{"name": "PXD005620", "size":}
+]
+},
+{
+"name": "PMDX005627",
+"children": [{"name": "PXD005627", "size":}
+]
+},
+{
+"name": "PMDX005629",
+"children": [{"name": "PXD005629", "size":}
+]
+},
+{
+"name": "PMDX005633",
+"children": [{"name": "PXD005633", "size":}
+]
+},
+{
+"name": "PMDX005643",
+"children": [{"name": "PXD005643", "size":}
+]
+},
+{
+"name": "PMDX005646",
+"children": [{"name": "PXD005646", "size":}
+]
+},
+{
+"name": "PMDX005647",
+"children": [{"name": "PXD005647", "size":}
+]
+},
+{
+"name": "PMDX005650",
+"children": [{"name": "PXD005650", "size":}
+]
+},
+{
+"name": "PMDX005654",
+"children": [{"name": "PXD005654", "size":}
+]
+},
+{
+"name": "PMDX005655",
+"children": [{"name": "PXD005655", "size":}
+]
+},
+{
+"name": "PMDX005656",
+"children": [{"name": "PXD005656", "size":}
+]
+},
+{
+"name": "PMDX005661",
+"children": [{"name": "PXD005661", "size":}
+]
+},
+{
+"name": "PMDX005664",
+"children": [{"name": "PXD005664", "size":}
+]
+},
+{
+"name": "PMDX005671",
+"children": [{"name": "PXD005671", "size":}
+]
+},
+{
+"name": "PMDX005675",
+"children": [{"name": "PXD005675", "size":}
+]
+},
+{
+"name": "PMDX005676",
+"children": [{"name": "PXD005676", "size":}
+]
+},
+{
+"name": "PMDX005679",
+"children": [{"name": "PXD005679", "size":}
+]
+},
+{
+"name": "PMDX005688",
+"children": [{"name": "PXD005688", "size":}
+]
+},
+{
+"name": "PMDX005693",
+"children": [{
+"name": "PXD005693", "size":
+},
+{"name": "PXD005709", "size":}
+]
+},
+{
+"name": "PMDX005698",
+"children": [{"name": "PXD005698", "size":}
+]
+},
+{
+"name": "PMDX005706",
+"children": [{"name": "PXD005706", "size":}
+]
+},
+{
+"name": "PMDX005717",
+"children": [{"name": "PXD005717", "size":}
+]
+},
+{
+"name": "PMDX005719",
+"children": [{"name": "PXD005719", "size":}
+]
+},
+{
+"name": "PMDX005734",
+"children": [{"name": "PXD005734", "size":}
+]
+},
+{
+"name": "PMDX005735",
+"children": [{"name": "PXD005735", "size":}
+]
+},
+{
+"name": "PMDX005736",
+"children": [{"name": "PXD005736", "size":}
+]
+},
+{
+"name": "PMDX005739",
+"children": [{"name": "PXD005739", "size":}
+]
+},
+{
+"name": "PMDX005746",
+"children": [{"name": "PXD005746", "size":}
+]
+},
+{
+"name": "PMDX005748",
+"children": [{"name": "PXD005748", "size":}
+]
+},
+{
+"name": "PMDX005753",
+"children": [{"name": "PXD005753", "size":}
+]
+},
+{
+"name": "PMDX005755",
+"children": [{"name": "PXD005755", "size":}
+]
+},
+{
+"name": "PMDX005761",
+"children": [{"name": "PXD005761", "size":}
+]
+},
+{
+"name": "PMDX005766",
+"children": [{"name": "PXD005766", "size":}
+]
+},
+{
+"name": "PMDX005777",
+"children": [{"name": "PXD005777", "size":}
+]
+},
+{
+"name": "PMDX005786",
+"children": [{"name": "PXD005786", "size":}
+]
+},
+{
+"name": "PMDX005798",
+"children": [{"name": "PXD005798", "size":}
+]
+},
+{
+"name": "PMDX005804",
+"children": [{"name": "PXD005804", "size":}
+]
+},
+{
+"name": "PMDX005814",
+"children": [{"name": "PXD005814", "size":}
+]
+},
+{
+"name": "PMDX005822",
+"children": [{
+"name": "PXD005835", "size":
+},
+{"name": "PXD005822", "size":}
+]
+},
+{
+"name": "PMDX005823",
+"children": [{"name": "PXD005823", "size":}
+]
+},
+{
+"name": "PMDX005825",
+"children": [{"name": "PXD005825", "size":}
+]
+},
+{
+"name": "PMDX005831",
+"children": [{"name": "PXD005831", "size":}
+]
+},
+{
+"name": "PMDX005833",
+"children": [{"name": "PXD005833", "size":}
+]
+},
+{
+"name": "PMDX005838",
+"children": [{"name": "PXD005838", "size":}
+]
+},
+{
+"name": "PMDX005840",
+"children": [{
+"name": "PXD006267", "size":
+},
+{"name": "PXD005840", "size":}
+]
+},
+{
+"name": "PMDX005846",
+"children": [{"name": "PXD005846", "size":}
+]
+},
+{
+"name": "PMDX005847",
+"children": [{"name": "PXD005847", "size":}
+]
+},
+{
+"name": "PMDX005849",
+"children": [{
+"name": "PXD005849", "size":
+},
+{"name": "PXD005857", "size":}
+]
+},
+{
+"name": "PMDX005853",
+"children": [{"name": "PXD005853", "size":}
+]
+},
+{
+"name": "PMDX005858",
+"children": [{"name": "PXD005858", "size":}
+]
+},
+{
+"name": "PMDX005864",
+"children": [{"name": "PXD005864", "size":}
+]
+},
+{
+"name": "PMDX005865",
+"children": [{"name": "PXD005865", "size":}
+]
+},
+{
+"name": "PMDX005869",
+"children": [{"name": "PXD005869", "size":}
+]
+},
+{
+"name": "PMDX005871",
+"children": [{"name": "PXD005871", "size":}
+]
+},
+{
+"name": "PMDX005873",
+"children": [{"name": "PXD005873", "size":}
+]
+},
+{
+"name": "PMDX005878",
+"children": [{"name": "PXD005878", "size":}
+]
+},
+{
+"name": "PMDX005880",
+"children": [{"name": "PXD005880", "size":}
+]
+},
+{
+"name": "PMDX005883",
+"children": [{"name": "PXD005883", "size":}
+]
+},
+{
+"name": "PMDX005890",
+"children": [{"name": "PXD005890", "size":}
+]
+},
+{
+"name": "PMDX005892",
+"children": [{"name": "PXD005892", "size":}
+]
+},
+{
+"name": "PMDX005903",
+"children": [{"name": "PXD005903", "size":}
+]
+},
+{
+"name": "PMDX005904",
+"children": [{"name": "PXD005904", "size":}
+]
+},
+{
+"name": "PMDX005913",
+"children": [{"name": "PXD005913", "size":}
+]
+},
+{
+"name": "PMDX005921",
+"children": [{"name": "PXD005921", "size":}
+]
+},
+{
+"name": "PMDX005931",
+"children": [{"name": "PXD005931", "size":}
+]
+},
+{
+"name": "PMDX005940",
+"children": [{
+"name": "PXD005946", "size":
+},
+{
+"name": "PXD005942", "size":
+},
+{"name": "PXD005940", "size":}
+]
+},
+{
+"name": "PMDX005941",
+"children": [{"name": "PXD005941", "size":}
+]
+},
+{
+"name": "PMDX005949",
+"children": [{"name": "PXD005949", "size":}
+]
+},
+{
+"name": "PMDX005951",
+"children": [{
+"name": "PXD005957", "size":
+},
+{"name": "PXD005951", "size":}
+]
+},
+{
+"name": "PMDX005954",
+"children": [{
+"name": "PXD005954", "size":
+},
+{
+"name": "PXD006594", "size":
+},
+{"name": "PXD006595", "size":}
+]
+},
+{
+"name": "PMDX005955",
+"children": [{"name": "PXD005955", "size":}
+]
+},
+{
+"name": "PMDX005960",
+"children": [{"name": "PXD005960", "size":}
+]
+},
+{
+"name": "PMDX005972",
+"children": [{"name": "PXD005972", "size":}
+]
+},
+{
+"name": "PMDX005976",
+"children": [{"name": "PXD005976", "size":}
+]
+},
+{
+"name": "PMDX005981",
+"children": [{"name": "PXD005981", "size":}
+]
+},
+{
+"name": "PMDX005984",
+"children": [{
+"name": "PXD006739", "size":
+},
+{"name": "PXD005984", "size":}
+]
+},
+{
+"name": "PMDX005985",
+"children": [{"name": "PXD005985", "size":}
+]
+},
+{
+"name": "PMDX005992",
+"children": [{"name": "PXD005992", "size":}
+]
+},
+{
+"name": "PMDX006005",
+"children": [{
+"name": "PXD006005", "size":
+},
+{"name": "PXD006648", "size":}
+]
+},
+{
+"name": "PMDX006006",
+"children": [{"name": "PXD006006", "size":}
+]
+},
+{
+"name": "PMDX006023",
+"children": [{
+"name": "PXD006023", "size":
+},
+{"name": "PXD006024", "size":}
+]
+},
+{
+"name": "PMDX006026",
+"children": [{"name": "PXD006026", "size":}
+]
+},
+{
+"name": "PMDX006027",
+"children": [{"name": "PXD006027", "size":}
+]
+},
+{
+"name": "PMDX006035",
+"children": [{"name": "PXD006035", "size":}
+]
+},
+{
+"name": "PMDX006036",
+"children": [{"name": "PXD006036", "size":}
+]
+},
+{
+"name": "PMDX006053",
+"children": [{"name": "PXD006053", "size":}
+]
+},
+{
+"name": "PMDX006055",
+"children": [{"name": "PXD006055", "size":}
+]
+},
+{
+"name": "PMDX006069",
+"children": [{"name": "PXD006069", "size":}
+]
+},
+{
+"name": "PMDX006074",
+"children": [{"name": "PXD006074", "size":}
+]
+},
+{
+"name": "PMDX006078",
+"children": [{"name": "PXD006078", "size":}
+]
+},
+{
+"name": "PMDX006081",
+"children": [{"name": "PXD006081", "size":}
+]
+},
+{
+"name": "PMDX006083",
+"children": [{"name": "PXD006083", "size":}
+]
+},
+{
+"name": "PMDX006091",
+"children": [{"name": "PXD006091", "size":}
+]
+},
+{
+"name": "PMDX006095",
+"children": [{
+"name": "PXD006095", "size":
+},
+{"name": "PXD006096", "size":}
+]
+},
+{
+"name": "PMDX006106",
+"children": [{"name": "PXD006106", "size":}
+]
+},
+{
+"name": "PMDX006109",
+"children": [{"name": "PXD006109", "size":}
+]
+},
+{
+"name": "PMDX006112",
+"children": [{"name": "PXD006112", "size":}
+]
+},
+{
+"name": "PMDX006114",
+"children": [{"name": "PXD006114", "size":}
+]
+},
+{
+"name": "PMDX006118",
+"children": [{"name": "PXD006366", "size":}
+]
+},
+{
+"name": "PMDX006119",
+"children": [{"name": "PXD006119", "size":}
+]
+},
+{
+"name": "PMDX006122",
+"children": [{"name": "PXD006122", "size":}
+]
+},
+{
+"name": "PMDX006124",
+"children": [{"name": "PXD006125", "size":}
+]
+},
+{
+"name": "PMDX006131",
+"children": [{"name": "PXD006131", "size":}
+]
+},
+{
+"name": "PMDX006132",
+"children": [{"name": "PXD006132", "size":}
+]
+},
+{
+"name": "PMDX006135",
+"children": [{"name": "PXD006135", "size":}
+]
+},
+{
+"name": "PMDX006137",
+"children": [{"name": "PXD006137", "size":}
+]
+},
+{
+"name": "PMDX006138",
+"children": [{
+"name": "PXD008047", "size":
+},
+{"name": "PXD006138", "size":}
+]
+},
+{
+"name": "PMDX006139",
+"children": [{"name": "PXD006139", "size":}
+]
+},
+{
+"name": "PMDX006155",
+"children": [{"name": "PXD006155", "size":}
+]
+},
+{
+"name": "PMDX006157",
+"children": [{"name": "PXD006157", "size":}
+]
+},
+{
+"name": "PMDX006176",
+"children": [{"name": "PXD006176", "size":}
+]
+},
+{
+"name": "PMDX006178",
+"children": [{"name": "PXD006178", "size":}
+]
+},
+{
+"name": "PMDX006179",
+"children": [{"name": "PXD006179", "size":}
+]
+},
+{
+"name": "PMDX006182",
+"children": [{"name": "PXD006182", "size":}
+]
+},
+{
+"name": "PMDX006188",
+"children": [{"name": "PXD006188", "size":}
+]
+},
+{
+"name": "PMDX006190",
+"children": [{"name": "PXD006190", "size":}
+]
+},
+{
+"name": "PMDX006193",
+"children": [{"name": "PXD006193", "size":}
+]
+},
+{
+"name": "PMDX006196",
+"children": [{"name": "PXD006196", "size":}
+]
+},
+{
+"name": "PMDX006198",
+"children": [{
+"name": "PXD006198", "size":
+},
+{
+"name": "PXD006200", "size":
+},
+{"name": "PXD006199", "size":}
+]
+},
+{
+"name": "PMDX006212",
+"children": [{"name": "PXD006212", "size":}
+]
+},
+{
+"name": "PMDX006215",
+"children": [{"name": "PXD006215", "size":}
+]
+},
+{
+"name": "PMDX006217",
+"children": [{"name": "PXD006217", "size":}
+]
+},
+{
+"name": "PMDX006223",
+"children": [{
+"name": "PXD007184", "size":
+},
+{"name": "PXD006223", "size":}
+]
+},
+{
+"name": "PMDX006233",
+"children": [{"name": "PXD006233", "size":}
+]
+},
+{
+"name": "PMDX006236",
+"children": [{"name": "PXD006236", "size":}
+]
+},
+{
+"name": "PMDX006252",
+"children": [{"name": "PXD006252", "size":}
+]
+},
+{
+"name": "PMDX006254",
+"children": [{"name": "PXD006254", "size":}
+]
+},
+{
+"name": "PMDX006256",
+"children": [{"name": "PXD006256", "size":}
+]
+},
+{
+"name": "PMDX006263",
+"children": [{
+"name": "PXD006265", "size":
+},
+{"name": "PXD006263", "size":}
+]
+},
+{
+"name": "PMDX006268",
+"children": [{"name": "PXD006268", "size":}
+]
+},
+{
+"name": "PMDX006271",
+"children": [{"name": "PXD006271", "size":}
+]
+},
+{
+"name": "PMDX006279",
+"children": [{"name": "PXD006279", "size":}
+]
+},
+{
+"name": "PMDX006280",
+"children": [{
+"name": "PXD006720", "size":
+},
+{"name": "PXD006280", "size":}
+]
+},
+{
+"name": "PMDX006291",
+"children": [{"name": "PXD006291", "size":}
+]
+},
+{
+"name": "PMDX006293",
+"children": [{"name": "PXD006293", "size":}
+]
+},
+{
+"name": "PMDX006296",
+"children": [{"name": "PXD006296", "size":}
+]
+},
+{
+"name": "PMDX006297",
+"children": [{"name": "PXD006297", "size":}
+]
+},
+{
+"name": "PMDX006314",
+"children": [{
+"name": "PXD006314", "size":
+},
+{"name": "PXD006332", "size":}
+]
+},
+{
+"name": "PMDX006317",
+"children": [{"name": "PXD006317", "size":}
+]
+},
+{
+"name": "PMDX006322",
+"children": [{"name": "PXD006322", "size":}
+]
+},
+{
+"name": "PMDX006327",
+"children": [{"name": "PXD006327", "size":}
+]
+},
+{
+"name": "PMDX006329",
+"children": [{"name": "PXD006329", "size":}
+]
+},
+{
+"name": "PMDX006333",
+"children": [{"name": "PXD006333", "size":}
+]
+},
+{
+"name": "PMDX006335",
+"children": [{"name": "PXD006335", "size":}
+]
+},
+{
+"name": "PMDX006339",
+"children": [{"name": "PXD006339", "size":}
+]
+},
+{
+"name": "PMDX006354",
+"children": [{"name": "PXD006354", "size":}
+]
+},
+{
+"name": "PMDX006359",
+"children": [{"name": "PXD006359", "size":}
+]
+},
+{
+"name": "PMDX006362",
+"children": [{"name": "PXD006362", "size":}
+]
+},
+{
+"name": "PMDX006367",
+"children": [{"name": "PXD006367", "size":}
+]
+},
+{
+"name": "PMDX006383",
+"children": [{"name": "PXD006383", "size":}
+]
+},
+{
+"name": "PMDX006386",
+"children": [{"name": "PXD006386", "size":}
+]
+},
+{
+"name": "PMDX006391",
+"children": [{"name": "PXD006391", "size":}
+]
+},
+{
+"name": "PMDX006395",
+"children": [{"name": "PXD006395", "size":}
+]
+},
+{
+"name": "PMDX006401",
+"children": [{"name": "PXD006401", "size":}
+]
+},
+{
+"name": "PMDX006406",
+"children": [{"name": "PXD006406", "size":}
+]
+},
+{
+"name": "PMDX006407",
+"children": [{"name": "PXD006407", "size":}
+]
+},
+{
+"name": "PMDX006416",
+"children": [{"name": "PXD006416", "size":}
+]
+},
+{
+"name": "PMDX006418",
+"children": [{"name": "PXD006418", "size":}
+]
+},
+{
+"name": "PMDX006419",
+"children": [{"name": "PXD006419", "size":}
+]
+},
+{
+"name": "PMDX006421",
+"children": [{"name": "PXD006421", "size":}
+]
+},
+{
+"name": "PMDX006424",
+"children": [{"name": "PXD006424", "size":}
+]
+},
+{
+"name": "PMDX006430",
+"children": [{"name": "PXD006430", "size":}
+]
+},
+{
+"name": "PMDX006441",
+"children": [{"name": "PXD006441", "size":}
+]
+},
+{
+"name": "PMDX006442",
+"children": [{"name": "PXD006442", "size":}
+]
+},
+{
+"name": "PMDX006446",
+"children": [{"name": "PXD006446", "size":}
+]
+},
+{
+"name": "PMDX006447",
+"children": [{"name": "PXD006447", "size":}
+]
+},
+{
+"name": "PMDX006455",
+"children": [{"name": "PXD006455", "size":}
+]
+},
+{
+"name": "PMDX006459",
+"children": [{"name": "PXD006459", "size":}
+]
+},
+{
+"name": "PMDX006461",
+"children": [{"name": "PXD006461", "size":}
+]
+},
+{
+"name": "PMDX006463",
+"children": [{"name": "PXD006463", "size":}
+]
+},
+{
+"name": "PMDX006465",
+"children": [{"name": "PXD006465", "size":}
+]
+},
+{
+"name": "PMDX006466",
+"children": [{"name": "PXD006466", "size":}
+]
+},
+{
+"name": "PMDX006471",
+"children": [{"name": "PXD006471", "size":}
+]
+},
+{
+"name": "PMDX006475",
+"children": [{"name": "PXD006475", "size":}
+]
+},
+{
+"name": "PMDX006476",
+"children": [{"name": "PXD006476", "size":}
+]
+},
+{
+"name": "PMDX006482",
+"children": [{"name": "PXD006482", "size":}
+]
+},
+{
+"name": "PMDX006486",
+"children": [{"name": "PXD006486", "size":}
+]
+},
+{
+"name": "PMDX006497",
+"children": [{"name": "PXD006497", "size":}
+]
+},
+{
+"name": "PMDX006498",
+"children": [{"name": "PXD006498", "size":}
+]
+},
+{
+"name": "PMDX006501",
+"children": [{"name": "PXD006501", "size":}
+]
+},
+{
+"name": "PMDX006509",
+"children": [{"name": "PXD006509", "size":}
+]
+},
+{
+"name": "PMDX006514",
+"children": [{"name": "PXD006514", "size":}
+]
+},
+{
+"name": "PMDX006517",
+"children": [{
+"name": "PXD006522", "size":
+},
+{
+"name": "PXD006897", "size":
+},
+{"name": "PXD006517", "size":}
+]
+},
+{
+"name": "PMDX006518",
+"children": [{"name": "PXD006518", "size":}
+]
+},
+{
+"name": "PMDX006528",
+"children": [{"name": "PXD006528", "size":}
+]
+},
+{
+"name": "PMDX006534",
+"children": [{"name": "PXD006534", "size":}
+]
+},
+{
+"name": "PMDX006545",
+"children": [{"name": "PXD006545", "size":}
+]
+},
+{
+"name": "PMDX006550",
+"children": [{"name": "PXD006550", "size":}
+]
+},
+{
+"name": "PMDX006554",
+"children": [{"name": "PXD006554", "size":}
+]
+},
+{
+"name": "PMDX006557",
+"children": [{"name": "PXD006557", "size":}
+]
+},
+{
+"name": "PMDX006559",
+"children": [{"name": "PXD006559", "size":}
+]
+},
+{
+"name": "PMDX006561",
+"children": [{"name": "PXD006561", "size":}
+]
+},
+{
+"name": "PMDX006562",
+"children": [{
+"name": "PXD006562", "size":
+},
+{"name": "PXD006563", "size":}
+]
+},
+{
+"name": "PMDX006570",
+"children": [{
+"name": "PXD006572", "size":
+},
+{
+"name": "PXD006591", "size":
+},
+{
+"name": "PXD006590", "size":
+},
+{
+"name": "PXD006589", "size":
+},
+{
+"name": "PXD006578", "size":
+},
+{
+"name": "PXD006576", "size":
+},
+{
+"name": "PXD006570", "size":
+},
+{"name": "PXD006571", "size":}
+]
+},
+{
+"name": "PMDX006574",
+"children": [{"name": "PXD006574", "size":}
+]
+},
+{
+"name": "PMDX006579",
+"children": [{"name": "PXD006579", "size":}
+]
+},
+{
+"name": "PMDX006581",
+"children": [{"name": "PXD006581", "size":}
+]
+},
+{
+"name": "PMDX006582",
+"children": [{"name": "PXD006582", "size":}
+]
+},
+{
+"name": "PMDX006583",
+"children": [{
+"name": "PXD006584", "size":
+},
+{"name": "PXD006583", "size":}
+]
+},
+{
+"name": "PMDX006602",
+"children": [{"name": "PXD006602", "size":}
+]
+},
+{
+"name": "PMDX006607",
+"children": [{"name": "PXD006607", "size":}
+]
+},
+{
+"name": "PMDX006614",
+"children": [{"name": "PXD006614", "size":}
+]
+},
+{
+"name": "PMDX006615",
+"children": [{
+"name": "PXD007601", "size":
+},
+{
+"name": "PXD006615", "size":
+},
+{"name": "PXD006618", "size":}
+]
+},
+{
+"name": "PMDX006638",
+"children": [{"name": "PXD006638", "size":}
+]
+},
+{
+"name": "PMDX006653",
+"children": [{"name": "PXD006653", "size":}
+]
+},
+{
+"name": "PMDX006654",
+"children": [{"name": "PXD006654", "size":}
+]
+},
+{
+"name": "PMDX006656",
+"children": [{"name": "PXD006656", "size":}
+]
+},
+{
+"name": "PMDX006658",
+"children": [{"name": "PXD006658", "size":}
+]
+},
+{
+"name": "PMDX006661",
+"children": [{"name": "PXD006661", "size":}
+]
+},
+{
+"name": "PMDX006662",
+"children": [{"name": "PXD006662", "size":}
+]
+},
+{
+"name": "PMDX006663",
+"children": [{"name": "PXD006663", "size":}
+]
+},
+{
+"name": "PMDX006672",
+"children": [{"name": "PXD006672", "size":}
+]
+},
+{
+"name": "PMDX006673",
+"children": [{"name": "PXD006673", "size":}
+]
+},
+{
+"name": "PMDX006674",
+"children": [{"name": "PXD006674", "size":}
+]
+},
+{
+"name": "PMDX006687",
+"children": [{"name": "PXD006687", "size":}
+]
+},
+{
+"name": "PMDX006690",
+"children": [{"name": "PXD006690", "size":}
+]
+},
+{
+"name": "PMDX006693",
+"children": [{"name": "PXD006693", "size":}
+]
+},
+{
+"name": "PMDX006697",
+"children": [{"name": "PXD006697", "size":}
+]
+},
+{
+"name": "PMDX006698",
+"children": [{"name": "PXD006698", "size":}
+]
+},
+{
+"name": "PMDX006700",
+"children": [{"name": "PXD006700", "size":}
+]
+},
+{
+"name": "PMDX006703",
+"children": [{"name": "PXD006703", "size":}
+]
+},
+{
+"name": "PMDX006704",
+"children": [{"name": "PXD006704", "size":}
+]
+},
+{
+"name": "PMDX006705",
+"children": [{"name": "PXD006705", "size":}
+]
+},
+{
+"name": "PMDX006716",
+"children": [{"name": "PXD006716", "size":}
+]
+},
+{
+"name": "PMDX006722",
+"children": [{"name": "PXD006722", "size":}
+]
+},
+{
+"name": "PMDX006738",
+"children": [{"name": "PXD006738", "size":}
+]
+},
+{
+"name": "PMDX006743",
+"children": [{"name": "PXD006743", "size":}
+]
+},
+{
+"name": "PMDX006750",
+"children": [{"name": "PXD006750", "size":}
+]
+},
+{
+"name": "PMDX006757",
+"children": [{"name": "PXD006757", "size":}
+]
+},
+{
+"name": "PMDX006760",
+"children": [{"name": "PXD006760", "size":}
+]
+},
+{
+"name": "PMDX006773",
+"children": [{"name": "PXD006773", "size":}
+]
+},
+{
+"name": "PMDX006775",
+"children": [{"name": "PXD006775", "size":}
+]
+},
+{
+"name": "PMDX006776",
+"children": [{"name": "PXD006776", "size":}
+]
+},
+{
+"name": "PMDX006788",
+"children": [{"name": "PXD006788", "size":}
+]
+},
+{
+"name": "PMDX006790",
+"children": [{"name": "PXD006790", "size":}
+]
+},
+{
+"name": "PMDX006798",
+"children": [{"name": "PXD006798", "size":}
+]
+},
+{
+"name": "PMDX006805",
+"children": [{"name": "PXD006805", "size":}
+]
+},
+{
+"name": "PMDX006809",
+"children": [{"name": "PXD006809", "size":}
+]
+},
+{
+"name": "PMDX006810",
+"children": [{"name": "PXD006810", "size":}
+]
+},
+{
+"name": "PMDX006813",
+"children": [{"name": "PXD006813", "size":}
+]
+},
+{
+"name": "PMDX006814",
+"children": [{"name": "PXD006814", "size":}
+]
+},
+{
+"name": "PMDX006828",
+"children": [{"name": "PXD006828", "size":}
+]
+},
+{
+"name": "PMDX006831",
+"children": [{"name": "PXD006831", "size":}
+]
+},
+{
+"name": "PMDX006833",
+"children": [{"name": "PXD006833", "size":}
+]
+},
+{
+"name": "PMDX006839",
+"children": [{"name": "PXD006839", "size":}
+]
+},
+{
+"name": "PMDX006847",
+"children": [{"name": "PXD006847", "size":}
+]
+},
+{
+"name": "PMDX006856",
+"children": [{"name": "PXD006856", "size":}
+]
+},
+{
+"name": "PMDX006857",
+"children": [{"name": "PXD006857", "size":}
+]
+},
+{
+"name": "PMDX006863",
+"children": [{"name": "PXD006863", "size":}
+]
+},
+{
+"name": "PMDX006868",
+"children": [{"name": "PXD006868", "size":}
+]
+},
+{
+"name": "PMDX006871",
+"children": [{"name": "PXD006871", "size":}
+]
+},
+{
+"name": "PMDX006873",
+"children": [{"name": "PXD006873", "size":}
+]
+},
+{
+"name": "PMDX006886",
+"children": [{
+"name": "PXD006887", "size":
+},
+{
+"name": "PXD006886", "size":
+},
+{"name": "PXD007075", "size":}
+]
+},
+{
+"name": "PMDX006892",
+"children": [{"name": "PXD006892", "size":}
+]
+},
+{
+"name": "PMDX006900",
+"children": [{
+"name": "PXD006900", "size":
+},
+{
+"name": "PXD006996", "size":
+},
+{"name": "PXD009339", "size":}
+]
+},
+{
+"name": "PMDX006901",
+"children": [{"name": "PXD006901", "size":}
+]
+},
+{
+"name": "PMDX006911",
+"children": [{"name": "PXD006911", "size":}
+]
+},
+{
+"name": "PMDX006914",
+"children": [{"name": "PXD006914", "size":}
+]
+},
+{
+"name": "PMDX006927",
+"children": [{
+"name": "PXD006929", "size":
+},
+{"name": "PXD006927", "size":}
+]
+},
+{
+"name": "PMDX006928",
+"children": [{
+"name": "PXD009079", "size":
+},
+{
+"name": "PXD006938", "size":
+},
+{"name": "PXD006928", "size":}
+]
+},
+{
+"name": "PMDX006932",
+"children": [{"name": "PXD006932", "size":}
+]
+},
+{
+"name": "PMDX006939",
+"children": [{"name": "PXD006939", "size":}
+]
+},
+{
+"name": "PMDX006992",
+"children": [{"name": "PXD006992", "size":}
+]
+},
+{
+"name": "PMDX007037",
+"children": [{"name": "PXD007037", "size":}
+]
+},
+{
+"name": "PMDX007038",
+"children": [{"name": "PXD007038", "size":}
+]
+},
+{
+"name": "PMDX007039",
+"children": [{
+"name": "PXD008212", "size":
+},
+{"name": "PXD007039", "size":}
+]
+},
+{
+"name": "PMDX007052",
+"children": [{"name": "PXD007052", "size":}
+]
+},
+{
+"name": "PMDX007056",
+"children": [{"name": "PXD007056", "size":}
+]
+},
+{
+"name": "PMDX007058",
+"children": [{"name": "PXD007058", "size":}
+]
+},
+{
+"name": "PMDX007066",
+"children": [{"name": "PXD007066", "size":}
+]
+},
+{
+"name": "PMDX007078",
+"children": [{"name": "PXD007078", "size":}
+]
+},
+{
+"name": "PMDX007080",
+"children": [{
+"name": "PXD007080", "size":
+},
+{"name": "PXD007081", "size":}
+]
+},
+{
+"name": "PMDX007101",
+"children": [{"name": "PXD007101", "size":}
+]
+},
+{
+"name": "PMDX007103",
+"children": [{"name": "PXD007103", "size":}
+]
+},
+{
+"name": "PMDX007122",
+"children": [{
+"name": "PXD009917", "size":
+},
+{
+"name": "PXD009916", "size":
+},
+{
+"name": "PXD007123", "size":
+},
+{"name": "PXD007122", "size":}
+]
+},
+{
+"name": "PMDX007130",
+"children": [{"name": "PXD007130", "size":}
+]
+},
+{
+"name": "PMDX007132",
+"children": [{"name": "PXD007132", "size":}
+]
+},
+{
+"name": "PMDX007134",
+"children": [{"name": "PXD007134", "size":}
+]
+},
+{
+"name": "PMDX007137",
+"children": [{"name": "PXD007137", "size":}
+]
+},
+{
+"name": "PMDX007139",
+"children": [{
+"name": "PXD007139", "size":
+},
+{"name": "PXD007691", "size":}
+]
+},
+{
+"name": "PMDX007145",
+"children": [{"name": "PXD007145", "size":}
+]
+},
+{
+"name": "PMDX007149",
+"children": [{"name": "PXD007149", "size":}
+]
+},
+{
+"name": "PMDX007153",
+"children": [{"name": "PXD007153", "size":}
+]
+},
+{
+"name": "PMDX007165",
+"children": [{"name": "PXD007165", "size":}
+]
+},
+{
+"name": "PMDX007170",
+"children": [{"name": "PXD007170", "size":}
+]
+},
+{
+"name": "PMDX007185",
+"children": [{"name": "PXD007185", "size":}
+]
+},
+{
+"name": "PMDX007203",
+"children": [{"name": "PXD007203", "size":}
+]
+},
+{
+"name": "PMDX007206",
+"children": [{"name": "PXD007206", "size":}
+]
+},
+{
+"name": "PMDX007214",
+"children": [{"name": "PXD007214", "size":}
+]
+},
+{
+"name": "PMDX007217",
+"children": [{"name": "PXD007217", "size":}
+]
+},
+{
+"name": "PMDX007223",
+"children": [{"name": "PXD007223", "size":}
+]
+},
+{
+"name": "PMDX007224",
+"children": [{"name": "PXD007224", "size":}
+]
+},
+{
+"name": "PMDX007227",
+"children": [{"name": "PXD007227", "size":}
+]
+},
+{
+"name": "PMDX007230",
+"children": [{"name": "PXD007230", "size":}
+]
+},
+{
+"name": "PMDX007232",
+"children": [{"name": "PXD007232", "size":}
+]
+},
+{
+"name": "PMDX007234",
+"children": [{"name": "PXD007234", "size":}
+]
+},
+{
+"name": "PMDX007235",
+"children": [{"name": "PXD007235", "size":}
+]
+},
+{
+"name": "PMDX007244",
+"children": [{"name": "PXD007244", "size":}
+]
+},
+{
+"name": "PMDX007250",
+"children": [{"name": "PXD007250", "size":}
+]
+},
+{
+"name": "PMDX007258",
+"children": [{"name": "PXD007258", "size":}
+]
+},
+{
+"name": "PMDX007262",
+"children": [{"name": "PXD007262", "size":}
+]
+},
+{
+"name": "PMDX007263",
+"children": [{
+"name": "PXD009092", "size":
+},
+{
+"name": "PXD009508", "size":
+},
+{
+"name": "PXD009360", "size":
+},
+{
+"name": "PXD007263", "size":
+},
+{
+"name": "PXD009112", "size":
+},
+{
+"name": "PXD009438", "size":
+},
+{"name": "PXD009181", "size":}
+]
+},
+{
+"name": "PMDX007265",
+"children": [{"name": "PXD007265", "size":}
+]
+},
+{
+"name": "PMDX007270",
+"children": [{
+"name": "PXD007270", "size":
+},
+{
+"name": "PXD007738", "size":
+},
+{"name": "PXD007271", "size":}
+]
+},
+{
+"name": "PMDX007284",
+"children": [{"name": "PXD007284", "size":}
+]
+},
+{
+"name": "PMDX007513",
+"children": [{"name": "PXD007513", "size":}
+]
+},
+{
+"name": "PMDX007515",
+"children": [{"name": "PXD007515", "size":}
+]
+},
+{
+"name": "PMDX007532",
+"children": [{"name": "PXD007532", "size":}
+]
+},
+{
+"name": "PMDX007535",
+"children": [{"name": "PXD007535", "size":}
+]
+},
+{
+"name": "PMDX007538",
+"children": [{"name": "PXD007538", "size":}
+]
+},
+{
+"name": "PMDX007543",
+"children": [{"name": "PXD007543", "size":}
+]
+},
+{
+"name": "PMDX007552",
+"children": [{"name": "PXD007552", "size":}
+]
+},
+{
+"name": "PMDX007569",
+"children": [{"name": "PXD007569", "size":}
+]
+},
+{
+"name": "PMDX007570",
+"children": [{"name": "PXD007570", "size":}
+]
+},
+{
+"name": "PMDX007572",
+"children": [{"name": "PXD007572", "size":}
+]
+},
+{
+"name": "PMDX007575",
+"children": [{"name": "PXD007575", "size":}
+]
+},
+{
+"name": "PMDX007584",
+"children": [{"name": "PXD007584", "size":}
+]
+},
+{
+"name": "PMDX007591",
+"children": [{"name": "PXD007591", "size":}
+]
+},
+{
+"name": "PMDX007592",
+"children": [{"name": "PXD007592", "size":}
+]
+},
+{
+"name": "PMDX007594",
+"children": [{"name": "PXD007594", "size":}
+]
+},
+{
+"name": "PMDX007595",
+"children": [{"name": "PXD007595", "size":}
+]
+},
+{
+"name": "PMDX007596",
+"children": [{"name": "PXD007596", "size":}
+]
+},
+{
+"name": "PMDX007610",
+"children": [{"name": "PXD007610", "size":}
+]
+},
+{
+"name": "PMDX007620",
+"children": [{
+"name": "PXD007621", "size":
+},
+{"name": "PXD007620", "size":}
+]
+},
+{
+"name": "PMDX007624",
+"children": [{"name": "PXD007624", "size":}
+]
+},
+{
+"name": "PMDX007629",
+"children": [{"name": "PXD007629", "size":}
+]
+},
+{
+"name": "PMDX007632",
+"children": [{"name": "PXD007632", "size":}
+]
+},
+{
+"name": "PMDX007633",
+"children": [{"name": "PXD007633", "size":}
+]
+},
+{
+"name": "PMDX007635",
+"children": [{"name": "PXD007635", "size":}
+]
+},
+{
+"name": "PMDX007637",
+"children": [{"name": "PXD007637", "size":}
+]
+},
+{
+"name": "PMDX007638",
+"children": [{
+"name": "PXD007920", "size":
+},
+{
+"name": "PXD007752", "size":
+},
+{"name": "PXD007638", "size":}
+]
+},
+{
+"name": "PMDX007643",
+"children": [{"name": "PXD007643", "size":}
+]
+},
+{
+"name": "PMDX007666",
+"children": [{"name": "PXD007666", "size":}
+]
+},
+{
+"name": "PMDX007671",
+"children": [{"name": "PXD007671", "size":}
+]
+},
+{
+"name": "PMDX007675",
+"children": [{
+"name": "PXD007675", "size":
+},
+{"name": "PXD009095", "size":}
+]
+},
+{
+"name": "PMDX007679",
+"children": [{"name": "PXD007679", "size":}
+]
+},
+{
+"name": "PMDX007686",
+"children": [{"name": "PXD007686", "size":}
+]
+},
+{
+"name": "PMDX007694",
+"children": [{"name": "PXD007694", "size":}
+]
+},
+{
+"name": "PMDX007695",
+"children": [{"name": "PXD007695", "size":}
+]
+},
+{
+"name": "PMDX007709",
+"children": [{"name": "PXD007709", "size":}
+]
+},
+{
+"name": "PMDX007725",
+"children": [{"name": "PXD007725", "size":}
+]
+},
+{
+"name": "PMDX007726",
+"children": [{"name": "PXD007726", "size":}
+]
+},
+{
+"name": "PMDX007732",
+"children": [{"name": "PXD007732", "size":}
+]
+},
+{
+"name": "PMDX007733",
+"children": [{"name": "PXD007733", "size":}
+]
+},
+{
+"name": "PMDX007740",
+"children": [{"name": "PXD007740", "size":}
+]
+},
+{
+"name": "PMDX007741",
+"children": [{"name": "PXD007741", "size":}
+]
+},
+{
+"name": "PMDX007750",
+"children": [{"name": "PXD007750", "size":}
+]
+},
+{
+"name": "PMDX007756",
+"children": [{"name": "PXD007756", "size":}
+]
+},
+{
+"name": "PMDX007759",
+"children": [{"name": "PXD007759", "size":}
+]
+},
+{
+"name": "PMDX007761",
+"children": [{"name": "PXD007761", "size":}
+]
+},
+{
+"name": "PMDX007765",
+"children": [{"name": "PXD007765", "size":}
+]
+},
+{
+"name": "PMDX007771",
+"children": [{"name": "PXD007771", "size":}
+]
+},
+{
+"name": "PMDX007776",
+"children": [{
+"name": "PXD007776", "size":
+},
+{"name": "PXD007789", "size":}
+]
+},
+{
+"name": "PMDX007790",
+"children": [{
+"name": "PXD007791", "size":
+},
+{"name": "PXD007790", "size":}
+]
+},
+{
+"name": "PMDX007794",
+"children": [{"name": "PXD007794", "size":}
+]
+},
+{
+"name": "PMDX007801",
+"children": [{"name": "PXD007801", "size":}
+]
+},
+{
+"name": "PMDX007809",
+"children": [{
+"name": "PXD009924", "size":
+},
+{"name": "PXD007809", "size":}
+]
+},
+{
+"name": "PMDX007819",
+"children": [{"name": "PXD007959", "size":}
+]
+},
+{
+"name": "PMDX007837",
+"children": [{"name": "PXD007837", "size":}
+]
+},
+{
+"name": "PMDX007839",
+"children": [{"name": "PXD007839", "size":}
+]
+},
+{
+"name": "PMDX007842",
+"children": [{"name": "PXD007842", "size":}
+]
+},
+{
+"name": "PMDX007846",
+"children": [{"name": "PXD007846", "size":}
+]
+},
+{
+"name": "PMDX007851",
+"children": [{
+"name": "PXD007851", "size":
+},
+{"name": "PXD007861", "size":}
+]
+},
+{
+"name": "PMDX007856",
+"children": [{"name": "PXD007856", "size":}
+]
+},
+{
+"name": "PMDX007860",
+"children": [{"name": "PXD007860", "size":}
+]
+},
+{
+"name": "PMDX007862",
+"children": [{"name": "PXD007862", "size":}
+]
+},
+{
+"name": "PMDX007863",
+"children": [{"name": "PXD007863", "size":}
+]
+},
+{
+"name": "PMDX007867",
+"children": [{"name": "PXD007867", "size":}
+]
+},
+{
+"name": "PMDX007876",
+"children": [{"name": "PXD007876", "size":}
+]
+},
+{
+"name": "PMDX007884",
+"children": [{"name": "PXD007884", "size":}
+]
+},
+{
+"name": "PMDX007885",
+"children": [{"name": "PXD007885", "size":}
+]
+},
+{
+"name": "PMDX007890",
+"children": [{"name": "PXD007890", "size":}
+]
+},
+{
+"name": "PMDX007894",
+"children": [{"name": "PXD007894", "size":}
+]
+},
+{
+"name": "PMDX007896",
+"children": [{"name": "PXD007896", "size":}
+]
+},
+{
+"name": "PMDX007898",
+"children": [{"name": "PXD007898", "size":}
+]
+},
+{
+"name": "PMDX007902",
+"children": [{"name": "PXD007902", "size":}
+]
+},
+{
+"name": "PMDX007906",
+"children": [{"name": "PXD007906", "size":}
+]
+},
+{
+"name": "PMDX007909",
+"children": [{"name": "PXD007909", "size":}
+]
+},
+{
+"name": "PMDX007913",
+"children": [{"name": "PXD007913", "size":}
+]
+},
+{
+"name": "PMDX007926",
+"children": [{"name": "PXD007926", "size":}
+]
+},
+{
+"name": "PMDX007928",
+"children": [{"name": "PXD007928", "size":}
+]
+},
+{
+"name": "PMDX007931",
+"children": [{"name": "PXD007931", "size":}
+]
+},
+{
+"name": "PMDX007935",
+"children": [{"name": "PXD007935", "size":}
+]
+},
+{
+"name": "PMDX007942",
+"children": [{"name": "PXD007942", "size":}
+]
+},
+{
+"name": "PMDX007944",
+"children": [{"name": "PXD007944", "size":}
+]
+},
+{
+"name": "PMDX007947",
+"children": [{"name": "PXD007947", "size":}
+]
+},
+{
+"name": "PMDX007962",
+"children": [{"name": "PXD007962", "size":}
+]
+},
+{
+"name": "PMDX007968",
+"children": [{"name": "PXD007968", "size":}
+]
+},
+{
+"name": "PMDX007969",
+"children": [{"name": "PXD007969", "size":}
+]
+},
+{
+"name": "PMDX007975",
+"children": [{"name": "PXD007975", "size":}
+]
+},
+{
+"name": "PMDX007976",
+"children": [{"name": "PXD007976", "size":}
+]
+},
+{
+"name": "PMDX007982",
+"children": [{"name": "PXD007982", "size":}
+]
+},
+{
+"name": "PMDX007994",
+"children": [{"name": "PXD007994", "size":}
+]
+},
+{
+"name": "PMDX007995",
+"children": [{"name": "PXD007995", "size":}
+]
+},
+{
+"name": "PMDX008002",
+"children": [{"name": "PXD008002", "size":}
+]
+},
+{
+"name": "PMDX008003",
+"children": [{"name": "PXD008003", "size":}
+]
+},
+{
+"name": "PMDX008014",
+"children": [{"name": "PXD008014", "size":}
+]
+},
+{
+"name": "PMDX008022",
+"children": [{
+"name": "PXD008022", "size":
+},
+{"name": "PXD008023", "size":}
+]
+},
+{
+"name": "PMDX008035",
+"children": [{"name": "PXD008035", "size":}
+]
+},
+{
+"name": "PMDX008036",
+"children": [{"name": "PXD008036", "size":}
+]
+},
+{
+"name": "PMDX008056",
+"children": [{"name": "PXD008056", "size":}
+]
+},
+{
+"name": "PMDX008068",
+"children": [{"name": "PXD008068", "size":}
+]
+},
+{
+"name": "PMDX008071",
+"children": [{"name": "PXD008071", "size":}
+]
+},
+{
+"name": "PMDX008073",
+"children": [{"name": "PXD008073", "size":}
+]
+},
+{
+"name": "PMDX008076",
+"children": [{"name": "PXD008076", "size":}
+]
+},
+{
+"name": "PMDX008079",
+"children": [{"name": "PXD008079", "size":}
+]
+},
+{
+"name": "PMDX008082",
+"children": [{"name": "PXD008082", "size":}
+]
+},
+{
+"name": "PMDX008084",
+"children": [{"name": "PXD008084", "size":}
+]
+},
+{
+"name": "PMDX008092",
+"children": [{"name": "PXD008092", "size":}
+]
+},
+{
+"name": "PMDX008094",
+"children": [{"name": "PXD008094", "size":}
+]
+},
+{
+"name": "PMDX008103",
+"children": [{"name": "PXD008103", "size":}
+]
+},
+{
+"name": "PMDX008115",
+"children": [{
+"name": "PXD008115", "size":
+},
+{
+"name": "PXD008131", "size":
+},
+{
+"name": "PXD009895", "size":
+},
+{"name": "PXD009914", "size":}
+]
+},
+{
+"name": "PMDX008119",
+"children": [{"name": "PXD008119", "size":}
+]
+},
+{
+"name": "PMDX008122",
+"children": [{"name": "PXD008122", "size":}
+]
+},
+{
+"name": "PMDX008123",
+"children": [{"name": "PXD008123", "size":}
+]
+},
+{
+"name": "PMDX008127",
+"children": [{"name": "PXD008127", "size":}
+]
+},
+{
+"name": "PMDX008130",
+"children": [{"name": "PXD008130", "size":}
+]
+},
+{
+"name": "PMDX008137",
+"children": [{
+"name": "PXD008230", "size":
+},
+{"name": "PXD008137", "size":}
+]
+},
+{
+"name": "PMDX008141",
+"children": [{"name": "PXD008141", "size":}
+]
+},
+{
+"name": "PMDX008145",
+"children": [{"name": "PXD008145", "size":}
+]
+},
+{
+"name": "PMDX008146",
+"children": [{"name": "PXD008146", "size":}
+]
+},
+{
+"name": "PMDX008147",
+"children": [{"name": "PXD008147", "size":}
+]
+},
+{
+"name": "PMDX008150",
+"children": [{"name": "PXD008150", "size":}
+]
+},
+{
+"name": "PMDX008158",
+"children": [{"name": "PXD008158", "size":}
+]
+},
+{
+"name": "PMDX008160",
+"children": [{"name": "PXD008160", "size":}
+]
+},
+{
+"name": "PMDX008163",
+"children": [{"name": "PXD008163", "size":}
+]
+},
+{
+"name": "PMDX008171",
+"children": [{"name": "PXD008171", "size":}
+]
+},
+{
+"name": "PMDX008177",
+"children": [{"name": "PXD008177", "size":}
+]
+},
+{
+"name": "PMDX008178",
+"children": [{"name": "PXD008178", "size":}
+]
+},
+{
+"name": "PMDX008183",
+"children": [{"name": "PXD008183", "size":}
+]
+},
+{
+"name": "PMDX008190",
+"children": [{"name": "PXD008190", "size":}
+]
+},
+{
+"name": "PMDX008204",
+"children": [{"name": "PXD008204", "size":}
+]
+},
+{
+"name": "PMDX008205",
+"children": [{"name": "PXD008205", "size":}
+]
+},
+{
+"name": "PMDX008220",
+"children": [{"name": "PXD008220", "size":}
+]
+},
+{
+"name": "PMDX008222",
+"children": [{"name": "PXD008222", "size":}
+]
+},
+{
+"name": "PMDX008229",
+"children": [{"name": "PXD008229", "size":}
+]
+},
+{
+"name": "PMDX008252",
+"children": [{"name": "PXD008252", "size":}
+]
+},
+{
+"name": "PMDX008259",
+"children": [{"name": "PXD008259", "size":}
+]
+},
+{
+"name": "PMDX008260",
+"children": [{"name": "PXD008260", "size":}
+]
+},
+{
+"name": "PMDX008267",
+"children": [{"name": "PXD008267", "size":}
+]
+},
+{
+"name": "PMDX008270",
+"children": [{"name": "PXD008270", "size":}
+]
+},
+{
+"name": "PMDX008272",
+"children": [{"name": "PXD008272", "size":}
+]
+},
+{
+"name": "PMDX008278",
+"children": [{"name": "PXD008278", "size":}
+]
+},
+{
+"name": "PMDX008289",
+"children": [{"name": "PXD008289", "size":}
+]
+},
+{
+"name": "PMDX008296",
+"children": [{"name": "PXD008296", "size":}
+]
+},
+{
+"name": "PMDX008302",
+"children": [{"name": "PXD008302", "size":}
+]
+},
+{
+"name": "PMDX008307",
+"children": [{"name": "PXD008307", "size":}
+]
+},
+{
+"name": "PMDX008310",
+"children": [{"name": "PXD008310", "size":}
+]
+},
+{
+"name": "PMDX008311",
+"children": [{"name": "PXD008311", "size":}
+]
+},
+{
+"name": "PMDX008316",
+"children": [{"name": "PXD008316", "size":}
+]
+},
+{
+"name": "PMDX008321",
+"children": [{"name": "PXD008321", "size":}
+]
+},
+{
+"name": "PMDX008327",
+"children": [{"name": "PXD009500", "size":}
+]
+},
+{
+"name": "PMDX008338",
+"children": [{"name": "PXD008338", "size":}
+]
+},
+{
+"name": "PMDX008343",
+"children": [{"name": "PXD008343", "size":}
+]
+},
+{
+"name": "PMDX008351",
+"children": [{"name": "PXD008351", "size":}
+]
+},
+{
+"name": "PMDX008354",
+"children": [{"name": "PXD008354", "size":}
+]
+},
+{
+"name": "PMDX008364",
+"children": [{"name": "PXD008364", "size":}
+]
+},
+{
+"name": "PMDX008375",
+"children": [{"name": "PXD008375", "size":}
+]
+},
+{
+"name": "PMDX008378",
+"children": [{"name": "PXD008378", "size":}
+]
+},
+{
+"name": "PMDX008381",
+"children": [{"name": "PXD008381", "size":}
+]
+},
+{
+"name": "PMDX008382",
+"children": [{"name": "PXD008382", "size":}
+]
+},
+{
+"name": "PMDX008389",
+"children": [{"name": "PXD008389", "size":}
+]
+},
+{
+"name": "PMDX008407",
+"children": [{"name": "PXD008407", "size":}
+]
+},
+{
+"name": "PMDX008411",
+"children": [{"name": "PXD008411", "size":}
+]
+},
+{
+"name": "PMDX008436",
+"children": [{"name": "PXD008436", "size":}
+]
+},
+{
+"name": "PMDX008438",
+"children": [{"name": "PXD008438", "size":}
+]
+},
+{
+"name": "PMDX008440",
+"children": [{"name": "PXD008440", "size":}
+]
+},
+{
+"name": "PMDX008442",
+"children": [{"name": "PXD008442", "size":}
+]
+},
+{
+"name": "PMDX008445",
+"children": [{"name": "PXD008445", "size":}
+]
+},
+{
+"name": "PMDX008448",
+"children": [{"name": "PXD008448", "size":}
+]
+},
+{
+"name": "PMDX008450",
+"children": [{"name": "PXD008450", "size":}
+]
+},
+{
+"name": "PMDX008452",
+"children": [{"name": "PXD008452", "size":}
+]
+},
+{
+"name": "PMDX008454",
+"children": [{"name": "PXD008454", "size":}
+]
+},
+{
+"name": "PMDX008459",
+"children": [{"name": "PXD008459", "size":}
+]
+},
+{
+"name": "PMDX008462",
+"children": [{"name": "PXD008462", "size":}
+]
+},
+{
+"name": "PMDX008465",
+"children": [{"name": "PXD008465", "size":}
+]
+},
+{
+"name": "PMDX008485",
+"children": [{"name": "PXD008485", "size":}
+]
+},
+{
+"name": "PMDX008493",
+"children": [{"name": "PXD008493", "size":}
+]
+},
+{
+"name": "PMDX008494",
+"children": [{"name": "PXD008494", "size":}
+]
+},
+{
+"name": "PMDX008500",
+"children": [{"name": "PXD008500", "size":}
+]
+},
+{
+"name": "PMDX008509",
+"children": [{"name": "PXD008509", "size":}
+]
+},
+{
+"name": "PMDX008511",
+"children": [{
+"name": "PXD008516", "size":
+},
+{
+"name": "PXD008515", "size":
+},
+{
+"name": "PXD008513", "size":
+},
+{
+"name": "PXD008512", "size":
+},
+{"name": "PXD008511", "size":}
+]
+},
+{
+"name": "PMDX008522",
+"children": [{"name": "PXD008522", "size":}
+]
+},
+{
+"name": "PMDX008533",
+"children": [{"name": "PXD008533", "size":}
+]
+},
+{
+"name": "PMDX008542",
+"children": [{"name": "PXD008542", "size":}
+]
+},
+{
+"name": "PMDX008545",
+"children": [{"name": "PXD008545", "size":}
+]
+},
+{
+"name": "PMDX008546",
+"children": [{
+"name": "PXD008546", "size":
+},
+{"name": "PXD008582", "size":}
+]
+},
+{
+"name": "PMDX008553",
+"children": [{"name": "PXD008553", "size":}
+]
+},
+{
+"name": "PMDX008554",
+"children": [{"name": "PXD008554", "size":}
+]
+},
+{
+"name": "PMDX008562",
+"children": [{"name": "PXD008562", "size":}
+]
+},
+{
+"name": "PMDX008570",
+"children": [{
+"name": "PXD008572", "size":
+},
+{
+"name": "PXD008571", "size":
+},
+{
+"name": "PXD008570", "size":
+},
+{"name": "PXD009850", "size":}
+]
+},
+{
+"name": "PMDX008575",
+"children": [{"name": "PXD008575", "size":}
+]
+},
+{
+"name": "PMDX008579",
+"children": [{"name": "PXD008579", "size":}
+]
+},
+{
+"name": "PMDX008581",
+"children": [{"name": "PXD008581", "size":}
+]
+},
+{
+"name": "PMDX008584",
+"children": [{"name": "PXD008584", "size":}
+]
+},
+{
+"name": "PMDX008601",
+"children": [{"name": "PXD008601", "size":}
+]
+},
+{
+"name": "PMDX008605",
+"children": [{"name": "PXD008605", "size":}
+]
+},
+{
+"name": "PMDX008606",
+"children": [{"name": "PXD008606", "size":}
+]
+},
+{
+"name": "PMDX008620",
+"children": [{"name": "PXD008620", "size":}
+]
+},
+{
+"name": "PMDX008625",
+"children": [{
+"name": "PXD008666", "size":
+},
+{"name": "PXD008625", "size":}
+]
+},
+{
+"name": "PMDX008626",
+"children": [{
+"name": "PXD008634", "size":
+},
+{
+"name": "PXD008635", "size":
+},
+{
+"name": "PXD008637", "size":
+},
+{
+"name": "PXD008639", "size":
+},
+{
+"name": "PXD008632", "size":
+},
+{
+"name": "PXD008638", "size":
+},
+{
+"name": "PXD008636", "size":
+},
+{
+"name": "PXD008627", "size":
+},
+{
+"name": "PXD008626", "size":
+},
+{
+"name": "PXD008630", "size":
+},
+{
+"name": "PXD008628", "size":
+},
+{
+"name": "PXD008631", "size":
+},
+{
+"name": "PXD008629", "size":
+},
+{"name": "PXD008633", "size":}
+]
+},
+{
+"name": "PMDX008642",
+"children": [{"name": "PXD008642", "size":}
+]
+},
+{
+"name": "PMDX008646",
+"children": [{"name": "PXD008646", "size":}
+]
+},
+{
+"name": "PMDX008665",
+"children": [{"name": "PXD008665", "size":}
+]
+},
+{
+"name": "PMDX008676",
+"children": [{"name": "PXD008676", "size":}
+]
+},
+{
+"name": "PMDX008682",
+"children": [{"name": "PXD008682", "size":}
+]
+},
+{
+"name": "PMDX008686",
+"children": [{"name": "PXD008686", "size":}
+]
+},
+{
+"name": "PMDX008687",
+"children": [{"name": "PXD008687", "size":}
+]
+},
+{
+"name": "PMDX008693",
+"children": [{"name": "PXD008693", "size":}
+]
+},
+{
+"name": "PMDX008698",
+"children": [{"name": "PXD008698", "size":}
+]
+},
+{
+"name": "PMDX008700",
+"children": [{"name": "PXD008700", "size":}
+]
+},
+{
+"name": "PMDX008707",
+"children": [{"name": "PXD008707", "size":}
+]
+},
+{
+"name": "PMDX008710",
+"children": [{"name": "PXD008710", "size":}
+]
+},
+{
+"name": "PMDX008715",
+"children": [{
+"name": "PXD008715", "size":
+},
+{"name": "PXD008933", "size":}
+]
+},
+{
+"name": "PMDX008718",
+"children": [{"name": "PXD008718", "size":}
+]
+},
+{
+"name": "PMDX008719",
+"children": [{"name": "PXD008719", "size":}
+]
+},
+{
+"name": "PMDX008723",
+"children": [{"name": "PXD008723", "size":}
+]
+},
+{
+"name": "PMDX008731",
+"children": [{"name": "PXD008731", "size":}
+]
+},
+{
+"name": "PMDX008743",
+"children": [{"name": "PXD008743", "size":}
+]
+},
+{
+"name": "PMDX008748",
+"children": [{"name": "PXD008748", "size":}
+]
+},
+{
+"name": "PMDX008750",
+"children": [{"name": "PXD008750", "size":}
+]
+},
+{
+"name": "PMDX008752",
+"children": [{"name": "PXD008752", "size":}
+]
+},
+{
+"name": "PMDX008773",
+"children": [{"name": "PXD008773", "size":}
+]
+},
+{
+"name": "PMDX008775",
+"children": [{"name": "PXD008775", "size":}
+]
+},
+{
+"name": "PMDX008787",
+"children": [{"name": "PXD008787", "size":}
+]
+},
+{
+"name": "PMDX008788",
+"children": [{"name": "PXD008788", "size":}
+]
+},
+{
+"name": "PMDX008819",
+"children": [{
+"name": "PXD008823", "size":
+},
+{
+"name": "PXD008822", "size":
+},
+{
+"name": "PXD008821", "size":
+},
+{
+"name": "PXD008820", "size":
+},
+{"name": "PXD008819", "size":}
+]
+},
+{
+"name": "PMDX008824",
+"children": [{"name": "PXD008824", "size":}
+]
+},
+{
+"name": "PMDX008832",
+"children": [{"name": "PXD008832", "size":}
+]
+},
+{
+"name": "PMDX008840",
+"children": [{"name": "PXD008840", "size":}
+]
+},
+{
+"name": "PMDX008842",
+"children": [{"name": "PXD008842", "size":}
+]
+},
+{
+"name": "PMDX008855",
+"children": [{"name": "PXD008855", "size":}
+]
+},
+{
+"name": "PMDX008859",
+"children": [{"name": "PXD008859", "size":}
+]
+},
+{
+"name": "PMDX008863",
+"children": [{
+"name": "PXD008863", "size":
+},
+{"name": "PXD008868", "size":}
+]
+},
+{
+"name": "PMDX008870",
+"children": [{"name": "PXD008870", "size":}
+]
+},
+{
+"name": "PMDX008881",
+"children": [{"name": "PXD008881", "size":}
+]
+},
+{
+"name": "PMDX008891",
+"children": [{"name": "PXD008891", "size":}
+]
+},
+{
+"name": "PMDX008896",
+"children": [{"name": "PXD008896", "size":}
+]
+},
+{
+"name": "PMDX008897",
+"children": [{"name": "PXD008897", "size":}
+]
+},
+{
+"name": "PMDX008901",
+"children": [{"name": "PXD008901", "size":}
+]
+},
+{
+"name": "PMDX008918",
+"children": [{"name": "PXD008918", "size":}
+]
+},
+{
+"name": "PMDX008925",
+"children": [{"name": "PXD008925", "size":}
+]
+},
+{
+"name": "PMDX008934",
+"children": [{"name": "PXD008934", "size":}
+]
+},
+{
+"name": "PMDX008937",
+"children": [{"name": "PXD008937", "size":}
+]
+},
+{
+"name": "PMDX008945",
+"children": [{"name": "PXD008945", "size":}
+]
+},
+{
+"name": "PMDX008952",
+"children": [{"name": "PXD008952", "size":}
+]
+},
+{
+"name": "PMDX008955",
+"children": [{"name": "PXD008955", "size":}
+]
+},
+{
+"name": "PMDX008967",
+"children": [{"name": "PXD008967", "size":}
+]
+},
+{
+"name": "PMDX008970",
+"children": [{"name": "PXD008970", "size":}
+]
+},
+{
+"name": "PMDX008978",
+"children": [{"name": "PXD008978", "size":}
+]
+},
+{
+"name": "PMDX008980",
+"children": [{"name": "PXD008980", "size":}
+]
+},
+{
+"name": "PMDX008992",
+"children": [{"name": "PXD008992", "size":}
+]
+},
+{
+"name": "PMDX008996",
+"children": [{"name": "PXD008996", "size":}
+]
+},
+{
+"name": "PMDX009007",
+"children": [{"name": "PXD009007", "size":}
+]
+},
+{
+"name": "PMDX009009",
+"children": [{"name": "PXD009009", "size":}
+]
+},
+{
+"name": "PMDX009015",
+"children": [{
+"name": "PXD009024", "size":
+},
+{
+"name": "PXD009023", "size":
+},
+{"name": "PXD009015", "size":}
+]
+},
+{
+"name": "PMDX009025",
+"children": [{"name": "PXD009025", "size":}
+]
+},
+{
+"name": "PMDX009026",
+"children": [{
+"name": "PXD009026", "size":
+},
+{"name": "PXD009524", "size":}
+]
+},
+{
+"name": "PMDX009029",
+"children": [{"name": "PXD009029", "size":}
+]
+},
+{
+"name": "PMDX009041",
+"children": [{
+"name": "PXD009041", "size":
+},
+{
+"name": "PXD010786", "size":
+},
+{"name": "PXD010787", "size":}
+]
+},
+{
+"name": "PMDX009048",
+"children": [{"name": "PXD009048", "size":}
+]
+},
+{
+"name": "PMDX009051",
+"children": [{"name": "PXD009051", "size":}
+]
+},
+{
+"name": "PMDX009056",
+"children": [{"name": "PXD009056", "size":}
+]
+},
+{
+"name": "PMDX009074",
+"children": [{"name": "PXD009074", "size":}
+]
+},
+{
+"name": "PMDX009084",
+"children": [{"name": "PXD009084", "size":}
+]
+},
+{
+"name": "PMDX009101",
+"children": [{"name": "PXD009101", "size":}
+]
+},
+{
+"name": "PMDX009110",
+"children": [{"name": "PXD009110", "size":}
+]
+},
+{
+"name": "PMDX009138",
+"children": [{"name": "PXD009138", "size":}
+]
+},
+{
+"name": "PMDX009140",
+"children": [{"name": "PXD009140", "size":}
+]
+},
+{
+"name": "PMDX009142",
+"children": [{"name": "PXD009142", "size":}
+]
+},
+{
+"name": "PMDX009144",
+"children": [{"name": "PXD009144", "size":}
+]
+},
+{
+"name": "PMDX009149",
+"children": [{
+"name": "PXD009149", "size":
+},
+{"name": "PXD009367", "size":}
+]
+},
+{
+"name": "PMDX009161",
+"children": [{"name": "PXD009161", "size":}
+]
+},
+{
+"name": "PMDX009174",
+"children": [{"name": "PXD009174", "size":}
+]
+},
+{
+"name": "PMDX009185",
+"children": [{"name": "PXD009185", "size":}
+]
+},
+{
+"name": "PMDX009188",
+"children": [{"name": "PXD009188", "size":}
+]
+},
+{
+"name": "PMDX009196",
+"children": [{"name": "PXD009196", "size":}
+]
+},
+{
+"name": "PMDX009206",
+"children": [{"name": "PXD009206", "size":}
+]
+},
+{
+"name": "PMDX009208",
+"children": [{
+"name": "PXD009208", "size":
+},
+{"name": "PXD009931", "size":}
+]
+},
+{
+"name": "PMDX009216",
+"children": [{"name": "PXD009216", "size":}
+]
+},
+{
+"name": "PMDX009224",
+"children": [{"name": "PXD009224", "size":}
+]
+},
+{
+"name": "PMDX009227",
+"children": [{"name": "PXD009227", "size":}
+]
+},
+{
+"name": "PMDX009234",
+"children": [{"name": "PXD009234", "size":}
+]
+},
+{
+"name": "PMDX009237",
+"children": [{"name": "PXD009237", "size":}
+]
+},
+{
+"name": "PMDX009241",
+"children": [{"name": "PXD009241", "size":}
+]
+},
+{
+"name": "PMDX009251",
+"children": [{"name": "PXD009251", "size":}
+]
+},
+{
+"name": "PMDX009252",
+"children": [{"name": "PXD009252", "size":}
+]
+},
+{
+"name": "PMDX009254",
+"children": [{"name": "PXD009254", "size":}
+]
+},
+{
+"name": "PMDX009265",
+"children": [{"name": "PXD009265", "size":}
+]
+},
+{
+"name": "PMDX009266",
+"children": [{"name": "PXD009266", "size":}
+]
+},
+{
+"name": "PMDX009267",
+"children": [{
+"name": "PXD009267", "size":
+},
+{
+"name": "PXD009276", "size":
+},
+{"name": "PXD009292", "size":}
+]
+},
+{
+"name": "PMDX009284",
+"children": [{"name": "PXD009284", "size":}
+]
+},
+{
+"name": "PMDX009286",
+"children": [{"name": "PXD009286", "size":}
+]
+},
+{
+"name": "PMDX009291",
+"children": [{"name": "PXD009291", "size":}
+]
+},
+{
+"name": "PMDX009300",
+"children": [{"name": "PXD009300", "size":}
+]
+},
+{
+"name": "PMDX009302",
+"children": [{"name": "PXD009302", "size":}
+]
+},
+{
+"name": "PMDX009310",
+"children": [{"name": "PXD009310", "size":}
+]
+},
+{
+"name": "PMDX009317",
+"children": [{"name": "PXD009317", "size":}
+]
+},
+{
+"name": "PMDX009321",
+"children": [{"name": "PXD009321", "size":}
+]
+},
+{
+"name": "PMDX009333",
+"children": [{"name": "PXD009333", "size":}
+]
+},
+{
+"name": "PMDX009338",
+"children": [{"name": "PXD009338", "size":}
+]
+},
+{
+"name": "PMDX009342",
+"children": [{"name": "PXD009342", "size":}
+]
+},
+{
+"name": "PMDX009343",
+"children": [{"name": "PXD009343", "size":}
+]
+},
+{
+"name": "PMDX009345",
+"children": [{"name": "PXD009345", "size":}
+]
+},
+{
+"name": "PMDX009389",
+"children": [{"name": "PXD009389", "size":}
+]
+},
+{
+"name": "PMDX009393",
+"children": [{"name": "PXD009393", "size":}
+]
+},
+{
+"name": "PMDX009409",
+"children": [{"name": "PXD009409", "size":}
+]
+},
+{
+"name": "PMDX009417",
+"children": [{"name": "PXD009417", "size":}
+]
+},
+{
+"name": "PMDX009424",
+"children": [{"name": "PXD009424", "size":}
+]
+},
+{
+"name": "PMDX009426",
+"children": [{"name": "PXD009426", "size":}
+]
+},
+{
+"name": "PMDX009437",
+"children": [{"name": "PXD009437", "size":}
+]
+},
+{
+"name": "PMDX009440",
+"children": [{"name": "PXD009440", "size":}
+]
+},
+{
+"name": "PMDX009442",
+"children": [{"name": "PXD009442", "size":}
+]
+},
+{
+"name": "PMDX009444",
+"children": [{"name": "PXD009444", "size":}
+]
+},
+{
+"name": "PMDX009449",
+"children": [{"name": "PXD009449", "size":}
+]
+},
+{
+"name": "PMDX009450",
+"children": [{"name": "PXD009450", "size":}
+]
+},
+{
+"name": "PMDX009453",
+"children": [{"name": "PXD009453", "size":}
+]
+},
+{
+"name": "PMDX009465",
+"children": [{"name": "PXD009465", "size":}
+]
+},
+{
+"name": "PMDX009481",
+"children": [{"name": "PXD009481", "size":}
+]
+},
+{
+"name": "PMDX009487",
+"children": [{"name": "PXD009487", "size":}
+]
+},
+{
+"name": "PMDX009495",
+"children": [{"name": "PXD009495", "size":}
+]
+},
+{
+"name": "PMDX009498",
+"children": [{"name": "PXD009498", "size":}
+]
+},
+{
+"name": "PMDX009499",
+"children": [{
+"name": "PXD009520", "size":
+},
+{
+"name": "PXD009518", "size":
+},
+{
+"name": "PXD009501", "size":
+},
+{"name": "PXD009499", "size":}
+]
+},
+{
+"name": "PMDX009515",
+"children": [{"name": "PXD009515", "size":}
+]
+},
+{
+"name": "PMDX009531",
+"children": [{"name": "PXD009531", "size":}
+]
+},
+{
+"name": "PMDX009551",
+"children": [{
+"name": "PXD009551", "size":
+},
+{
+"name": "PXD009557", "size":
+},
+{
+"name": "PXD009560", "size":
+},
+{"name": "PXD009561", "size":}
+]
+},
+{
+"name": "PMDX009553",
+"children": [{"name": "PXD009553", "size":}
+]
+},
+{
+"name": "PMDX009565",
+"children": [{"name": "PXD009565", "size":}
+]
+},
+{
+"name": "PMDX009570",
+"children": [{"name": "PXD009570", "size":}
+]
+},
+{
+"name": "PMDX009575",
+"children": [{"name": "PXD009575", "size":}
+]
+},
+{
+"name": "PMDX009578",
+"children": [{"name": "PXD009578", "size":}
+]
+},
+{
+"name": "PMDX009596",
+"children": [{"name": "PXD009596", "size":}
+]
+},
+{
+"name": "PMDX009598",
+"children": [{"name": "PXD009598", "size":}
+]
+},
+{
+"name": "PMDX009600",
+"children": [{"name": "PXD009600", "size":}
+]
+},
+{
+"name": "PMDX009602",
+"children": [{"name": "PXD009602", "size":}
+]
+},
+{
+"name": "PMDX009603",
+"children": [{"name": "PXD009603", "size":}
+]
+},
+{
+"name": "PMDX009606",
+"children": [{"name": "PXD009606", "size":}
+]
+},
+{
+"name": "PMDX009624",
+"children": [{
+"name": "PXD009624", "size":
+},
+{
+"name": "PXD010705", "size":
+},
+{
+"name": "PXD010690", "size":
+},
+{
+"name": "PXD010708", "size":
+},
+{"name": "PXD010698", "size":}
+]
+},
+{
+"name": "PMDX009645",
+"children": [{"name": "PXD009645", "size":}
+]
+},
+{
+"name": "PMDX009646",
+"children": [{"name": "PXD009646", "size":}
+]
+},
+{
+"name": "PMDX009652",
+"children": [{"name": "PXD009652", "size":}
+]
+},
+{
+"name": "PMDX009656",
+"children": [{"name": "PXD009656", "size":}
+]
+},
+{
+"name": "PMDX009660",
+"children": [{"name": "PXD009660", "size":}
+]
+},
+{
+"name": "PMDX009677",
+"children": [{"name": "PXD009677", "size":}
+]
+},
+{
+"name": "PMDX009681",
+"children": [{"name": "PXD009681", "size":}
+]
+},
+{
+"name": "PMDX009707",
+"children": [{"name": "PXD009707", "size":}
+]
+},
+{
+"name": "PMDX009716",
+"children": [{"name": "PXD009716", "size":}
+]
+},
+{
+"name": "PMDX009724",
+"children": [{"name": "PXD009724", "size":}
+]
+},
+{
+"name": "PMDX009737",
+"children": [{"name": "PXD009737", "size":}
+]
+},
+{
+"name": "PMDX009738",
+"children": [{"name": "PXD009738", "size":}
+]
+},
+{
+"name": "PMDX009741",
+"children": [{
+"name": "PXD009741", "size":
+},
+{"name": "PXD009759", "size":}
+]
+},
+{
+"name": "PMDX009744",
+"children": [{"name": "PXD009744", "size":}
+]
+},
+{
+"name": "PMDX009748",
+"children": [{"name": "PXD009748", "size":}
+]
+},
+{
+"name": "PMDX009758",
+"children": [{"name": "PXD009758", "size":}
+]
+},
+{
+"name": "PMDX009784",
+"children": [{"name": "PXD009784", "size":}
+]
+},
+{
+"name": "PMDX009797",
+"children": [{"name": "PXD009797", "size":}
+]
+},
+{
+"name": "PMDX009801",
+"children": [{"name": "PXD009801", "size":}
+]
+},
+{
+"name": "PMDX009813",
+"children": [{"name": "PXD009813", "size":}
+]
+},
+{
+"name": "PMDX009819",
+"children": [{"name": "PXD009819", "size":}
+]
+},
+{
+"name": "PMDX009826",
+"children": [{"name": "PXD009826", "size":}
+]
+},
+{
+"name": "PMDX009860",
+"children": [{"name": "PXD009860", "size":}
+]
+},
+{
+"name": "PMDX009861",
+"children": [{"name": "PXD009861", "size":}
+]
+},
+{
+"name": "PMDX009863",
+"children": [{
+"name": "PXD010312", "size":
+},
+{"name": "PXD009863", "size":}
+]
+},
+{
+"name": "PMDX009868",
+"children": [{"name": "PXD009868", "size":}
+]
+},
+{
+"name": "PMDX009870",
+"children": [{"name": "PXD009870", "size":}
+]
+},
+{
+"name": "PMDX009880",
+"children": [{"name": "PXD009880", "size":}
+]
+},
+{
+"name": "PMDX009893",
+"children": [{"name": "PXD009893", "size":}
+]
+},
+{
+"name": "PMDX009896",
+"children": [{"name": "PXD009896", "size":}
+]
+},
+{
+"name": "PMDX009897",
+"children": [{"name": "PXD009897", "size":}
+]
+},
+{
+"name": "PMDX009900",
+"children": [{"name": "PXD009900", "size":}
+]
+},
+{
+"name": "PMDX009915",
+"children": [{"name": "PXD009915", "size":}
+]
+},
+{
+"name": "PMDX009919",
+"children": [{"name": "PXD009919", "size":}
+]
+},
+{
+"name": "PMDX009948",
+"children": [{"name": "PXD009948", "size":}
+]
+},
+{
+"name": "PMDX009949",
+"children": [{"name": "PXD009949", "size":}
+]
+},
+{
+"name": "PMDX009950",
+"children": [{"name": "PXD009950", "size":}
+]
+},
+{
+"name": "PMDX009966",
+"children": [{"name": "PXD009966", "size":}
+]
+},
+{
+"name": "PMDX009969",
+"children": [{"name": "PXD009969", "size":}
+]
+},
+{
+"name": "PMDX009991",
+"children": [{"name": "PXD009991", "size":}
+]
+},
+{
+"name": "PMDX009999",
+"children": [{"name": "PXD009999", "size":}
+]
+},
+{
+"name": "PMDX010002",
+"children": [{"name": "PXD010002", "size":}
+]
+},
+{
+"name": "PMDX010005",
+"children": [{
+"name": "PXD010061", "size":
+},
+{
+"name": "PXD010005", "size":
+},
+{"name": "PXD010027", "size":}
+]
+},
+{
+"name": "PMDX010012",
+"children": [{"name": "PXD010012", "size":}
+]
+},
+{
+"name": "PMDX010025",
+"children": [{"name": "PXD010025", "size":}
+]
+},
+{
+"name": "PMDX010075",
+"children": [{"name": "PXD010075", "size":}
+]
+},
+{
+"name": "PMDX010088",
+"children": [{"name": "PXD010088", "size":}
+]
+},
+{
+"name": "PMDX010093",
+"children": [{"name": "PXD010093", "size":}
+]
+},
+{
+"name": "PMDX010103",
+"children": [{"name": "PXD010103", "size":}
+]
+},
+{
+"name": "PMDX010124",
+"children": [{"name": "PXD010124", "size":}
+]
+},
+{
+"name": "PMDX010132",
+"children": [{"name": "PXD010132", "size":}
+]
+},
+{
+"name": "PMDX010142",
+"children": [{"name": "PXD010142", "size":}
+]
+},
+{
+"name": "PMDX010145",
+"children": [{"name": "PXD010145", "size":}
+]
+},
+{
+"name": "PMDX010150",
+"children": [{"name": "PXD010150", "size":}
+]
+},
+{
+"name": "PMDX010152",
+"children": [{"name": "PXD010152", "size":}
+]
+},
+{
+"name": "PMDX010155",
+"children": [{"name": "PXD010155", "size":}
+]
+},
+{
+"name": "PMDX010176",
+"children": [{"name": "PXD010176", "size":}
+]
+},
+{
+"name": "PMDX010202",
+"children": [{
+"name": "PXD010202", "size":
+},
+{"name": "PXD010424", "size":}
+]
+},
+{
+"name": "PMDX010207",
+"children": [{"name": "PXD010207", "size":}
+]
+},
+{
+"name": "PMDX010210",
+"children": [{"name": "PXD010210", "size":}
+]
+},
+{
+"name": "PMDX010222",
+"children": [{"name": "PXD010222", "size":}
+]
+},
+{
+"name": "PMDX010223",
+"children": [{"name": "PXD010223", "size":}
+]
+},
+{
+"name": "PMDX010224",
+"children": [{"name": "PXD010224", "size":}
+]
+},
+{
+"name": "PMDX010230",
+"children": [{"name": "PXD010230", "size":}
+]
+},
+{
+"name": "PMDX010260",
+"children": [{"name": "PXD010260", "size":}
+]
+},
+{
+"name": "PMDX010271",
+"children": [{"name": "PXD010271", "size":}
+]
+},
+{
+"name": "PMDX010296",
+"children": [{"name": "PXD010296", "size":}
+]
+},
+{
+"name": "PMDX010306",
+"children": [{"name": "PXD010306", "size":}
+]
+},
+{
+"name": "PMDX010315",
+"children": [{"name": "PXD010315", "size":}
+]
+},
+{
+"name": "PMDX010361",
+"children": [{"name": "PXD010361", "size":}
+]
+},
+{
+"name": "PMDX010393",
+"children": [{"name": "PXD010393", "size":}
+]
+},
+{
+"name": "PMDX010395",
+"children": [{"name": "PXD010395", "size":}
+]
+},
+{
+"name": "PMDX010398",
+"children": [{"name": "PXD010398", "size":}
+]
+},
+{
+"name": "PMDX010405",
+"children": [{"name": "PXD010406", "size":}
+]
+},
+{
+"name": "PMDX010416",
+"children": [{
+"name": "PXD010428", "size":
+},
+{
+"name": "PXD010417", "size":
+},
+{
+"name": "PXD010420", "size":
+},
+{
+"name": "PXD010416", "size":
+},
+{"name": "PXD010418", "size":}
+]
+},
+{
+"name": "PMDX010480",
+"children": [{"name": "PXD010480", "size":}
+]
+},
+{
+"name": "PMDX010516",
+"children": [{"name": "PXD010516", "size":}
+]
+},
+{
+"name": "PMDX010527",
+"children": [{"name": "PXD010527", "size":}
+]
+},
+{
+"name": "PMDX010538",
+"children": [{"name": "PXD010538", "size":}
+]
+},
+{
+"name": "PMDX010585",
+"children": [{"name": "PXD010585", "size":}
+]
+},
+{
+"name": "PMDX010586",
+"children": [{"name": "PXD010586", "size":}
+]
+},
+{
+"name": "PMDX010606",
+"children": [{"name": "PXD010606", "size":}
+]
+},
+{
+"name": "PMDX010632",
+"children": [{"name": "PXD010632", "size":}
+]
+},
+{
+"name": "PMDX010634",
+"children": [{"name": "PXD010634", "size":}
+]
+},
+{
+"name": "PMDX010750",
+"children": [{"name": "PXD010750", "size":}
+]
+},
+{
+"name": "PMDX010776",
+"children": [{"name": "PXD010776", "size":}
+]
+},
+{
+"name": "PMDX010783",
+"children": [{"name": "PXD010783", "size":}
+]
+},
+{
+"name": "PMDX010793",
+"children": [{"name": "PXD010793", "size":}
+]
+},
+{
+"name": "PMDX010821",
+"children": [{"name": "PXD010821", "size":}
+]
+},
+{
+"name": "PMDX010831",
+"children": [{"name": "PXD010831", "size":}
+]
+},
+{
+"name": "PMDX010870",
+"children": [{"name": "PXD010870", "size":}
+]
+},
+{
+"name": "PMDX010941",
+"children": [{
+"name": "PXD010941", "size":
+},
+{"name": "PXD010942", "size":}
+]
+},
+{
+"name": "PMDX011000",
+"children": [{"name": "PXD011000", "size":}
+]
+},
+{
+"name": "PMDX011009",
+"children": [{"name": "PXD011009", "size":}
+]
+},
+{
+"name": "PMDX011010",
+"children": [{"name": "PXD011010", "size":}
+]
+},
+{
+"name": "PMDX011033",
+"children": [{"name": "PXD011033", "size":}
+]
+},
+{
+"name": "PMDX011042",
+"children": [{"name": "PXD011042", "size":}
+]
+},
+{
+"name": "PMDX011058",
+"children": [{"name": "PXD011058", "size":}
+]
+},
+{
+"name": "PMDX011118",
+"children": [{"name": "PXD011118", "size":}
+]
+},
+{
+"name": "PMDX011152",
+"children": [{"name": "PXD011152", "size":}
+]
+},
+{
+"name": "PMDX011173",
+"children": [{"name": "PXD011173", "size":}
+]
+},
+{
+"name": "PMDX011183",
+"children": [{"name": "PXD011183", "size":}
+]
+},
+{
+"name": "PMDX011187",
+"children": [{"name": "PXD011187", "size":}
+]
+},
+{
+"name": "PMDX011204",
+"children": [{"name": "PXD011204", "size":}
+]
+},
+{
+"name": "PMDX011228",
+"children": [{"name": "PXD011228", "size":}
+]
+},
+{
+"name": "PMDX011239",
+"children": [{"name": "PXD011239", "size":}
+]
+},
+{
+"name": "PMDX011256",
+"children": [{"name": "PXD011256", "size":}
+]
+},
+{
+"name": "PMDX011301",
+"children": [{"name": "PXD011301", "size":}
+]
+},
+{
+"name": "PMDX011309",
+"children": [{"name": "PXD011309", "size":}
+]
+},
+{
+"name": "PMDX011492",
+"children": [{"name": "PXD011492", "size":}
+]
+},
+{
+"name": "PMDX011510",
+"children": [{"name": "PXD011510", "size":}
+]
+},
+{
+"name": "PMDX011609",
+"children": [{"name": "PXD011609", "size":}
+]
+}
+]
+}
