@@ -15,10 +15,9 @@ An unified resource for proteomics metadata
 # Web page
 
 # The Team
-- Rintu Kutum^*
+- Rintu Kutum^ (rintu.kutum@igib.in)
 - Saikat Bandyopadhyay
 - Shadma Nafis
-- Debasis Dash*
+- Dr. Debasis Dash (ddash@igib.in)
 
 ^ idea
-* correspondence (rintu.kutum@igib.in, ddash@igib.in)
