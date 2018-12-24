@@ -1,0 +1,193 @@
+<doctype html>
+<html lang="en">
+<head>
+<!-- meta tag -->
+<meta charset="UTF-8">
+<meta name="description" content="Free Web tutorials">
+<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+<meta name="author" content="ddlab, CSIR_IGIB, New Delhi">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--Bootstrap4 css--->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<!--- css library--->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+<link href="style/responsive.css" rel="stylesheet" type="text/css">
+<link href="style/magnific-popup.css" rel="stylesheet" type="text/css">
+<link href="style/animate.css" rel="stylesheet" type="text/css">
+<!-- js library--->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<!--ajax-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<!--bootstrap.min-->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<!--wow js -->
+<script src="js/wow.js"></script>
+<!--title--->
+<title>PrometaDB-about</title>
+<link rel="icon" href="assets/logo/ProMetaDB-logo.ico">
+<!--wow style--->
+<style> .wow{ opacity: 0; } </style>
+<!--wow init----->
+<script> function afterReveal( el ) { el.addEventListener('animationstart', function( event ) { $('.wow').each(function(){ $(this).css('opacity',1); }); }); } new WOW({ callback: afterReveal }).init() </script>
+<!--header end -->
+</head>
+<body>
+<!--header style --->
+<link rel="stylesheet" href="style/main.css">
+<!-- main js -->
+<script type="text/javascript" src="js/main.js"></script>
+<!-- topnav-->
+<nav class="main-nav-outer" id="test">
+		<!--main-nav-start-->
+		<div class="container">
+			<ul class="main-nav">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="about.html">About</a></li>
+				<li class="small-logo"><a href="index.html"><img style="max-height: 30px; max-width: 50px; width: auto; height: auto" src="assets/logo/prometadb-logo.png" alt=""></a></li>
+                <li><a href="metabase.html">Metabase</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+		</div>
+</nav>
+<!-- main nav end --->
+<!-- main section start(super container) -->
+<div class="super_container" id="super">
+
+<!-- main section genesis text --->
+<section class="main-section wow fadeInLeft delay-02s" id="genesis" style="width: 100%; top: 5px">
+<div class="container">
+			<h2 style="text-align: center">Genesis</h2>
+			<p style="text-align: justify; max-width: 100%; width: inherit; padding:25px; font-size: 22px; line-height: inherit">We are currently in the golden era of proteomics, where mass spectrometry (MS) based
+                proteomics datasets are publically available in many repositories. Meta-analysis of existing proteomics through proteogenomics approach shows great potential towards identifying novel proteins and peptides. In 2011, ProteomeXchange(PX) consortium has adopted a unified framework to enable rapid dissemination of proteomics datasets existing in different repositories (PRIDE, MassIVE, PeptideAtlas, jPOST and iProX). PX follows the Minimum Information About a Proteomics Experiment (MIAPE) guidelines for the metadata; it provides only minimal information such as the title, description, species, modification, instrument, keywords and links to the repository etc. Here, we present Proteomics Metadata DataBase (ProMetaDB), which contains additionally curated meta information (phenotypes, conditions/concentrations and their associated raw/processed files) for all existing proteomics studies [Figure 1]. We have retrieved all the existing metadata from PRIDE, MassIVE and PeptideAtlas, jPOST and iProx through our custom R-packages. We have re-annotated 195 MassIVE projects out of 2000 projects. Also, we have re-annotated human specific proteomics project based on our enriched metadata of PRIDE. We believe ProMetaDB will enable researchers to perform easy and rapid acquisition of existing datasets for discovering novel proteins/peptides in this golden era of proteomics.</p>
+    </div>
+
+</section>
+    
+<!-- main section features and workflow ---->
+
+<section class="main-section wow fadeInRight delay-01s" id="features">
+<div class="container">
+<!---feature list --->
+<h2 class="wow fadeIn delay-01s" style="text-align: center; top 5px;">Features</h2>
+<div class="row wow fadeInLeft delay-02s" style="padding: 20px">
+				<div class="col-lg-4 col-sm-6">
+					<div class="feature-list">
+						<div class="feature-list-col1">
+							<i class="fa fa-database"></i>
+						</div>
+						<div class="feature-list-col2">
+							<h3>Manually curated metadata</h3>
+							<p>Structured metadata for quick programmatic access to the promic data in the public repositiries.</p>
+						</div>
+					</div>
+					<div class="feature-list">
+						<div class="feature-list-col1">
+							<i class="fa fa-search"></i>
+						</div>
+						<div class="feature-list-col2">
+							<h3>Granular Query</h3>
+							<p>Enriched metadata promotes reuse of the existing datasets and enables discovery of novel proteoforms and peptides</p>
+						</div>
+					</div>
+					<div class="feature-list">
+						<div class="feature-list-col1">
+							<i class="fa fa-desktop"></i>
+						</div>
+						<div class="feature-list-col2">
+							<h3>R packages</h3>
+							<p>Simultaniously developed R packages helps to download large amount data from public repositories.</p>
+						</div>
+					</div>
+					<div class="feature-list">
+						<div class="feature-list-col1">
+							<i class="fa fa-file"></i>
+						</div>
+						<div class="feature-list-col2">
+							<h3>Downloadable Metadata</h3>
+							<p>Enables export of the available metadata in all the popular file formats.</p>
+						</div>
+					</div>
+				</div>
+    <!---feature list end----->
+    
+    <div class="col-lg-8 col-sm-6  text-right wow fadeInRight delay-03s" style="display: inline-block; padding:20px">
+    <!-- fig01--->
+    <img class="wow fadeIn delay-07s" style="max-width: 700px; max-height: 800; display: flex;justify-content: center;border-style:solid; padding: 10px; border-color: darkgrey " src="assets/img/Figure-01.png">
+    <!---fig01 legend--->
+    <span style="justify-content: center; display: flex; padding: 5px"><strong><em>Fig01-</em> Conceptual workflow of the PrometaDB.</strong></span>
+    <span style="text-align: justify; display: flex; justify-content: flex-start">In the first layer datasets are downloaded using the in-house developed R packages. The numbers of the available datasets (till-5/12/2018) in the databases are third layer. Next the number od datasets are compared with the available datasets in the ProteomeXchange consortium, and finally the available files are manually catagorized. The manually curated metadata is made available in prometaDB, which can be quaried progametticaly. </span>
+    </div>
+    
+    </div>
+    <div class="wow fadeIn delay-01s">
+    <!--- R packages-------->
+    <h4>R-packages</h4>
+    <!---- R package buttons---->
+    <div class="button_container wow fadeInRight delay-2s" style="display: flex; justify-content: center">
+    <a href="https://github.com/rintukutum/rpride" onclick="return popitup('https://github.com/rintukutum/rpride')"><img style="padding: 20px; width: 200px; display: inline-block" src="assets/logo/rpride-logo.svg"></a>
+    </div>
+    
+    </div>
+</div>
+</section>
+<!-- feature and workflow section end ---->
+    
+<!--- main section comparative network circle---->
+
+<section class="main-section wow fadeInRight delay-01s" id="genesis" style="width: 100%; top: 5px">
+<div class="container">
+<h2>Data organization in ProMetaDB</h2>
+<!--- d3 library ---->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.js"></script>
+
+<div class="row">
+<div class="col" style="padding: 20px">
+<!---animated nodes network------>
+<div class="wow fadeIn delay-02s" id="plot03" style="padding: 20px;display: flex;justify-content: center"></div>
+<!-----plot03 data ------>
+<script src="js/animated_nodes_network_data.js"></script>
+<!----plot03 script-------->
+<script type="text/javascript" src="js/animated_nodes_network.js"></script>
+<!----plot03 style---->
+<link rel="stylesheet" href="style/animated_node_net.css">
+</div>
+<h6><strong><em>Fig02-</em></strong>The forced directed network shows how different studies from ProteomeXchange has been groupped together. The groupping is based upon the published scientific articles mentioning the particular PX ids.</h6>
+</div>
+</div>
+
+</section>
+
+<!--- main section comparative network circle end---->
+		
+<!---  main section PX vs PrometaDB barchart----->
+    
+<section class="main-section wow fadeInLeft delay-3s" id="genesis" style="width: 100%; top: 5px">
+<div class="container">
+<h2>Data availability:ProMetaDB vs ProteomeXchange </h2>
+<!---plot library zing chart----->
+
+<!---zing chart library----->
+<script src="https://cdn.zingchart.com/zingchart.min.js"></script>
+
+<!---plot stylesheet---->
+<link rel="stylesheet" href="style/PrometaDB_vs_px_bar_style.css">
+<!--plot div --->
+<div id='myChart' class="wow fadeInRight delay-0.2s">
+<!---plotting script----->
+<script type="text/javascript" src="js/PX_vs_PMDB_bar.js"></script>
+
+</div>
+</div>
+
+</section>
+<!--barplot section end----->
+</div>
+    
+<!----footer----->
+<div class="footer">
+<div class="col">
+<h6 style="text-align: center; padding: 30px"> <strong><em>PrometaDB</em><br><em>An unified resource for proteomic data</em></strong><br>All rights reserved,2018.<br>CSIR Institute of Genomics ans Integrative biology <br><em>New Delhi, India</em></h6>
+</div>
+    </div>
+</body>
+</html>
